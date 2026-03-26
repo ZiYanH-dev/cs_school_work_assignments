@@ -1,0 +1,15 @@
+Please enter the input file path: Student with CGA = 3.2 and MCGA = 3.3 graduated with: Second Class Honors, Division I
+Student with CGA = 4.1 and MCGA = 4 graduated with: First Class Honors
+Student with CGA = 3.4 and MCGA = 3.4 graduated with: Second Class Honors, Division I
+Student with CGA = 3.6 and MCGA = 3.6 graduated with: First Class Honors
+Student with CGA = 0.5 and MCGA = 1 graduated with: None
+Statistics:
+Number of graduates: 4
+Number of graduates with First Class Honors: 2
+Number of graduates with Second Class Honors, Division I: 2
+Number of graduates with Second Class Honors, Division II: 0
+Number of graduates with Third Class Honors: 0
+Number of graduates with Pass: 0
+--------------------------------------------------------------------
+Average graduate CGA: 3.575
+Average graduate MCGA: 3.575

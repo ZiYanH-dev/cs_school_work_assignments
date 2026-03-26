@@ -1,0 +1,46 @@
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter the book title to view history: Book 'Java for Kids' does not exist in the library.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter the book title to view history: Borrowing history for 'The Great Gatsby':
+No borrowing history for this book.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter the book title to view history: Borrowing history for 'Linear Algebra Done Right':
+1. Tom
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Thank you for using the library system. Goodbye!

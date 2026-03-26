@@ -1,0 +1,99 @@
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter a keyword to search for: List only the available books? (Y/N) Search results:
+- The Great Gatsby by F. Scott Fitzgerald
+- To Kill a Mockingbird by Harper Lee
+- 1984 by George Orwell
+- Pride and Prejudice by Jane Austen
+- Moby Dick by Herman Melville
+- The Catcher in the Rye by J.D. Salinger
+- The Hobbit by J.R.R. Tolkien
+- Brave New World by Aldous Huxley
+- The Lord of the Rings by J.R.R. Tolkien
+- Fahrenheit 451 by Ray Bradbury
+- The Alchemist by Paulo Coelho
+- Crime and Punishment by Fyodor Dostoevsky
+- Linear Algebra Done Right by Sheldon Axler
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter a keyword to search for: List only the available books? (Y/N) Search results:
+- The Great Gatsby by F. Scott Fitzgerald
+- To Kill a Mockingbird by Harper Lee
+- 1984 by George Orwell
+- Pride and Prejudice by Jane Austen
+- Moby Dick by Herman Melville
+- The Catcher in the Rye by J.D. Salinger
+- The Hobbit by J.R.R. Tolkien
+- Brave New World by Aldous Huxley
+- The Lord of the Rings by J.R.R. Tolkien
+- Fahrenheit 451 by Ray Bradbury
+- The Alchemist by Paulo Coelho
+- Crime and Punishment by Fyodor Dostoevsky
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter a keyword to search for: List only the available books? (Y/N) Search results:
+- Pride and Prejudice by Jane Austen
+- The Lord of the Rings by J.R.R. Tolkien
+- Crime and Punishment by Fyodor Dostoevsky
+- Linear Algebra Done Right by Sheldon Axler
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter a keyword to search for: List only the available books? (Y/N) Search results:
+- Pride and Prejudice by Jane Austen
+- The Lord of the Rings by J.R.R. Tolkien
+- Crime and Punishment by Fyodor Dostoevsky
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter a keyword to search for: List only the available books? (Y/N) Search results:
+(No books found with the given keyword)
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Thank you for using the library system. Goodbye!

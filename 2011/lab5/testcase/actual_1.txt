@@ -1,0 +1,7 @@
+Please enter the grid of this map: 
+A A A A A 
+A A A A A 
+B B B C C 
+B B B C C 
+B B B C C 
+

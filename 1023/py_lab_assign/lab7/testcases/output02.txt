@@ -1,0 +1,88 @@
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter your username: Enter the book title to check out: Book 'The Great Gatsby' has been checked out to user 'Jenny'.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter your username: Enter the book title to check out: Book 'The Great Gatsby' is currently not available.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter your username: Enter the book title to check out: Book 'Python for Kids' does not exist in the library.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter your username: Enter the book title to return: Book 'Python for Kids' does not exist in the library.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter your username: Enter the book title to return: Book 'The Great Gatsby' is not checked out by user 'John'.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter your username: Enter the book title to return: Book 'The Great Gatsby' has been returned by user 'Jenny'.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter your username: Enter the book title to return: Book 'The Great Gatsby' is not currently checked out.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Thank you for using the library system. Goodbye!

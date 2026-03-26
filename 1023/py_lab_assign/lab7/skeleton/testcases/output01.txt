@@ -1,0 +1,66 @@
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter the book title: Enter the author name: Book 'The Silmarillion' added to the library.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter the book title: Enter the author name: Book 'The Silmarillion' already exists in the library.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter the book title to remove: Book 'The Silmarillion' has been removed from the library.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter the book title to remove: Book 'The Silmarillion' does not exist in the library.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Enter the book title to remove: Cannot remove 'Linear Algebra Done Right' as it is currently checked out.
+
+Welcome to the Simple Library Management System
+Please choose an option:
+1. Add a Book
+2. Remove a Book
+3. Check Out a Book
+4. Return a Book
+5. Search for Books
+6. View Borrowing History
+7. Exit
+Enter your choice (1-7): Thank you for using the library system. Goodbye!

@@ -1,0 +1,16 @@
+This system helps you predict the financial condition of the farm in the following 10 quarters~
+Please enter the number of chickens: 20
+Please enter the area growing corn: 50
+Please enter the capacity of a henhouse: 20
+Please enter the portion of chickens for sale when their number exceeds the henhouse capacity(e.g., for 60%, please enter 0.6): 0.7
+Q  Cons   CornBuy   CornSell  ChickSell  ChickLeft   BuyHouse  Cap   Rev       Exp       Bal       
+1  2.0    0.0       48.0      28         12          1         40    7600.0    1000.0    6600.0    
+2  1.2    0.0       48.8      0          24          1         60    4880.0    1000.0    10480.0   
+3  2.4    0.0       47.6      0          48          1         80    4760.0    1000.0    14240.0   
+4  4.8    0.0       45.2      67         29          1         100   11220.0   1000.0    24460.0   
+5  2.9    0.0       47.1      0          58          1         120   4710.0    1000.0    28170.0   
+6  5.8    0.0       44.2      0          116         1         140   4420.0    1000.0    31590.0   
+7  11.6   0.0       38.4      162        70          1         160   20040.0   1000.0    50630.0   
+8  7.0    0.0       43.0      0          140         1         180   4300.0    1000.0    53930.0   
+9  14.0   0.0       36.0      196        84          1         200   23200.0   1000.0    76130.0   
+10 8.4    0.0       41.6      0          168         1         220   4160.0    1000.0    79290.0   

@@ -1,0 +1,34 @@
+=================================================================
+UST Course Planner - CLI Interface
+=================================================================
+--- Current Weekly Schedule ---
+Mon: ['---', '---', '---', '---']
+Tue: ['---', '---', '---', '---']
+Wed: ['---', '---', '---', '---']
+Thu: ['---', '---', '---', '---']
+Fri: ['---', '---', '---', '---']
+
+Welcome to the UST Course Planner
+Please choose an option:
+1. Add a Course to Schedule (1-2 slots)
+2. Drop a Course from Schedule
+3. View a Slice of the Week
+4. Exit
+--- Add a Course ---
+For slot #1:
+For slot #2:
+Success: Course 'COMP1023' added to the schedule.
+--- Current Weekly Schedule ---
+Mon: ['---', 'COMP1023', '---', '---']
+Tue: ['---', '---', '---', '---']
+Wed: ['---', '---', '---', 'COMP1023']
+Thu: ['---', '---', '---', '---']
+Fri: ['---', '---', '---', '---']
+
+Welcome to the UST Course Planner
+Please choose an option:
+1. Add a Course to Schedule (1-2 slots)
+2. Drop a Course from Schedule
+3. View a Slice of the Week
+4. Exit
+Thank you for using the course planner. Goodbye!

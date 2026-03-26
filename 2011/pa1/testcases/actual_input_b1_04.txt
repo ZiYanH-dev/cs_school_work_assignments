@@ -1,0 +1,2 @@
+Welcome to the Lights Out Game!
+Enter the path of the board file: Error: Can not open boards/board1.txt

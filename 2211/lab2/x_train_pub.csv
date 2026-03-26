@@ -1,0 +1,4052 @@
+Gender,Marital_Status,Income_Category,Customer_Age,Credit_Limit,Total_Revolving_Bal
+F,Single,Unknown,51,8365.0,1504
+F,Single,Less than $40K,56,2846.0,0
+F,Single,Less than $40K,49,7789.0,957
+F,Single,Less than $40K,44,1438.3,170
+F,Married,Unknown,48,2220.0,0
+M,Married,$120K +,48,6626.0,1558
+F,Married,Unknown,46,5547.0,0
+F,Divorced,Less than $40K,37,1734.0,987
+F,Married,Less than $40K,41,2934.0,933
+M,Married,$120K +,44,14527.0,2070
+F,Single,Less than $40K,48,2646.0,872
+M,Single,$80K - $120K,47,8185.0,1556
+M,Single,$40K - $60K,46,6340.0,1985
+M,Single,$80K - $120K,62,5711.0,0
+F,Single,Less than $40K,46,2258.0,1600
+F,Divorced,Less than $40K,43,2086.0,2007
+F,Married,$40K - $60K,44,3256.0,1013
+M,Married,$60K - $80K,50,14854.0,2136
+M,Divorced,$120K +,49,7184.0,1207
+M,Unknown,$40K - $60K,48,6541.0,1119
+M,Single,$40K - $60K,62,9065.0,641
+M,Single,$40K - $60K,54,3682.0,2517
+F,Married,Less than $40K,56,1438.3,0
+F,Married,Unknown,46,2286.0,0
+M,Single,$80K - $120K,57,12663.0,1028
+F,Single,Less than $40K,48,1438.3,816
+F,Single,Less than $40K,39,1438.3,668
+F,Married,Unknown,45,5056.0,0
+F,Single,Less than $40K,53,1438.3,0
+M,Married,$120K +,26,30928.0,2005
+M,Married,$80K - $120K,40,1804.0,1040
+M,Married,$80K - $120K,43,1669.0,0
+F,Divorced,Unknown,33,9725.0,0
+M,Single,$60K - $80K,45,21696.0,1036
+F,Married,Less than $40K,49,2992.0,1845
+F,Single,Less than $40K,38,1934.0,985
+M,Married,$120K +,43,34516.0,830
+F,Single,Less than $40K,42,1734.0,0
+F,Single,Less than $40K,42,1438.3,838
+F,Married,Less than $40K,39,1438.3,886
+M,Single,$40K - $60K,48,9673.0,0
+F,Single,$40K - $60K,56,3609.0,1026
+F,Single,Less than $40K,39,1438.3,576
+M,Single,$40K - $60K,39,6423.0,0
+F,Married,$40K - $60K,48,14899.0,0
+F,Married,$40K - $60K,52,3224.0,2111
+F,Married,Less than $40K,44,4135.0,1606
+M,Married,$60K - $80K,44,4969.0,1187
+F,Single,$40K - $60K,41,8376.0,1219
+M,Single,$80K - $120K,44,3454.0,2065
+M,Married,$80K - $120K,42,25944.0,1987
+M,Married,$60K - $80K,49,1438.3,535
+F,Single,Less than $40K,38,1556.0,0
+M,Married,$60K - $80K,57,8701.0,215
+M,Single,$40K - $60K,33,5600.0,2517
+F,Unknown,Less than $40K,45,2900.0,2018
+F,Married,$40K - $60K,61,4906.0,2185
+F,Single,Less than $40K,41,2687.0,1317
+F,Divorced,$40K - $60K,40,4464.0,1418
+F,Single,$40K - $60K,51,1438.3,869
+F,Married,Less than $40K,34,2221.0,1814
+M,Married,$60K - $80K,42,2966.0,2371
+F,Married,$40K - $60K,38,1593.0,1091
+F,Single,Less than $40K,41,2450.0,1490
+F,Divorced,Less than $40K,53,1529.0,563
+F,Single,$40K - $60K,45,6274.0,883
+F,Single,Less than $40K,43,1438.3,0
+F,Married,Less than $40K,41,2134.0,1085
+M,Married,$80K - $120K,50,17158.0,1211
+F,Married,$40K - $60K,51,3359.0,873
+M,Married,$80K - $120K,47,11997.0,1424
+F,Married,Less than $40K,41,3302.0,1980
+F,Single,$40K - $60K,55,2687.0,1689
+F,Married,Less than $40K,53,1438.3,0
+F,Married,Less than $40K,46,1801.0,316
+M,Single,$60K - $80K,53,4573.0,2076
+F,Married,Less than $40K,48,2860.0,2517
+F,Married,$40K - $60K,46,13387.0,0
+F,Single,Less than $40K,46,2283.0,1020
+F,Married,Less than $40K,47,2033.0,228
+F,Married,$40K - $60K,49,2506.0,1549
+F,Single,Less than $40K,47,1438.3,735
+M,Unknown,$80K - $120K,42,2447.0,2195
+F,Single,Less than $40K,54,1438.3,814
+M,Married,$80K - $120K,41,10873.0,1514
+F,Married,$40K - $60K,39,7596.0,2199
+F,Married,Less than $40K,54,2921.0,2412
+F,Single,$40K - $60K,42,10136.0,0
+F,Married,Less than $40K,52,2187.0,1094
+F,Single,Less than $40K,60,3302.0,2517
+M,Divorced,$80K - $120K,40,30997.0,2330
+F,Single,Less than $40K,48,2578.0,2424
+F,Married,Less than $40K,51,1438.3,0
+M,Single,$80K - $120K,48,3034.0,468
+F,Single,Less than $40K,46,1438.3,0
+F,Single,Unknown,50,2611.0,1824
+F,Married,$40K - $60K,54,2222.0,1398
+F,Divorced,Less than $40K,37,3328.0,2517
+F,Married,Less than $40K,43,2440.0,1002
+F,Single,Unknown,54,9723.0,1307
+F,Single,Less than $40K,60,2346.0,2150
+M,Married,$60K - $80K,51,26142.0,0
+F,Single,Unknown,39,12405.0,0
+M,Single,$80K - $120K,47,17655.0,0
+F,Married,Less than $40K,51,4941.0,786
+F,Divorced,Less than $40K,30,1644.0,0
+F,Single,Unknown,34,3095.0,2010
+F,Unknown,Less than $40K,60,3828.0,0
+F,Single,Less than $40K,49,2182.0,1722
+M,Single,$60K - $80K,51,13906.0,1430
+M,Married,$80K - $120K,50,10588.0,994
+F,Single,Less than $40K,32,2973.0,2446
+F,Married,Unknown,50,4045.0,0
+M,Married,$80K - $120K,40,2165.0,1465
+F,Married,Less than $40K,34,5845.0,0
+M,Single,$120K +,50,15341.0,1016
+M,Married,$60K - $80K,45,3035.0,1498
+F,Single,Unknown,45,1986.0,1042
+F,Married,Less than $40K,45,4602.0,1517
+F,Single,Less than $40K,43,2689.0,2384
+M,Single,$40K - $60K,65,9383.0,829
+F,Single,Less than $40K,47,1438.3,780
+F,Single,Less than $40K,42,1443.0,0
+F,Single,Less than $40K,51,2847.0,2082
+M,Single,$80K - $120K,44,15638.0,1729
+M,Married,$120K +,43,10700.0,1346
+F,Single,Less than $40K,44,1438.3,0
+F,Married,$40K - $60K,50,1694.0,479
+F,Divorced,Unknown,53,7939.0,0
+F,Single,Less than $40K,42,2555.0,1587
+F,Single,Less than $40K,55,2850.0,2517
+M,Single,$60K - $80K,59,8973.0,1300
+F,Single,$40K - $60K,58,6960.0,1536
+F,Married,Less than $40K,60,4167.0,0
+F,Married,Unknown,49,5099.0,1178
+F,Divorced,Unknown,42,2782.0,1782
+F,Married,Less than $40K,44,1480.0,1017
+M,Single,$80K - $120K,56,5070.0,0
+M,Single,$80K - $120K,52,2757.0,1425
+M,Married,$80K - $120K,54,5774.0,1519
+M,Married,$60K - $80K,55,6054.0,1103
+M,Single,$60K - $80K,57,19090.0,0
+F,Married,Less than $40K,43,2069.0,839
+F,Married,Less than $40K,47,2447.0,1973
+F,Married,Less than $40K,56,3022.0,1627
+F,Married,Less than $40K,44,4473.0,0
+F,Unknown,Less than $40K,54,5267.0,0
+M,Single,$80K - $120K,37,7199.0,1274
+F,Married,Less than $40K,49,1438.3,0
+F,Single,Less than $40K,51,3245.0,0
+F,Single,$40K - $60K,47,3888.0,2517
+F,Married,Unknown,45,14728.0,0
+F,Single,$40K - $60K,38,1438.3,0
+M,Single,$40K - $60K,48,11272.0,1744
+F,Unknown,Less than $40K,49,2705.0,1681
+M,Married,$80K - $120K,41,12270.0,0
+F,Single,Less than $40K,54,3006.0,633
+M,Single,$80K - $120K,39,7901.0,1184
+M,Single,$80K - $120K,38,5983.0,1885
+M,Single,$40K - $60K,64,7362.0,1907
+M,Single,$80K - $120K,55,3046.0,2415
+M,Married,$120K +,50,34516.0,1871
+F,Married,Unknown,55,12972.0,1424
+F,Single,Unknown,44,17785.0,1259
+M,Single,$120K +,55,3029.0,1505
+M,Divorced,Unknown,58,9097.0,1656
+F,Single,Less than $40K,51,1438.3,0
+M,Unknown,$80K - $120K,58,2375.0,1163
+F,Unknown,Less than $40K,47,8109.0,0
+F,Single,$40K - $60K,53,2618.0,2026
+F,Married,Unknown,42,3549.0,0
+M,Single,Less than $40K,45,2718.0,1474
+F,Married,Less than $40K,60,2230.0,1796
+F,Single,Less than $40K,42,3802.0,1300
+F,Married,Less than $40K,55,2736.0,993
+F,Married,Less than $40K,51,2258.0,1250
+F,Married,Less than $40K,51,1438.3,0
+M,Single,Less than $40K,65,2954.0,2517
+M,Married,$80K - $120K,50,11882.0,1472
+F,Married,Less than $40K,49,1438.3,0
+F,Single,Less than $40K,38,1438.3,538
+F,Single,Less than $40K,54,2778.0,743
+F,Married,Less than $40K,54,2474.0,1539
+F,Single,$40K - $60K,54,5632.0,1596
+F,Single,Unknown,49,11025.0,0
+F,Single,Less than $40K,43,2642.0,2377
+M,Married,$80K - $120K,43,30357.0,1255
+F,Divorced,Less than $40K,57,2201.0,1420
+F,Married,Less than $40K,46,2002.0,0
+F,Unknown,Unknown,43,8777.0,2517
+F,Single,Less than $40K,53,2575.0,411
+F,Single,$40K - $60K,43,5182.0,1607
+M,Married,$60K - $80K,49,3783.0,0
+M,Married,$120K +,51,34516.0,0
+F,Unknown,Less than $40K,46,1515.0,0
+F,Married,Less than $40K,56,2865.0,2022
+F,Single,$40K - $60K,46,2711.0,0
+F,Single,Less than $40K,54,2341.0,1550
+M,Single,$80K - $120K,51,13287.0,1864
+F,Married,Less than $40K,33,1438.3,0
+M,Unknown,$40K - $60K,41,1639.0,0
+M,Married,$60K - $80K,55,5668.0,2517
+M,Single,$120K +,55,24542.0,2354
+F,Married,Less than $40K,41,1959.0,1268
+F,Single,Less than $40K,50,1838.0,0
+F,Unknown,Less than $40K,36,3111.0,2517
+F,Single,Less than $40K,39,3927.0,720
+F,Married,Less than $40K,38,4345.0,838
+F,Unknown,Less than $40K,46,3003.0,1454
+F,Single,Less than $40K,40,1438.3,544
+M,Single,$60K - $80K,58,2541.0,1053
+F,Single,Less than $40K,43,2422.0,1014
+F,Single,Less than $40K,56,1440.0,1211
+M,Single,$80K - $120K,58,26108.0,1146
+F,Single,Less than $40K,29,2516.0,2312
+F,Divorced,$40K - $60K,48,3646.0,1047
+F,Single,$40K - $60K,61,2214.0,2123
+M,Single,$80K - $120K,51,11862.0,0
+F,Married,Unknown,44,8729.0,1427
+F,Single,Unknown,35,2423.0,0
+F,Divorced,Less than $40K,48,4073.0,2517
+M,Married,Less than $40K,26,9916.0,0
+F,Married,Less than $40K,39,1438.3,949
+M,Married,$80K - $120K,38,6452.0,1151
+F,Single,Less than $40K,51,1952.0,1411
+F,Married,Less than $40K,37,1438.3,647
+F,Single,Unknown,53,4500.0,0
+F,Single,Less than $40K,53,2252.0,1811
+F,Single,Less than $40K,39,2370.0,2031
+F,Single,$40K - $60K,56,2610.0,1988
+F,Married,Less than $40K,52,2294.0,1787
+F,Divorced,Unknown,51,5062.0,1659
+F,Married,Less than $40K,43,2415.0,1452
+F,Single,Less than $40K,51,2918.0,2049
+F,Single,Less than $40K,53,2708.0,2271
+F,Married,Less than $40K,54,3666.0,1739
+F,Married,$40K - $60K,36,1438.3,0
+F,Married,Less than $40K,53,1438.3,0
+F,Divorced,Unknown,39,2809.0,0
+M,Married,$80K - $120K,46,26303.0,2376
+M,Single,$80K - $120K,56,15982.0,0
+F,Married,Unknown,40,25060.0,0
+F,Single,$40K - $60K,42,1545.0,751
+F,Single,Less than $40K,43,1438.3,604
+M,Unknown,$60K - $80K,43,4112.0,1128
+F,Married,Less than $40K,47,1451.0,0
+F,Single,Unknown,49,16424.0,1368
+F,Married,Less than $40K,48,2340.0,1680
+F,Married,Less than $40K,47,1926.0,879
+M,Married,$40K - $60K,48,2954.0,931
+F,Married,$40K - $60K,36,1848.0,0
+F,Married,Unknown,47,1634.0,1463
+F,Single,Less than $40K,49,4328.0,2058
+F,Married,Less than $40K,51,2943.0,2131
+F,Married,Less than $40K,54,2611.0,1573
+F,Single,Less than $40K,43,2419.0,0
+F,Married,$40K - $60K,49,5481.0,0
+F,Single,Less than $40K,40,2129.0,1507
+M,Married,$60K - $80K,40,9026.0,2312
+M,Unknown,$40K - $60K,48,1761.0,1249
+M,Married,Less than $40K,60,3316.0,0
+F,Single,Unknown,50,1970.0,1477
+F,Married,Less than $40K,46,1438.3,0
+F,Married,Unknown,35,2278.0,1303
+M,Single,$40K - $60K,65,13364.0,1318
+M,Single,$60K - $80K,52,2801.0,2467
+M,Single,Unknown,44,28292.0,0
+F,Married,Less than $40K,35,2933.0,1011
+M,Married,$80K - $120K,45,21630.0,0
+F,Married,Less than $40K,56,3132.0,2230
+F,Married,$40K - $60K,50,2961.0,2048
+F,Married,Unknown,52,4173.0,1771
+F,Single,Unknown,37,2458.0,642
+M,Married,$60K - $80K,44,12229.0,997
+F,Married,Less than $40K,35,2272.0,604
+M,Married,$120K +,42,6953.0,1445
+F,Married,$40K - $60K,48,1792.0,933
+F,Single,Less than $40K,47,2765.0,901
+F,Married,Less than $40K,43,2895.0,0
+F,Single,Less than $40K,39,6904.0,1148
+M,Married,$40K - $60K,39,2220.0,0
+F,Married,Less than $40K,48,1495.0,0
+F,Married,Less than $40K,42,2541.0,1398
+F,Single,Unknown,34,7531.0,0
+F,Unknown,Unknown,47,8644.0,1391
+F,Single,$40K - $60K,43,1531.0,0
+F,Married,Less than $40K,50,2884.0,2104
+F,Single,Unknown,55,10241.0,1545
+F,Single,$40K - $60K,50,4182.0,0
+F,Single,Less than $40K,44,3101.0,0
+F,Single,Less than $40K,54,4542.0,1355
+F,Single,Less than $40K,40,3372.0,2517
+M,Divorced,$60K - $80K,40,3099.0,0
+F,Divorced,Unknown,41,2416.0,1305
+F,Married,Less than $40K,52,5299.0,578
+F,Single,Less than $40K,41,2138.0,1283
+F,Married,Less than $40K,47,1850.0,896
+F,Unknown,$40K - $60K,53,3585.0,0
+F,Married,$40K - $60K,48,2690.0,1903
+M,Unknown,$80K - $120K,62,29100.0,1228
+M,Single,$40K - $60K,59,2699.0,2422
+M,Married,$80K - $120K,41,8376.0,1165
+M,Single,$40K - $60K,50,13509.0,2060
+F,Married,Less than $40K,38,2396.0,2217
+M,Married,$80K - $120K,50,18964.0,2207
+F,Married,Less than $40K,40,2114.0,1618
+F,Single,Less than $40K,39,1623.0,729
+F,Divorced,Less than $40K,40,2579.0,1959
+M,Single,$60K - $80K,41,5045.0,2080
+F,Married,Less than $40K,35,2089.0,0
+F,Married,$40K - $60K,48,2866.0,921
+M,Married,$80K - $120K,49,9738.0,1835
+M,Married,$60K - $80K,55,4370.0,0
+M,Single,$80K - $120K,58,3355.0,1878
+F,Single,$40K - $60K,43,5070.0,0
+F,Married,Less than $40K,35,2572.0,1161
+F,Single,Less than $40K,40,2016.0,978
+F,Unknown,Less than $40K,55,3552.0,2517
+F,Single,Less than $40K,43,2325.0,238
+F,Unknown,Less than $40K,46,2533.0,2136
+F,Single,$40K - $60K,48,3871.0,2055
+F,Single,Less than $40K,32,3983.0,431
+F,Married,Unknown,61,2035.0,1883
+F,Single,Less than $40K,53,1773.0,1539
+F,Divorced,Less than $40K,42,2029.0,1377
+M,Single,$120K +,45,15490.0,0
+F,Single,$40K - $60K,56,2941.0,1619
+F,Unknown,Less than $40K,42,2314.0,1547
+F,Single,Less than $40K,40,4212.0,2517
+M,Married,$80K - $120K,57,6248.0,1493
+M,Divorced,$40K - $60K,40,2430.0,974
+M,Single,$80K - $120K,48,5543.0,1372
+F,Married,$40K - $60K,42,2470.0,2013
+F,Single,$40K - $60K,49,3255.0,603
+F,Married,$40K - $60K,44,1691.0,1327
+M,Unknown,$60K - $80K,43,18229.0,0
+F,Single,Unknown,48,2827.0,1182
+F,Divorced,Less than $40K,43,2351.0,2127
+F,Married,Less than $40K,45,4202.0,2201
+F,Married,Less than $40K,40,4712.0,0
+M,Single,$80K - $120K,53,2611.0,787
+F,Single,Less than $40K,38,3206.0,2459
+F,Single,Less than $40K,39,5245.0,802
+M,Married,$60K - $80K,39,2583.0,0
+F,Unknown,Unknown,59,1438.3,755
+M,Married,$120K +,40,7464.0,2517
+F,Married,Unknown,54,4928.0,1805
+F,Divorced,Less than $40K,46,9863.0,686
+F,Unknown,Less than $40K,44,5024.0,2209
+F,Single,Less than $40K,44,1438.3,0
+F,Married,$40K - $60K,44,1452.0,0
+F,Married,Unknown,50,3317.0,1041
+F,Single,Less than $40K,39,1438.3,811
+F,Single,Less than $40K,37,2448.0,1740
+F,Single,Less than $40K,49,1546.0,0
+F,Single,$40K - $60K,36,2013.0,0
+F,Married,$40K - $60K,53,2293.0,1460
+M,Single,$60K - $80K,52,1438.3,512
+F,Married,Less than $40K,53,2819.0,0
+M,Single,$60K - $80K,37,1702.0,1018
+F,Married,$40K - $60K,52,1611.0,938
+F,Married,$40K - $60K,49,1438.3,0
+F,Single,Less than $40K,39,2863.0,1940
+F,Married,$40K - $60K,39,3272.0,2323
+F,Single,Less than $40K,42,2677.0,2517
+F,Married,Less than $40K,40,2708.0,0
+F,Single,Less than $40K,41,1738.0,0
+F,Unknown,$40K - $60K,46,6145.0,1349
+F,Married,Less than $40K,45,1640.0,999
+F,Single,Unknown,38,2348.0,1028
+F,Married,Less than $40K,53,1657.0,0
+F,Married,Unknown,37,4554.0,780
+M,Unknown,$120K +,52,5119.0,1972
+F,Single,Unknown,39,10600.0,598
+M,Unknown,$80K - $120K,49,20769.0,901
+M,Married,$120K +,50,7116.0,981
+F,Single,Unknown,51,2420.0,2379
+F,Single,Less than $40K,54,2082.0,805
+F,Unknown,Less than $40K,44,2718.0,1718
+M,Single,$60K - $80K,50,5626.0,778
+F,Divorced,$40K - $60K,49,2920.0,0
+M,Married,$80K - $120K,59,6526.0,489
+F,Single,$40K - $60K,37,1793.0,792
+F,Single,Less than $40K,47,2798.0,1963
+F,Divorced,Less than $40K,52,2427.0,1581
+F,Married,$40K - $60K,55,3011.0,2138
+F,Married,Unknown,41,2255.0,1769
+F,Single,Unknown,40,6479.0,0
+F,Divorced,Less than $40K,41,7492.0,1399
+F,Married,Less than $40K,48,3632.0,1294
+F,Single,Less than $40K,38,1744.0,0
+F,Married,Unknown,52,5905.0,2248
+F,Single,$40K - $60K,37,2573.0,1280
+M,Married,$80K - $120K,45,9654.0,2035
+M,Unknown,$40K - $60K,41,1605.0,0
+F,Single,Less than $40K,49,10195.0,2389
+M,Single,$60K - $80K,49,34516.0,1255
+M,Single,$60K - $80K,43,10573.0,0
+F,Single,Less than $40K,47,1789.0,1088
+F,Single,Unknown,26,7595.0,1032
+M,Single,$40K - $60K,51,3272.0,1896
+F,Single,Less than $40K,33,2382.0,1565
+M,Married,$80K - $120K,52,1981.0,1448
+M,Single,$120K +,51,22294.0,0
+F,Married,Less than $40K,49,2574.0,1555
+F,Single,Less than $40K,30,2112.0,1109
+F,Single,Less than $40K,65,5441.0,812
+F,Married,$40K - $60K,43,4391.0,0
+F,Single,Less than $40K,42,3044.0,1865
+M,Married,$40K - $60K,57,2721.0,2159
+F,Single,$40K - $60K,62,4467.0,0
+M,Single,$80K - $120K,48,5033.0,0
+F,Unknown,Less than $40K,61,8604.0,1075
+F,Single,Less than $40K,43,2325.0,1662
+F,Single,Less than $40K,60,2758.0,1429
+M,Married,$80K - $120K,45,9705.0,850
+F,Married,Less than $40K,41,2685.0,1647
+F,Single,Less than $40K,60,2694.0,1923
+F,Single,$40K - $60K,40,1554.0,412
+F,Single,Less than $40K,63,1438.3,0
+F,Single,$40K - $60K,42,1786.0,1316
+M,Divorced,$60K - $80K,48,2648.0,0
+M,Single,$40K - $60K,44,2477.0,2123
+F,Married,Unknown,51,7336.0,1031
+M,Single,$80K - $120K,42,34516.0,1396
+F,Married,Less than $40K,46,2479.0,1759
+F,Single,Unknown,42,9396.0,1870
+F,Unknown,Less than $40K,44,2561.0,1491
+F,Married,Less than $40K,43,4020.0,0
+M,Married,$60K - $80K,43,25856.0,1281
+F,Single,Less than $40K,50,7398.0,1581
+M,Single,$80K - $120K,51,34516.0,1802
+F,Single,Unknown,52,4058.0,1349
+F,Married,Less than $40K,51,3042.0,0
+F,Single,Less than $40K,60,2688.0,1617
+F,Married,Unknown,38,3388.0,0
+F,Single,$40K - $60K,43,4902.0,2517
+F,Married,Unknown,45,3241.0,0
+F,Married,$40K - $60K,48,5069.0,1843
+M,Divorced,$80K - $120K,43,13625.0,0
+M,Single,$60K - $80K,46,8766.0,0
+M,Single,$40K - $60K,50,2800.0,1338
+F,Single,Unknown,34,9005.0,1994
+M,Married,$60K - $80K,56,2713.0,1990
+F,Single,Less than $40K,53,1438.3,0
+F,Single,$40K - $60K,47,1746.0,0
+M,Single,$80K - $120K,49,2930.0,1901
+F,Married,Less than $40K,47,2178.0,1455
+F,Married,Unknown,35,1438.3,0
+F,Married,Less than $40K,42,2021.0,1281
+F,Single,Less than $40K,52,1842.0,625
+M,Single,$120K +,49,18284.0,1144
+M,Married,$80K - $120K,41,34516.0,1642
+F,Single,Less than $40K,42,1696.0,0
+M,Unknown,$60K - $80K,52,7215.0,0
+F,Married,Less than $40K,52,1793.0,1284
+F,Married,$40K - $60K,52,5731.0,0
+F,Married,Less than $40K,44,2417.0,0
+F,Single,$40K - $60K,48,1438.3,0
+M,Single,$60K - $80K,51,21800.0,893
+F,Married,Less than $40K,53,1547.0,0
+F,Married,Less than $40K,46,1485.0,736
+M,Married,$40K - $60K,44,2505.0,2282
+F,Unknown,$40K - $60K,49,2631.0,1699
+F,Unknown,Less than $40K,48,2700.0,2480
+M,Single,$60K - $80K,48,3307.0,2234
+F,Divorced,Unknown,38,29638.0,857
+F,Single,Less than $40K,34,2066.0,347
+F,Single,Less than $40K,46,1859.0,1379
+M,Single,$60K - $80K,45,13362.0,0
+F,Single,Less than $40K,33,2431.0,1846
+F,Divorced,$40K - $60K,43,6034.0,1579
+F,Married,Less than $40K,61,2194.0,1512
+F,Single,$40K - $60K,47,1963.0,1524
+F,Unknown,Unknown,41,1438.3,1125
+F,Married,Less than $40K,45,2922.0,1212
+M,Single,$40K - $60K,50,6943.0,600
+M,Single,$120K +,57,34516.0,219
+F,Single,Unknown,45,4345.0,2198
+F,Divorced,Less than $40K,50,4248.0,316
+F,Married,Less than $40K,51,1438.3,0
+F,Divorced,Less than $40K,53,2383.0,1516
+F,Married,Less than $40K,55,1677.0,0
+F,Married,Unknown,40,2392.0,1129
+F,Married,Less than $40K,52,3474.0,0
+M,Married,$60K - $80K,48,8737.0,1629
+F,Single,Unknown,44,3517.0,0
+F,Single,Unknown,60,13397.0,0
+F,Single,Less than $40K,65,6352.0,1386
+F,Single,Less than $40K,46,1787.0,1324
+M,Single,$60K - $80K,62,18734.0,0
+F,Married,Less than $40K,47,1438.3,0
+M,Divorced,$40K - $60K,50,3525.0,0
+M,Unknown,$60K - $80K,43,2067.0,1250
+F,Married,Less than $40K,45,2051.0,0
+M,Single,$120K +,46,27378.0,1893
+F,Married,Less than $40K,38,1614.0,0
+M,Single,Less than $40K,49,7862.0,1991
+M,Married,$60K - $80K,47,4284.0,1900
+F,Married,Less than $40K,47,1438.3,0
+F,Divorced,Less than $40K,55,1438.3,680
+M,Single,$60K - $80K,62,21805.0,1777
+M,Single,$60K - $80K,55,4712.0,1920
+M,Married,$60K - $80K,33,1698.0,0
+F,Single,$40K - $60K,41,2264.0,928
+F,Married,Less than $40K,54,2720.0,1694
+M,Unknown,$120K +,55,15631.0,1305
+F,Single,$40K - $60K,43,2594.0,1686
+M,Married,$80K - $120K,52,15011.0,2517
+F,Single,Less than $40K,47,1548.0,0
+F,Single,Less than $40K,52,2700.0,1623
+F,Married,$40K - $60K,45,2919.0,1670
+F,Single,Unknown,50,10721.0,0
+M,Single,$40K - $60K,44,6125.0,1329
+F,Married,Less than $40K,42,3200.0,1733
+F,Divorced,Unknown,53,12286.0,997
+M,Married,$80K - $120K,51,21543.0,0
+M,Married,$120K +,52,6355.0,0
+F,Married,Less than $40K,52,5616.0,2410
+F,Married,$40K - $60K,50,2661.0,1575
+M,Married,$60K - $80K,38,2836.0,862
+F,Married,$40K - $60K,50,1438.3,0
+F,Single,Unknown,51,2109.0,683
+M,Single,$60K - $80K,48,14951.0,1413
+M,Married,$60K - $80K,47,1591.0,894
+F,Divorced,Unknown,51,8930.0,2517
+F,Single,Unknown,36,4685.0,1626
+F,Married,Unknown,45,2555.0,681
+F,Single,Less than $40K,53,2172.0,644
+F,Married,Unknown,54,2912.0,0
+F,Married,Less than $40K,53,3390.0,2180
+F,Single,Less than $40K,47,2193.0,1084
+F,Married,Unknown,51,17412.0,730
+F,Single,Less than $40K,40,2801.0,1731
+M,Single,$60K - $80K,43,11186.0,2231
+F,Single,Less than $40K,50,2434.0,1340
+F,Single,Unknown,53,1790.0,1474
+F,Single,Less than $40K,59,2716.0,1740
+F,Single,Unknown,49,2874.0,0
+F,Married,$40K - $60K,47,1438.3,0
+M,Single,$60K - $80K,56,18776.0,0
+F,Married,Unknown,48,1438.3,1197
+M,Divorced,$80K - $120K,55,19793.0,2488
+F,Single,$40K - $60K,34,2472.0,1899
+F,Married,Unknown,58,12362.0,0
+F,Married,$40K - $60K,39,1438.3,722
+F,Married,Less than $40K,47,3189.0,1863
+F,Single,Less than $40K,47,2092.0,1575
+F,Married,$40K - $60K,37,2946.0,2517
+F,Unknown,$40K - $60K,41,2430.0,0
+F,Married,Less than $40K,50,4143.0,1888
+F,Unknown,Unknown,46,2197.0,461
+F,Single,Unknown,53,9314.0,1761
+F,Married,Less than $40K,53,3719.0,2517
+F,Married,Unknown,59,6996.0,0
+M,Single,Unknown,63,7306.0,0
+F,Divorced,Less than $40K,41,2029.0,621
+F,Married,Less than $40K,51,13199.0,781
+F,Married,Less than $40K,38,3304.0,1338
+F,Married,Less than $40K,40,3125.0,2041
+F,Single,Less than $40K,51,1438.3,1153
+M,Single,$80K - $120K,41,2491.0,1979
+F,Single,Less than $40K,58,1977.0,0
+F,Single,Less than $40K,33,1806.0,0
+F,Single,Less than $40K,38,1938.0,1175
+F,Married,Less than $40K,42,3188.0,2002
+F,Single,Less than $40K,44,2288.0,1505
+F,Unknown,Less than $40K,44,1780.0,1338
+F,Married,Unknown,47,2373.0,1480
+M,Married,$80K - $120K,41,23250.0,0
+M,Single,$120K +,47,34516.0,0
+M,Married,$80K - $120K,48,12882.0,1402
+M,Married,$60K - $80K,54,6348.0,798
+F,Unknown,Less than $40K,59,2621.0,2486
+F,Unknown,$40K - $60K,33,1843.0,1293
+F,Single,Less than $40K,44,3228.0,0
+F,Single,$40K - $60K,43,2303.0,722
+M,Single,$80K - $120K,42,29195.0,892
+F,Married,$40K - $60K,41,2990.0,1828
+F,Single,$40K - $60K,55,2873.0,2455
+M,Married,$80K - $120K,50,28253.0,0
+F,Married,Unknown,53,1882.0,0
+M,Married,$80K - $120K,33,1630.0,0
+M,Single,$80K - $120K,51,4546.0,0
+F,Single,Unknown,58,2395.0,1345
+M,Unknown,$80K - $120K,45,3845.0,0
+F,Single,Less than $40K,56,2836.0,1362
+F,Single,Less than $40K,44,1506.0,168
+F,Single,Less than $40K,48,1605.0,1300
+M,Single,$80K - $120K,53,11778.0,0
+F,Married,Less than $40K,55,2747.0,0
+M,Married,$60K - $80K,49,2501.0,0
+M,Single,Less than $40K,64,2563.0,2242
+M,Single,$60K - $80K,47,1659.0,1544
+F,Married,Unknown,56,3068.0,1765
+F,Divorced,Less than $40K,60,3426.0,1650
+F,Single,Less than $40K,59,3214.0,424
+M,Married,$80K - $120K,50,12906.0,321
+F,Single,Unknown,59,8708.0,1091
+M,Married,$80K - $120K,52,7904.0,0
+F,Divorced,Unknown,48,4549.0,1313
+F,Married,Less than $40K,46,1438.3,1214
+F,Married,Less than $40K,49,4476.0,1492
+F,Divorced,Unknown,44,2002.0,1448
+M,Married,$80K - $120K,40,11502.0,2066
+M,Married,$120K +,44,7924.0,2517
+M,Single,$120K +,39,16199.0,0
+M,Divorced,$80K - $120K,43,1452.0,0
+F,Single,Unknown,37,2179.0,0
+M,Married,$80K - $120K,35,13590.0,1528
+F,Single,Less than $40K,31,1695.0,0
+F,Married,Less than $40K,53,4430.0,1579
+F,Married,Less than $40K,49,2919.0,2032
+F,Married,Less than $40K,49,2796.0,1035
+F,Married,Less than $40K,41,2580.0,2137
+M,Single,$60K - $80K,43,2834.0,1720
+F,Divorced,Less than $40K,44,2617.0,1508
+F,Single,Less than $40K,48,1522.0,1273
+M,Unknown,$40K - $60K,41,16509.0,425
+M,Unknown,$40K - $60K,40,7316.0,1335
+F,Single,Unknown,44,7627.0,1742
+M,Married,$40K - $60K,44,9465.0,0
+M,Married,Less than $40K,48,8795.0,1318
+M,Single,$60K - $80K,40,12283.0,0
+F,Single,Less than $40K,34,2715.0,1503
+F,Married,Unknown,44,19897.0,2232
+F,Single,Less than $40K,44,2097.0,1224
+F,Single,Less than $40K,41,3028.0,2270
+F,Single,Less than $40K,34,1695.0,761
+F,Married,Less than $40K,41,1438.3,0
+F,Single,Less than $40K,37,1438.3,599
+M,Divorced,$120K +,55,24250.0,278
+F,Single,Unknown,49,5076.0,871
+F,Single,Unknown,40,4438.0,1513
+F,Single,Less than $40K,36,1964.0,0
+F,Single,Less than $40K,53,1904.0,886
+F,Married,$40K - $60K,46,2933.0,1569
+F,Single,Unknown,55,18202.0,1841
+M,Married,$80K - $120K,47,34516.0,760
+F,Married,Less than $40K,52,2421.0,2312
+F,Divorced,Less than $40K,44,2406.0,1491
+F,Single,$40K - $60K,51,2621.0,2426
+F,Married,Less than $40K,34,2291.0,0
+F,Unknown,$40K - $60K,46,3645.0,1179
+F,Single,$40K - $60K,37,3375.0,1730
+M,Single,$120K +,47,8856.0,1433
+F,Single,Less than $40K,36,2980.0,2093
+M,Single,$60K - $80K,47,17656.0,0
+F,Single,Less than $40K,57,2475.0,0
+F,Single,Less than $40K,46,3942.0,1711
+F,Single,Less than $40K,57,1771.0,1289
+F,Divorced,Unknown,45,17678.0,0
+M,Married,$120K +,50,20958.0,0
+F,Single,Less than $40K,53,4117.0,777
+F,Single,$40K - $60K,43,18524.0,1736
+M,Married,Less than $40K,36,2222.0,1291
+F,Married,Less than $40K,56,3119.0,1778
+M,Married,$40K - $60K,46,1611.0,0
+F,Divorced,Less than $40K,53,4090.0,2517
+M,Single,$60K - $80K,55,1467.0,0
+F,Married,$40K - $60K,52,2442.0,1507
+F,Married,$40K - $60K,53,1816.0,0
+F,Single,Less than $40K,40,1438.3,0
+M,Single,$60K - $80K,42,14958.0,1644
+F,Married,Unknown,43,21961.0,0
+F,Single,Less than $40K,40,1625.0,912
+F,Married,Less than $40K,49,3007.0,2517
+M,Married,$120K +,47,11629.0,802
+F,Unknown,Less than $40K,42,1507.0,0
+F,Single,Unknown,45,3111.0,1994
+M,Single,$40K - $60K,60,1848.0,1408
+F,Single,$40K - $60K,44,4142.0,2517
+M,Single,$80K - $120K,46,1438.3,0
+F,Single,Less than $40K,45,2202.0,1414
+M,Married,$60K - $80K,42,3591.0,1749
+M,Married,$120K +,49,4781.0,0
+F,Married,Less than $40K,58,3832.0,1439
+M,Married,$120K +,53,9025.0,1005
+M,Single,$40K - $60K,44,11627.0,0
+F,Married,Unknown,61,5686.0,0
+F,Married,Less than $40K,49,2636.0,1840
+F,Single,Less than $40K,37,1438.3,0
+F,Single,Less than $40K,43,4976.0,866
+F,Single,Unknown,38,13951.0,1607
+M,Single,$60K - $80K,44,14370.0,945
+M,Single,$40K - $60K,60,21681.0,0
+F,Single,$40K - $60K,59,2634.0,1644
+F,Single,$40K - $60K,37,2204.0,919
+F,Unknown,$40K - $60K,48,2447.0,1991
+F,Single,Unknown,60,3068.0,0
+F,Single,Less than $40K,48,1502.0,0
+F,Single,Unknown,39,4181.0,1604
+F,Married,Less than $40K,52,3136.0,1103
+F,Married,Less than $40K,42,4478.0,1700
+F,Single,Unknown,60,7359.0,0
+M,Single,$40K - $60K,52,13090.0,0
+F,Married,$40K - $60K,44,6849.0,0
+F,Married,Less than $40K,36,4228.0,1886
+F,Married,$40K - $60K,49,5678.0,2082
+F,Married,Less than $40K,42,3964.0,1218
+M,Married,$80K - $120K,48,7970.0,2434
+F,Unknown,Unknown,36,4692.0,0
+F,Divorced,Less than $40K,45,1942.0,0
+M,Divorced,$40K - $60K,40,5821.0,894
+F,Unknown,Less than $40K,48,2357.0,1462
+F,Married,Unknown,54,8294.0,696
+F,Married,$40K - $60K,32,3174.0,2084
+F,Single,Less than $40K,34,1438.3,0
+F,Divorced,Less than $40K,46,1852.0,1428
+M,Single,$40K - $60K,47,1809.0,457
+F,Divorced,$40K - $60K,48,3503.0,1572
+M,Single,$40K - $60K,52,17835.0,868
+M,Married,$120K +,45,3383.0,1458
+F,Single,Less than $40K,46,7128.0,1457
+F,Married,Less than $40K,36,1438.3,790
+F,Married,Less than $40K,42,3815.0,1190
+F,Married,Less than $40K,39,1902.0,962
+F,Divorced,Less than $40K,43,2077.0,1254
+F,Married,Less than $40K,48,2514.0,2090
+M,Single,$80K - $120K,56,34516.0,0
+F,Single,Less than $40K,45,2144.0,1492
+F,Single,Less than $40K,65,5951.0,2517
+F,Divorced,Unknown,54,4806.0,0
+F,Single,Unknown,42,16612.0,2517
+F,Married,$40K - $60K,53,2799.0,0
+M,Single,$40K - $60K,63,18064.0,1695
+F,Married,Less than $40K,49,2560.0,1430
+F,Married,Less than $40K,42,5821.0,0
+F,Single,Less than $40K,43,2057.0,1279
+F,Divorced,Less than $40K,49,1972.0,1489
+M,Married,$60K - $80K,44,2675.0,0
+M,Married,$40K - $60K,48,6223.0,2126
+F,Single,Unknown,44,7632.0,0
+F,Unknown,Less than $40K,55,3258.0,2517
+M,Single,$60K - $80K,46,34516.0,2040
+F,Divorced,$40K - $60K,49,3054.0,845
+F,Single,Less than $40K,35,1438.3,0
+M,Single,$120K +,50,7970.0,2282
+F,Single,Less than $40K,55,1836.0,572
+M,Unknown,$120K +,47,9397.0,795
+F,Married,Less than $40K,60,1601.0,0
+M,Married,$80K - $120K,45,34516.0,1170
+F,Married,Less than $40K,51,1822.0,1114
+M,Married,Less than $40K,41,1614.0,700
+F,Married,Less than $40K,54,1491.0,1349
+F,Divorced,Less than $40K,28,2543.0,1156
+F,Divorced,Less than $40K,50,3462.0,1817
+F,Married,Less than $40K,44,1699.0,0
+F,Married,Unknown,46,13095.0,1836
+M,Single,$60K - $80K,47,8823.0,2517
+M,Married,$60K - $80K,48,4429.0,883
+F,Married,Unknown,58,5396.0,1803
+F,Single,$40K - $60K,65,2418.0,2205
+F,Single,Less than $40K,56,2086.0,1792
+F,Single,$40K - $60K,48,1899.0,671
+M,Single,$40K - $60K,43,7564.0,0
+M,Married,$60K - $80K,41,13116.0,1225
+F,Married,Less than $40K,35,1438.3,606
+F,Married,Less than $40K,48,3716.0,0
+F,Married,Less than $40K,50,3069.0,1482
+F,Single,Less than $40K,51,2006.0,1608
+F,Married,$40K - $60K,45,2948.0,2232
+F,Single,Less than $40K,47,1438.3,0
+F,Married,Less than $40K,35,1438.3,670
+F,Married,$40K - $60K,58,4669.0,1913
+F,Married,Less than $40K,48,13994.0,0
+M,Single,$120K +,57,8760.0,0
+F,Married,Less than $40K,53,1688.0,0
+F,Married,Unknown,46,9881.0,1794
+M,Single,$60K - $80K,39,4534.0,917
+F,Single,Less than $40K,57,3545.0,1446
+F,Single,Less than $40K,57,1857.0,1528
+F,Single,Unknown,56,3334.0,1272
+F,Single,$40K - $60K,55,2496.0,1999
+F,Married,Less than $40K,41,1438.3,765
+F,Married,Less than $40K,45,1438.3,0
+M,Single,$60K - $80K,52,9357.0,1285
+F,Married,Less than $40K,40,2423.0,1674
+F,Single,$40K - $60K,45,1936.0,1613
+M,Divorced,$60K - $80K,43,1783.0,1014
+F,Married,Less than $40K,59,1438.3,0
+F,Single,Less than $40K,56,1438.3,0
+F,Married,Less than $40K,44,10580.0,1023
+F,Single,Less than $40K,54,4597.0,1316
+F,Married,Less than $40K,49,1656.0,929
+F,Single,Less than $40K,39,3279.0,0
+F,Married,$40K - $60K,49,2578.0,1590
+F,Married,$40K - $60K,44,4068.0,0
+F,Married,Less than $40K,42,2128.0,528
+F,Married,Less than $40K,45,2704.0,2262
+F,Unknown,Less than $40K,38,1878.0,1247
+F,Married,Unknown,46,10600.0,0
+F,Divorced,Less than $40K,58,9909.0,0
+F,Married,Less than $40K,57,1665.0,983
+M,Divorced,$120K +,50,1656.0,0
+M,Unknown,$80K - $120K,53,14111.0,1034
+F,Married,Less than $40K,52,2012.0,1230
+F,Married,Less than $40K,43,2837.0,1807
+F,Single,Less than $40K,40,1709.0,0
+F,Married,Less than $40K,49,5714.0,868
+M,Married,$60K - $80K,41,5071.0,1043
+M,Married,$80K - $120K,51,24028.0,0
+F,Unknown,Unknown,31,13882.0,0
+F,Unknown,$40K - $60K,49,3585.0,931
+M,Single,$80K - $120K,40,9124.0,2126
+F,Married,Unknown,45,2705.0,0
+F,Single,Less than $40K,56,1936.0,1101
+M,Married,$80K - $120K,49,8051.0,2138
+F,Married,$40K - $60K,36,3635.0,1617
+F,Married,Less than $40K,46,2532.0,1487
+F,Married,Less than $40K,54,2028.0,0
+F,Married,Less than $40K,42,4304.0,0
+F,Unknown,Unknown,46,6644.0,2082
+F,Married,Less than $40K,45,1830.0,650
+M,Married,$120K +,37,7607.0,2170
+F,Single,Less than $40K,55,2060.0,0
+F,Single,Less than $40K,49,1438.3,906
+M,Single,$60K - $80K,41,3126.0,1503
+F,Single,$40K - $60K,47,6885.0,1611
+M,Unknown,$60K - $80K,42,1871.0,0
+F,Single,Less than $40K,31,2787.0,1761
+M,Married,$80K - $120K,50,1867.0,1478
+F,Married,Less than $40K,41,1438.3,0
+F,Single,Less than $40K,47,2473.0,0
+M,Single,$40K - $60K,40,4640.0,1555
+F,Married,Less than $40K,47,2712.0,2411
+F,Unknown,Unknown,46,8869.0,0
+F,Married,Unknown,51,3853.0,696
+F,Married,Less than $40K,53,1438.3,721
+M,Divorced,$60K - $80K,50,14409.0,511
+F,Single,$40K - $60K,59,1665.0,0
+F,Married,Less than $40K,43,2639.0,0
+F,Married,Less than $40K,59,2338.0,1566
+F,Married,Less than $40K,51,2774.0,1362
+F,Single,Unknown,57,4283.0,488
+F,Single,Unknown,47,6263.0,2517
+F,Single,Less than $40K,35,2317.0,1301
+F,Divorced,Less than $40K,55,2239.0,1340
+F,Married,Less than $40K,41,2225.0,0
+F,Single,Less than $40K,51,1519.0,1148
+F,Married,Unknown,48,5495.0,2200
+F,Married,Less than $40K,51,2141.0,1176
+F,Married,Less than $40K,43,2616.0,1786
+F,Divorced,Less than $40K,39,5494.0,1356
+F,Married,Less than $40K,52,2003.0,1735
+F,Single,Less than $40K,47,2092.0,1499
+M,Single,$60K - $80K,44,6606.0,2517
+F,Married,Unknown,42,7102.0,0
+F,Married,Less than $40K,51,13812.0,1132
+M,Single,$60K - $80K,56,7075.0,1676
+M,Single,$40K - $60K,44,4274.0,1680
+F,Single,Less than $40K,47,2317.0,0
+F,Single,Less than $40K,51,1438.3,642
+M,Married,$80K - $120K,47,2888.0,0
+F,Single,Unknown,44,12310.0,670
+M,Married,$60K - $80K,48,1622.0,1249
+F,Married,Less than $40K,45,1438.3,0
+M,Single,$80K - $120K,40,12559.0,0
+F,Unknown,$40K - $60K,56,2929.0,1287
+F,Divorced,Less than $40K,48,1438.3,0
+F,Single,Less than $40K,50,2319.0,1026
+F,Married,Unknown,37,7927.0,996
+F,Divorced,Less than $40K,55,1720.0,0
+M,Single,$80K - $120K,38,3642.0,724
+F,Married,$40K - $60K,49,3881.0,0
+M,Unknown,$120K +,47,6143.0,1151
+F,Married,Less than $40K,42,1438.3,0
+F,Unknown,Less than $40K,52,2035.0,1343
+F,Married,Less than $40K,47,3899.0,0
+F,Single,$40K - $60K,52,1981.0,1082
+F,Single,Less than $40K,50,2422.0,502
+M,Married,$80K - $120K,52,11964.0,800
+F,Married,Unknown,50,3862.0,0
+M,Married,$80K - $120K,46,33142.0,0
+M,Single,$120K +,40,34516.0,1436
+F,Married,Less than $40K,42,3454.0,0
+F,Married,Less than $40K,29,2732.0,1746
+M,Divorced,$80K - $120K,50,1687.0,992
+F,Married,Less than $40K,43,3523.0,0
+M,Single,$120K +,40,5773.0,2024
+F,Married,Unknown,45,4462.0,706
+F,Married,Less than $40K,35,3976.0,1789
+F,Single,Less than $40K,55,2679.0,2277
+F,Married,$40K - $60K,49,1564.0,0
+F,Single,$40K - $60K,53,1536.0,728
+M,Married,$40K - $60K,46,2375.0,1196
+F,Married,Less than $40K,50,2719.0,0
+F,Divorced,$40K - $60K,53,3369.0,2424
+F,Single,Less than $40K,58,3173.0,1713
+F,Unknown,Less than $40K,47,3139.0,0
+F,Married,Less than $40K,50,2140.0,0
+F,Single,Less than $40K,56,2258.0,0
+M,Married,$40K - $60K,48,2423.0,1779
+F,Single,Less than $40K,55,2376.0,1969
+M,Single,Less than $40K,38,1690.0,1459
+F,Married,$40K - $60K,46,8583.0,0
+F,Single,Less than $40K,52,2996.0,2147
+F,Single,Unknown,49,2880.0,1996
+M,Divorced,$80K - $120K,48,34516.0,1426
+F,Single,Unknown,36,6966.0,905
+M,Married,$120K +,36,11316.0,1599
+F,Single,Less than $40K,38,1438.3,1003
+M,Divorced,$120K +,44,11362.0,0
+F,Married,Unknown,52,7210.0,0
+F,Single,Unknown,55,7790.0,753
+F,Married,Less than $40K,37,2023.0,1587
+F,Married,$40K - $60K,51,9117.0,1259
+F,Unknown,Less than $40K,41,1801.0,940
+M,Married,$60K - $80K,51,8787.0,1087
+M,Married,$60K - $80K,40,27436.0,642
+F,Single,Less than $40K,65,2195.0,1917
+M,Married,$80K - $120K,46,13734.0,568
+M,Married,$60K - $80K,45,2731.0,1868
+M,Single,$80K - $120K,49,2453.0,1534
+M,Married,$60K - $80K,49,7451.0,1542
+F,Married,$40K - $60K,41,2644.0,1794
+M,Married,$80K - $120K,41,34516.0,825
+M,Married,$60K - $80K,41,4575.0,1344
+F,Single,Less than $40K,51,4860.0,1772
+F,Married,Less than $40K,46,1438.3,510
+F,Single,Less than $40K,37,1690.0,0
+M,Married,$40K - $60K,39,1438.3,0
+M,Single,$60K - $80K,46,24512.0,766
+F,Single,$40K - $60K,43,1654.0,1474
+M,Single,$80K - $120K,63,21430.0,0
+M,Married,$120K +,50,34516.0,1915
+M,Married,$40K - $60K,37,1438.3,759
+F,Single,Less than $40K,33,2800.0,1559
+M,Married,$60K - $80K,44,3117.0,1400
+M,Married,$80K - $120K,44,2558.0,2016
+M,Married,$60K - $80K,47,10061.0,0
+F,Unknown,Unknown,45,3416.0,727
+F,Married,Unknown,39,9371.0,1066
+F,Married,Less than $40K,47,3147.0,2453
+F,Single,Less than $40K,52,1554.0,926
+F,Single,Unknown,47,3502.0,0
+F,Single,Less than $40K,49,2712.0,1686
+F,Married,Less than $40K,59,1438.3,0
+M,Married,$120K +,39,3281.0,1682
+F,Married,$40K - $60K,35,1438.3,0
+F,Single,Less than $40K,39,2469.0,1826
+M,Married,$80K - $120K,41,3497.0,0
+F,Unknown,$40K - $60K,46,2505.0,0
+M,Married,$60K - $80K,34,2763.0,1913
+F,Married,Less than $40K,49,2081.0,0
+F,Married,Unknown,55,2815.0,1848
+F,Single,Less than $40K,56,1737.0,0
+F,Single,Unknown,52,9078.0,1194
+M,Unknown,$40K - $60K,46,6185.0,1960
+F,Divorced,Unknown,51,2069.0,1802
+M,Married,$80K - $120K,45,9234.0,0
+F,Single,Less than $40K,37,2684.0,0
+F,Married,$40K - $60K,48,2151.0,0
+M,Single,$60K - $80K,52,2749.0,1380
+F,Single,Less than $40K,44,1980.0,823
+F,Married,Less than $40K,55,4232.0,0
+F,Married,Less than $40K,45,1438.3,877
+F,Unknown,Unknown,43,6931.0,1380
+F,Married,Less than $40K,52,3302.0,2517
+M,Single,Unknown,61,4235.0,1675
+F,Married,Unknown,51,6501.0,0
+F,Single,Unknown,34,6376.0,1322
+F,Single,Less than $40K,33,1457.0,0
+F,Married,$40K - $60K,38,5576.0,0
+F,Single,Unknown,56,1438.3,0
+F,Single,Unknown,45,2478.0,1748
+M,Divorced,$60K - $80K,44,3650.0,1270
+F,Divorced,Less than $40K,52,2111.0,0
+F,Single,Unknown,30,12917.0,1157
+M,Single,$120K +,56,7327.0,0
+M,Married,$80K - $120K,46,13324.0,0
+M,Unknown,$80K - $120K,34,11154.0,1612
+F,Divorced,Unknown,43,9535.0,660
+M,Single,$40K - $60K,37,10226.0,0
+F,Married,Less than $40K,37,2140.0,0
+F,Married,Less than $40K,49,2904.0,2203
+M,Married,$80K - $120K,40,1770.0,584
+F,Single,Less than $40K,37,1534.0,0
+F,Single,Less than $40K,46,2170.0,1498
+M,Single,$120K +,53,10001.0,0
+F,Married,Unknown,56,4169.0,1549
+M,Single,Less than $40K,65,5363.0,1309
+F,Single,Less than $40K,50,3206.0,0
+M,Married,$60K - $80K,50,18085.0,747
+F,Married,$40K - $60K,61,2566.0,2164
+F,Married,$40K - $60K,35,1438.3,0
+F,Single,Less than $40K,65,6812.0,1926
+F,Single,$40K - $60K,45,2700.0,1977
+F,Married,Unknown,50,5471.0,1342
+F,Divorced,Less than $40K,43,4332.0,1313
+F,Married,Less than $40K,48,2447.0,1267
+F,Single,Less than $40K,41,1783.0,1282
+M,Single,$60K - $80K,42,11761.0,1775
+F,Single,Less than $40K,52,2340.0,1101
+F,Single,Less than $40K,45,2859.0,1776
+M,Married,$40K - $60K,37,2523.0,2481
+M,Married,$40K - $60K,48,4776.0,0
+F,Married,Less than $40K,59,2697.0,1410
+F,Married,Less than $40K,57,3542.0,2417
+M,Single,$120K +,57,34516.0,1000
+F,Married,Unknown,40,8823.0,0
+F,Single,Less than $40K,52,1764.0,0
+F,Married,Less than $40K,43,3492.0,2517
+F,Married,Less than $40K,36,2977.0,1340
+M,Single,$60K - $80K,49,30976.0,2051
+M,Married,$60K - $80K,43,2810.0,2384
+F,Single,Less than $40K,39,1438.3,0
+M,Single,$40K - $60K,44,8997.0,708
+F,Single,Less than $40K,57,2002.0,1188
+M,Single,$60K - $80K,55,4998.0,1626
+F,Married,Less than $40K,37,2310.0,1513
+F,Married,$40K - $60K,54,3892.0,0
+M,Married,$60K - $80K,34,2345.0,1643
+M,Single,$80K - $120K,50,2135.0,1506
+F,Single,Less than $40K,50,2528.0,1689
+F,Married,Less than $40K,50,3397.0,1658
+M,Married,$60K - $80K,49,19719.0,1395
+F,Married,Unknown,41,15292.0,1325
+M,Married,$120K +,52,31733.0,0
+F,Single,$40K - $60K,54,1438.3,0
+F,Married,Less than $40K,54,1638.0,0
+F,Single,Less than $40K,50,2775.0,1475
+F,Married,$40K - $60K,37,2547.0,1965
+F,Married,Unknown,50,5708.0,1884
+M,Married,$80K - $120K,46,19838.0,1290
+M,Married,$60K - $80K,47,1789.0,0
+F,Single,$40K - $60K,51,2284.0,1674
+M,Single,$60K - $80K,42,11535.0,1527
+F,Married,Unknown,28,3524.0,1306
+M,Single,$60K - $80K,58,30186.0,0
+F,Single,Less than $40K,44,1438.3,0
+F,Married,Less than $40K,40,1620.0,1278
+F,Single,Less than $40K,51,4038.0,1237
+M,Single,$80K - $120K,56,2078.0,1696
+F,Married,Less than $40K,51,1571.0,0
+M,Married,$80K - $120K,43,4726.0,1161
+F,Unknown,Less than $40K,56,4604.0,621
+M,Single,$80K - $120K,48,34516.0,1629
+M,Married,$40K - $60K,56,1438.3,0
+F,Divorced,Less than $40K,48,2680.0,1871
+F,Married,$40K - $60K,41,4312.0,2517
+M,Married,$60K - $80K,50,2205.0,1659
+F,Married,Less than $40K,44,2679.0,727
+M,Single,$80K - $120K,54,34516.0,2488
+F,Married,Less than $40K,48,3378.0,0
+M,Single,$40K - $60K,34,1793.0,1141
+F,Divorced,Less than $40K,59,2228.0,1502
+F,Single,$40K - $60K,41,2577.0,1582
+F,Married,Less than $40K,39,1462.0,0
+F,Married,Less than $40K,50,4038.0,1530
+F,Divorced,Unknown,35,1438.3,0
+F,Divorced,Less than $40K,34,4408.0,1510
+F,Married,Unknown,46,4163.0,0
+F,Married,$40K - $60K,49,7201.0,1992
+M,Single,$80K - $120K,49,1883.0,1295
+F,Single,Less than $40K,42,3308.0,2517
+F,Single,Less than $40K,65,2022.0,0
+F,Married,Less than $40K,43,8597.0,903
+F,Married,Unknown,38,4693.0,634
+F,Unknown,Less than $40K,52,2873.0,1714
+F,Divorced,$40K - $60K,39,3400.0,2307
+F,Divorced,$40K - $60K,48,2405.0,1410
+M,Single,$80K - $120K,46,34516.0,1104
+M,Married,$80K - $120K,44,8241.0,0
+F,Married,$40K - $60K,53,1438.3,582
+F,Unknown,Less than $40K,44,2608.0,1804
+F,Married,Less than $40K,41,2359.0,1509
+F,Married,Less than $40K,47,1790.0,0
+F,Married,Less than $40K,54,2247.0,0
+M,Single,$80K - $120K,40,3624.0,0
+F,Married,Less than $40K,42,1438.3,0
+F,Married,$40K - $60K,39,2901.0,2143
+F,Married,Less than $40K,41,9759.0,2038
+F,Married,Less than $40K,57,2525.0,1203
+F,Divorced,Less than $40K,60,2737.0,1812
+M,Married,$80K - $120K,51,19262.0,1480
+F,Single,Unknown,33,2252.0,1826
+M,Single,$80K - $120K,46,7077.0,0
+M,Single,$60K - $80K,63,2706.0,889
+F,Married,$40K - $60K,49,3263.0,1522
+F,Married,$40K - $60K,41,3281.0,0
+M,Married,$80K - $120K,51,8169.0,794
+F,Divorced,$40K - $60K,46,3276.0,1915
+F,Single,Less than $40K,41,1966.0,1452
+F,Married,Unknown,46,5869.0,0
+F,Single,Less than $40K,34,1438.3,0
+F,Married,Less than $40K,45,3682.0,0
+F,Divorced,Unknown,27,13439.0,2003
+F,Single,Less than $40K,54,1694.0,0
+M,Divorced,$80K - $120K,41,1636.0,986
+F,Married,Less than $40K,48,1449.0,749
+F,Married,Less than $40K,45,1513.0,788
+F,Single,Less than $40K,39,1438.3,0
+F,Divorced,Less than $40K,46,4120.0,1578
+F,Single,Less than $40K,47,2289.0,1611
+F,Single,Less than $40K,45,2016.0,972
+M,Married,$80K - $120K,49,2509.0,450
+F,Married,Less than $40K,40,3511.0,0
+M,Divorced,$60K - $80K,45,2751.0,2432
+F,Divorced,Less than $40K,34,2426.0,0
+M,Married,$80K - $120K,44,12230.0,1196
+M,Single,$60K - $80K,42,7328.0,936
+F,Married,Unknown,47,2264.0,0
+M,Single,$80K - $120K,42,3046.0,1231
+F,Married,Unknown,51,5881.0,0
+M,Married,$80K - $120K,52,16207.0,922
+M,Unknown,$60K - $80K,44,15468.0,1187
+F,Single,Less than $40K,47,5950.0,0
+F,Married,Less than $40K,48,3119.0,2196
+F,Unknown,Unknown,50,1507.0,0
+F,Single,Less than $40K,51,2902.0,1634
+F,Married,Less than $40K,47,1585.0,1304
+F,Single,Less than $40K,47,2899.0,2418
+F,Married,$40K - $60K,50,2295.0,1277
+F,Married,Less than $40K,39,3251.0,1937
+F,Married,Unknown,48,4009.0,1361
+F,Married,Less than $40K,45,3411.0,1472
+M,Single,$40K - $60K,49,15525.0,1299
+F,Single,Less than $40K,35,2118.0,1189
+F,Married,$40K - $60K,34,2275.0,1468
+F,Single,Less than $40K,59,2601.0,1888
+M,Single,$80K - $120K,52,4642.0,2413
+M,Single,Less than $40K,58,1438.3,0
+F,Single,Less than $40K,51,1858.0,1071
+F,Single,Less than $40K,59,2636.0,1619
+F,Single,$40K - $60K,50,3743.0,881
+F,Single,Less than $40K,49,1438.3,0
+F,Married,Less than $40K,61,4130.0,0
+M,Unknown,$40K - $60K,47,10960.0,1333
+F,Married,$40K - $60K,52,3900.0,0
+M,Married,Less than $40K,38,6236.0,1204
+F,Single,Unknown,34,2591.0,0
+F,Married,Less than $40K,57,1615.0,950
+F,Single,Unknown,47,8332.0,0
+F,Married,Less than $40K,55,2033.0,1037
+M,Single,$80K - $120K,55,8082.0,1138
+F,Married,Less than $40K,57,1511.0,0
+F,Divorced,Unknown,43,11536.0,2074
+F,Single,Less than $40K,65,4010.0,1504
+F,Married,Less than $40K,55,1669.0,1000
+F,Married,Unknown,54,11905.0,0
+F,Married,Less than $40K,44,3052.0,0
+F,Unknown,Less than $40K,55,2712.0,1617
+F,Married,Less than $40K,39,1978.0,871
+F,Married,Less than $40K,37,1438.3,687
+F,Married,Less than $40K,55,1606.0,0
+F,Married,Less than $40K,46,2406.0,1705
+M,Single,$80K - $120K,44,5877.0,1160
+F,Married,Less than $40K,57,2796.0,0
+F,Married,Unknown,54,2876.0,1267
+F,Single,Less than $40K,38,3554.0,0
+F,Single,Less than $40K,48,9505.0,2390
+F,Single,Less than $40K,34,1576.0,0
+F,Married,Less than $40K,44,1438.3,0
+M,Single,$60K - $80K,39,2973.0,1136
+F,Single,Less than $40K,40,1438.3,0
+F,Single,Unknown,41,5647.0,1175
+F,Unknown,$40K - $60K,43,1766.0,0
+F,Unknown,Less than $40K,50,1606.0,0
+F,Unknown,Less than $40K,54,2223.0,632
+F,Single,$40K - $60K,47,2896.0,0
+M,Married,$60K - $80K,51,2157.0,1494
+F,Divorced,Unknown,49,3802.0,1558
+M,Married,$60K - $80K,43,13840.0,1079
+F,Unknown,Less than $40K,36,2169.0,1602
+F,Single,Less than $40K,47,4862.0,0
+F,Married,Less than $40K,45,2289.0,1037
+M,Married,$60K - $80K,49,22651.0,1085
+F,Unknown,Less than $40K,48,2406.0,1744
+M,Married,$80K - $120K,52,3022.0,895
+M,Married,$80K - $120K,46,12935.0,1417
+F,Single,Less than $40K,45,1438.3,0
+F,Married,$40K - $60K,49,1438.3,522
+F,Single,Less than $40K,43,2256.0,1346
+F,Single,Less than $40K,40,1516.0,0
+F,Unknown,$40K - $60K,48,2485.0,1651
+F,Single,Less than $40K,53,1820.0,909
+F,Married,Unknown,54,2156.0,1134
+M,Single,$60K - $80K,48,5826.0,1482
+F,Single,Less than $40K,39,10190.0,891
+F,Single,Less than $40K,45,2035.0,1174
+F,Single,Less than $40K,45,1833.0,0
+M,Single,$60K - $80K,56,1623.0,0
+F,Single,Less than $40K,27,1835.0,1647
+F,Married,Less than $40K,47,4490.0,1989
+M,Divorced,$60K - $80K,48,11062.0,0
+F,Single,Less than $40K,30,1574.0,0
+F,Single,Less than $40K,52,2370.0,1490
+F,Single,Less than $40K,35,2658.0,0
+F,Married,Less than $40K,38,2300.0,0
+F,Single,Less than $40K,44,2368.0,1244
+F,Married,$40K - $60K,53,2883.0,1936
+F,Divorced,Unknown,43,3264.0,2042
+F,Single,Less than $40K,46,1937.0,916
+F,Married,$40K - $60K,40,2166.0,1465
+F,Married,$40K - $60K,43,7135.0,1164
+F,Single,Less than $40K,56,1438.3,787
+F,Single,$40K - $60K,48,3743.0,2090
+F,Divorced,Unknown,31,5190.0,1682
+M,Married,$40K - $60K,41,6059.0,1171
+F,Single,Less than $40K,47,2577.0,1450
+F,Married,Less than $40K,43,3761.0,2121
+F,Married,Less than $40K,50,1572.0,0
+F,Married,$40K - $60K,39,1637.0,0
+M,Married,$120K +,51,28600.0,0
+M,Married,Less than $40K,40,4402.0,1524
+F,Unknown,Less than $40K,50,2652.0,1911
+F,Married,$40K - $60K,41,6602.0,0
+F,Single,$40K - $60K,37,1900.0,0
+F,Single,$40K - $60K,56,3455.0,1385
+M,Single,$60K - $80K,47,18123.0,1775
+F,Divorced,Less than $40K,44,2295.0,1250
+M,Married,$80K - $120K,38,1518.0,1115
+F,Unknown,Less than $40K,45,2723.0,1902
+F,Married,Less than $40K,47,1776.0,691
+F,Married,Less than $40K,39,1968.0,1270
+F,Single,Less than $40K,48,1860.0,1054
+F,Divorced,Less than $40K,53,2684.0,2126
+F,Single,$40K - $60K,51,2180.0,1865
+F,Single,Less than $40K,41,1661.0,0
+F,Single,Less than $40K,38,1679.0,0
+F,Married,Less than $40K,36,1691.0,0
+F,Single,Less than $40K,46,2888.0,1641
+F,Married,$40K - $60K,58,1871.0,1339
+F,Unknown,Less than $40K,44,3226.0,2517
+M,Married,$80K - $120K,41,12114.0,1379
+F,Married,Less than $40K,42,4959.0,1483
+M,Single,$80K - $120K,42,10374.0,599
+F,Married,Less than $40K,45,1438.3,1080
+F,Single,Unknown,44,1486.0,849
+F,Married,Unknown,41,2542.0,0
+M,Single,Less than $40K,35,1931.0,0
+F,Single,Less than $40K,48,1644.0,500
+F,Single,$40K - $60K,43,2283.0,0
+F,Unknown,Less than $40K,36,4943.0,1204
+M,Unknown,$40K - $60K,44,1438.3,0
+F,Single,Less than $40K,43,1438.3,0
+F,Divorced,Less than $40K,52,1438.3,0
+F,Single,Less than $40K,61,1760.0,0
+F,Single,Less than $40K,50,1852.0,0
+M,Married,$60K - $80K,43,2049.0,1530
+F,Married,Less than $40K,48,1670.0,0
+F,Divorced,Less than $40K,35,1511.0,864
+M,Single,$80K - $120K,39,6018.0,0
+F,Single,Less than $40K,59,3030.0,1251
+F,Single,Less than $40K,58,2755.0,1483
+M,Single,$80K - $120K,51,8783.0,2142
+M,Single,Less than $40K,64,1861.0,1677
+M,Married,$120K +,50,13709.0,813
+F,Unknown,Less than $40K,46,4710.0,0
+M,Married,$80K - $120K,49,17285.0,1853
+F,Single,Less than $40K,53,1438.3,661
+M,Single,$60K - $80K,54,7866.0,0
+F,Married,Less than $40K,42,2190.0,1299
+F,Married,Less than $40K,43,4829.0,1153
+M,Divorced,$80K - $120K,46,3210.0,2081
+F,Single,Less than $40K,38,1755.0,750
+F,Single,$40K - $60K,47,1438.3,703
+M,Unknown,$60K - $80K,37,14485.0,2124
+M,Married,$40K - $60K,47,6043.0,0
+M,Single,$60K - $80K,43,6348.0,0
+F,Married,Less than $40K,56,1438.3,0
+M,Married,$60K - $80K,43,17239.0,0
+F,Married,Unknown,45,18432.0,484
+F,Single,Less than $40K,47,1636.0,1135
+F,Married,Unknown,43,7951.0,1456
+M,Married,$60K - $80K,44,14201.0,0
+F,Unknown,$40K - $60K,52,2723.0,1544
+F,Single,Less than $40K,52,2019.0,991
+F,Single,Unknown,43,10305.0,1870
+M,Married,$40K - $60K,49,3114.0,2208
+M,Unknown,$40K - $60K,40,4323.0,0
+F,Single,Less than $40K,50,3647.0,2517
+M,Single,$60K - $80K,43,1849.0,1293
+M,Married,$80K - $120K,53,2540.0,1859
+F,Single,Unknown,42,4972.0,0
+F,Single,Less than $40K,55,13565.0,0
+M,Married,$60K - $80K,40,6332.0,318
+M,Married,$60K - $80K,41,6062.0,761
+F,Married,Less than $40K,47,2897.0,638
+M,Single,$60K - $80K,46,13407.0,1341
+F,Single,Unknown,50,6610.0,1663
+M,Married,$80K - $120K,33,1438.3,0
+F,Married,Less than $40K,45,2030.0,1269
+M,Married,$40K - $60K,53,3146.0,0
+M,Married,$80K - $120K,36,5302.0,2414
+F,Single,Less than $40K,55,3185.0,1820
+F,Married,Less than $40K,42,4328.0,1749
+F,Married,Less than $40K,51,2238.0,1300
+F,Single,Less than $40K,44,2658.0,1884
+M,Single,$60K - $80K,47,9090.0,1371
+F,Single,Less than $40K,46,2424.0,2169
+F,Married,Less than $40K,57,1438.3,0
+F,Married,Less than $40K,43,1438.3,0
+F,Single,Unknown,61,2303.0,540
+M,Divorced,$120K +,51,2792.0,887
+F,Single,Less than $40K,44,2900.0,1987
+F,Married,Less than $40K,46,2267.0,1283
+F,Married,$40K - $60K,52,4189.0,2066
+M,Married,$60K - $80K,45,12890.0,0
+F,Single,Unknown,35,3269.0,1434
+F,Single,Less than $40K,59,2759.0,2481
+F,Single,Less than $40K,46,1787.0,0
+M,Single,$60K - $80K,43,6854.0,0
+M,Single,$80K - $120K,35,2904.0,2517
+M,Divorced,$80K - $120K,44,5293.0,1236
+F,Married,Less than $40K,57,1781.0,0
+M,Married,$60K - $80K,50,3276.0,2353
+M,Single,$60K - $80K,55,34516.0,1384
+M,Unknown,$60K - $80K,48,14670.0,1900
+F,Married,$40K - $60K,59,4375.0,0
+F,Unknown,Unknown,36,3448.0,1903
+M,Married,$80K - $120K,43,2111.0,1761
+F,Single,Less than $40K,55,3123.0,0
+M,Married,$40K - $60K,42,8374.0,0
+F,Married,$40K - $60K,48,15713.0,1387
+F,Single,$40K - $60K,60,4115.0,1231
+M,Single,$80K - $120K,50,6925.0,0
+F,Married,Unknown,42,1898.0,725
+F,Single,Unknown,44,2021.0,1182
+F,Single,Less than $40K,33,1630.0,1008
+F,Single,$40K - $60K,48,1538.0,0
+M,Single,$60K - $80K,48,22639.0,1481
+F,Married,Less than $40K,39,2452.0,2423
+F,Married,Less than $40K,32,1438.3,1056
+M,Married,$120K +,41,9924.0,0
+F,Single,Less than $40K,37,2586.0,835
+F,Married,Less than $40K,59,2308.0,2094
+F,Married,Unknown,48,10514.0,1494
+M,Married,$40K - $60K,54,1655.0,0
+F,Single,$40K - $60K,41,2768.0,2228
+F,Single,Less than $40K,59,2533.0,2076
+M,Married,$80K - $120K,48,25658.0,1721
+F,Divorced,$40K - $60K,55,4410.0,2517
+F,Unknown,Less than $40K,49,3468.0,2517
+F,Married,Less than $40K,51,1438.3,0
+F,Unknown,Unknown,34,1438.3,0
+F,Unknown,Unknown,55,6968.0,1430
+F,Single,$40K - $60K,35,2441.0,1670
+F,Single,Less than $40K,46,1836.0,0
+F,Married,$40K - $60K,50,2560.0,1807
+M,Married,$80K - $120K,43,32733.0,1448
+F,Married,Less than $40K,48,2964.0,2517
+M,Unknown,$80K - $120K,44,8315.0,1008
+F,Single,Less than $40K,65,2279.0,1789
+M,Single,$80K - $120K,53,34516.0,800
+M,Married,$40K - $60K,49,1438.3,0
+F,Single,Less than $40K,45,2020.0,1103
+F,Unknown,Unknown,44,34516.0,0
+F,Single,Unknown,56,5261.0,1966
+F,Married,Unknown,43,2692.0,2039
+F,Married,$40K - $60K,49,1994.0,0
+M,Divorced,$60K - $80K,44,3290.0,0
+F,Single,$40K - $60K,52,3035.0,1960
+F,Single,$40K - $60K,37,2407.0,1552
+F,Married,Less than $40K,47,1781.0,0
+F,Married,Less than $40K,40,3680.0,0
+F,Married,Less than $40K,48,2740.0,2425
+F,Married,Less than $40K,42,4311.0,822
+F,Single,Less than $40K,42,1931.0,1297
+M,Single,Less than $40K,59,3604.0,1483
+F,Married,Less than $40K,47,2190.0,0
+F,Unknown,Less than $40K,56,8438.0,1825
+F,Married,$40K - $60K,46,3413.0,2372
+F,Unknown,Less than $40K,26,2163.0,1942
+F,Single,Less than $40K,42,3595.0,1904
+M,Married,$120K +,47,9036.0,1080
+F,Married,Less than $40K,48,2315.0,1565
+M,Married,$80K - $120K,44,34516.0,1043
+F,Married,Less than $40K,56,4008.0,1650
+F,Married,Less than $40K,43,3143.0,2517
+M,Single,$80K - $120K,40,3427.0,0
+F,Single,Less than $40K,38,2699.0,564
+F,Single,Less than $40K,40,1538.0,0
+F,Married,$40K - $60K,48,5573.0,1238
+M,Unknown,$80K - $120K,46,2570.0,1764
+M,Unknown,$80K - $120K,43,18008.0,2517
+M,Single,$120K +,52,34516.0,216
+F,Married,Unknown,49,13483.0,2517
+F,Single,Unknown,49,4349.0,1400
+M,Single,$60K - $80K,42,11698.0,1060
+F,Married,Less than $40K,46,8318.0,2517
+F,Married,Less than $40K,46,1438.3,0
+F,Single,$40K - $60K,49,1643.0,526
+M,Married,$40K - $60K,42,1503.0,929
+F,Married,Less than $40K,47,2793.0,1517
+F,Divorced,$40K - $60K,45,1438.3,0
+M,Married,$80K - $120K,33,9094.0,0
+M,Divorced,$60K - $80K,50,6362.0,1709
+F,Single,Less than $40K,60,2394.0,1427
+M,Single,$60K - $80K,45,15100.0,2004
+F,Married,Less than $40K,53,2927.0,2517
+M,Married,$80K - $120K,48,9030.0,2369
+F,Single,Less than $40K,53,1543.0,1041
+F,Married,Unknown,53,4941.0,1867
+F,Married,Unknown,33,2279.0,1432
+F,Divorced,Less than $40K,44,1877.0,1203
+M,Divorced,$40K - $60K,52,1438.3,0
+F,Unknown,Less than $40K,40,1438.3,0
+M,Married,$60K - $80K,41,9577.0,632
+M,Divorced,$60K - $80K,43,5427.0,2177
+F,Single,$40K - $60K,46,5913.0,1651
+F,Single,$40K - $60K,43,2867.0,0
+F,Single,Less than $40K,40,2506.0,1362
+F,Married,$40K - $60K,39,1693.0,1101
+F,Married,Unknown,54,3137.0,959
+F,Single,Less than $40K,47,2437.0,0
+F,Married,Less than $40K,35,1438.3,977
+F,Single,Less than $40K,46,3913.0,0
+F,Married,Less than $40K,41,4953.0,991
+F,Single,$40K - $60K,48,5724.0,582
+M,Married,$40K - $60K,37,1438.3,0
+F,Single,Less than $40K,55,1886.0,1023
+F,Single,$40K - $60K,42,1451.0,599
+F,Married,Unknown,47,2950.0,1642
+F,Single,$40K - $60K,42,1438.3,1223
+F,Unknown,$40K - $60K,36,2024.0,901
+F,Single,Unknown,33,2299.0,0
+M,Married,$40K - $60K,47,3291.0,1197
+F,Single,Less than $40K,41,1438.3,834
+F,Divorced,Less than $40K,41,2137.0,996
+F,Married,Less than $40K,60,1438.3,0
+M,Single,$80K - $120K,48,16794.0,1527
+M,Married,$40K - $60K,43,12219.0,1462
+F,Married,Less than $40K,54,1804.0,1298
+F,Married,Less than $40K,60,2343.0,2066
+M,Single,$80K - $120K,44,19724.0,0
+F,Married,Less than $40K,49,3949.0,1463
+F,Single,Less than $40K,64,1682.0,0
+F,Single,Less than $40K,54,1724.0,0
+F,Married,Less than $40K,50,2372.0,1148
+M,Married,$120K +,40,4642.0,1676
+F,Single,$40K - $60K,49,2765.0,1211
+F,Single,Less than $40K,49,2555.0,1815
+M,Married,$80K - $120K,51,3150.0,0
+F,Married,Less than $40K,43,2570.0,2107
+M,Single,$60K - $80K,59,4386.0,2505
+M,Married,Less than $40K,42,2411.0,1797
+M,Divorced,Less than $40K,47,6397.0,0
+M,Unknown,$120K +,53,23958.0,2517
+F,Single,Less than $40K,49,2608.0,2455
+M,Married,$40K - $60K,45,4409.0,1753
+M,Single,$60K - $80K,48,10033.0,0
+M,Single,$60K - $80K,48,1641.0,0
+F,Single,Less than $40K,57,2454.0,1610
+F,Married,Less than $40K,56,1978.0,0
+M,Married,$60K - $80K,46,5464.0,887
+M,Single,$60K - $80K,42,5951.0,0
+F,Single,Less than $40K,49,2381.0,1603
+M,Divorced,$60K - $80K,48,11596.0,1258
+F,Single,$40K - $60K,55,5162.0,984
+F,Single,Unknown,63,16312.0,520
+M,Single,$60K - $80K,44,25276.0,0
+F,Single,Less than $40K,38,1939.0,1484
+F,Divorced,$40K - $60K,45,2788.0,1826
+F,Married,Less than $40K,54,1438.3,1108
+F,Married,Less than $40K,59,2448.0,1969
+F,Married,Unknown,52,10317.0,642
+F,Single,Less than $40K,38,3119.0,2517
+F,Single,Less than $40K,42,2803.0,0
+F,Unknown,Less than $40K,43,2397.0,2151
+F,Divorced,Less than $40K,44,1693.0,1457
+M,Married,$80K - $120K,52,2866.0,1882
+F,Unknown,$40K - $60K,52,2498.0,1650
+F,Divorced,Less than $40K,42,1878.0,1024
+F,Married,$40K - $60K,53,2712.0,2487
+M,Single,$120K +,52,34516.0,0
+F,Married,$40K - $60K,34,6169.0,2517
+M,Married,$80K - $120K,51,6205.0,2264
+F,Unknown,Less than $40K,43,1780.0,1541
+F,Married,Less than $40K,48,1438.3,0
+F,Married,Less than $40K,41,2811.0,2404
+F,Single,Less than $40K,59,7501.0,2517
+M,Unknown,Less than $40K,62,2856.0,2517
+M,Single,$80K - $120K,37,29898.0,1414
+M,Married,$60K - $80K,46,1939.0,685
+F,Married,Less than $40K,50,2965.0,1819
+F,Single,Less than $40K,40,2812.0,2029
+F,Single,Unknown,59,10031.0,0
+M,Divorced,$40K - $60K,62,4049.0,0
+F,Single,$40K - $60K,38,2669.0,0
+F,Single,Less than $40K,44,1951.0,0
+F,Single,$40K - $60K,59,1528.0,0
+F,Married,Less than $40K,48,1438.3,455
+M,Married,$60K - $80K,50,3143.0,0
+F,Unknown,Less than $40K,46,1438.3,725
+M,Single,$40K - $60K,43,8406.0,0
+F,Unknown,Less than $40K,50,2242.0,888
+M,Divorced,$60K - $80K,44,6538.0,0
+F,Married,Less than $40K,42,4710.0,1604
+M,Single,$120K +,50,13032.0,1701
+F,Married,Less than $40K,45,2225.0,0
+F,Married,$40K - $60K,52,3143.0,2268
+M,Married,$60K - $80K,49,5013.0,0
+F,Married,Less than $40K,60,3466.0,973
+F,Married,Less than $40K,38,1686.0,1206
+F,Divorced,$40K - $60K,44,1689.0,0
+M,Married,$40K - $60K,47,1626.0,0
+F,Single,Less than $40K,57,1614.0,0
+F,Single,Unknown,41,2429.0,1966
+F,Married,$40K - $60K,35,1438.3,834
+M,Married,$80K - $120K,39,17523.0,0
+F,Married,Less than $40K,54,2573.0,1760
+F,Single,$40K - $60K,43,2900.0,2122
+F,Single,Less than $40K,32,2352.0,2176
+F,Single,Less than $40K,58,2212.0,1902
+M,Single,$80K - $120K,33,9642.0,1431
+M,Married,$120K +,56,9257.0,0
+F,Single,Less than $40K,46,1731.0,0
+M,Unknown,$60K - $80K,61,16929.0,1838
+M,Married,$80K - $120K,50,3606.0,1862
+M,Single,$40K - $60K,44,1714.0,0
+M,Married,$80K - $120K,46,23512.0,1562
+F,Married,Less than $40K,44,1855.0,0
+F,Single,Less than $40K,44,1605.0,890
+F,Married,Less than $40K,46,2302.0,1593
+M,Married,$60K - $80K,42,13546.0,1720
+F,Unknown,Less than $40K,54,2440.0,503
+F,Single,Less than $40K,39,2669.0,2397
+F,Single,Less than $40K,47,2402.0,628
+F,Single,$40K - $60K,46,3001.0,0
+F,Married,Less than $40K,42,2552.0,2220
+F,Married,Less than $40K,41,2679.0,2214
+F,Single,Less than $40K,45,1502.0,0
+F,Unknown,$40K - $60K,61,1438.3,0
+F,Married,Less than $40K,46,3331.0,1307
+F,Divorced,Less than $40K,32,1438.3,0
+F,Single,Less than $40K,55,2426.0,1589
+M,Single,$80K - $120K,59,2791.0,2396
+M,Unknown,$80K - $120K,49,18379.0,999
+M,Married,$120K +,46,3499.0,1759
+F,Single,Less than $40K,60,1438.3,0
+M,Married,$120K +,40,18295.0,0
+F,Single,Less than $40K,39,1568.0,995
+F,Married,Less than $40K,57,2712.0,1445
+M,Single,$120K +,48,34516.0,2517
+F,Single,Less than $40K,55,2177.0,1472
+F,Married,Less than $40K,44,2296.0,0
+F,Married,Less than $40K,43,2435.0,1595
+F,Divorced,Less than $40K,51,1495.0,691
+M,Single,$120K +,41,9220.0,0
+M,Married,$60K - $80K,52,23128.0,1958
+F,Single,Less than $40K,47,4254.0,1204
+F,Single,$40K - $60K,47,14897.0,0
+F,Single,Less than $40K,54,3554.0,0
+F,Married,Less than $40K,34,1798.0,833
+F,Single,Less than $40K,44,2429.0,1687
+F,Divorced,$40K - $60K,46,2477.0,1480
+F,Divorced,Unknown,36,14304.0,699
+F,Single,Less than $40K,30,1536.0,801
+F,Unknown,Unknown,39,15370.0,686
+M,Unknown,$40K - $60K,45,23981.0,1684
+M,Single,$60K - $80K,42,6318.0,1397
+F,Single,Unknown,32,3558.0,816
+F,Unknown,Less than $40K,56,1677.0,0
+F,Married,Less than $40K,53,2734.0,2085
+F,Married,$40K - $60K,52,2396.0,1663
+M,Married,$80K - $120K,45,9852.0,2277
+M,Single,$60K - $80K,49,1579.0,900
+F,Single,Unknown,44,1900.0,0
+F,Married,$40K - $60K,42,1820.0,0
+F,Unknown,$40K - $60K,58,2406.0,0
+M,Married,$60K - $80K,60,4541.0,1037
+F,Single,Less than $40K,51,3124.0,2517
+F,Single,Less than $40K,44,2240.0,1664
+F,Married,$40K - $60K,43,1773.0,882
+F,Married,Less than $40K,27,1674.0,752
+F,Married,Unknown,46,3257.0,0
+F,Married,Unknown,48,32611.0,1718
+F,Divorced,Less than $40K,47,3027.0,1671
+F,Single,Less than $40K,45,4210.0,0
+M,Divorced,$40K - $60K,46,10931.0,2297
+M,Single,$120K +,55,34516.0,0
+F,Single,$40K - $60K,51,2637.0,1009
+F,Single,Less than $40K,42,2899.0,1952
+M,Divorced,$120K +,40,1438.3,0
+M,Divorced,Less than $40K,65,1573.0,653
+F,Married,Less than $40K,49,6184.0,0
+M,Married,$120K +,51,34516.0,2332
+F,Married,Unknown,56,1822.0,1118
+F,Single,Less than $40K,41,2701.0,1839
+F,Unknown,Less than $40K,47,3654.0,0
+M,Single,$80K - $120K,37,2626.0,1736
+F,Single,Less than $40K,48,1438.3,812
+F,Single,Unknown,46,13376.0,1633
+M,Single,$120K +,55,31636.0,2517
+M,Married,Less than $40K,36,3453.0,2517
+F,Married,Less than $40K,44,3889.0,2517
+F,Unknown,$40K - $60K,47,2216.0,1800
+M,Married,$80K - $120K,46,11434.0,0
+F,Married,Unknown,43,3146.0,808
+M,Married,$80K - $120K,46,2790.0,2185
+F,Single,Unknown,57,4396.0,834
+M,Single,$60K - $80K,62,14314.0,656
+M,Married,$40K - $60K,47,1889.0,0
+F,Single,Less than $40K,39,1862.0,726
+M,Married,$40K - $60K,53,2875.0,1671
+F,Married,Less than $40K,49,1763.0,0
+F,Married,$40K - $60K,46,1438.3,883
+M,Single,$40K - $60K,39,2623.0,2121
+F,Married,Less than $40K,58,1944.0,0
+F,Married,$40K - $60K,43,1438.3,0
+F,Single,Unknown,39,2884.0,2517
+F,Single,Less than $40K,44,2936.0,1297
+M,Married,$40K - $60K,42,5791.0,2517
+M,Single,$40K - $60K,65,1438.3,682
+F,Single,Less than $40K,55,1912.0,0
+F,Single,Unknown,31,3288.0,2495
+F,Married,Unknown,48,4382.0,0
+F,Married,Unknown,46,3595.0,1087
+F,Married,Less than $40K,41,3159.0,0
+F,Unknown,Unknown,36,5393.0,2509
+M,Unknown,$80K - $120K,37,12222.0,0
+M,Single,Less than $40K,43,1438.3,0
+M,Married,$60K - $80K,46,3429.0,0
+M,Single,$80K - $120K,39,12618.0,1585
+F,Married,Less than $40K,49,6049.0,796
+F,Single,Less than $40K,39,2533.0,0
+F,Single,Unknown,52,2411.0,1379
+M,Divorced,$60K - $80K,41,2001.0,0
+F,Single,Unknown,46,2042.0,1359
+M,Married,$60K - $80K,57,2527.0,1030
+M,Married,Less than $40K,49,1438.3,0
+F,Married,Unknown,46,13816.0,955
+F,Single,Less than $40K,38,2256.0,0
+F,Married,Unknown,49,34516.0,2019
+M,Married,$80K - $120K,55,6400.0,1979
+F,Married,Unknown,52,1816.0,0
+F,Single,$40K - $60K,42,3347.0,2240
+F,Single,Less than $40K,52,2705.0,1581
+F,Married,$40K - $60K,53,2043.0,1590
+F,Single,$40K - $60K,45,1912.0,1281
+F,Divorced,$40K - $60K,50,3028.0,1339
+F,Married,Less than $40K,42,1514.0,745
+F,Single,Less than $40K,48,1438.3,0
+F,Married,Less than $40K,52,3103.0,2517
+F,Divorced,Less than $40K,57,2504.0,1915
+F,Married,Unknown,56,3674.0,2517
+M,Married,$80K - $120K,48,2916.0,0
+F,Single,Less than $40K,52,1633.0,0
+M,Single,$80K - $120K,56,5466.0,0
+F,Married,$40K - $60K,43,2032.0,1008
+M,Single,$60K - $80K,62,3933.0,0
+M,Unknown,$80K - $120K,51,21328.0,0
+F,Single,Less than $40K,45,3562.0,2107
+F,Single,Unknown,39,2069.0,550
+M,Single,$120K +,45,3534.0,0
+F,Married,$40K - $60K,56,2402.0,1892
+F,Married,Unknown,57,3136.0,2138
+F,Divorced,$40K - $60K,60,2802.0,2517
+F,Married,Unknown,50,2315.0,1336
+F,Unknown,Unknown,44,11238.0,2336
+M,Married,$60K - $80K,49,1460.0,0
+F,Married,Less than $40K,50,2602.0,1612
+M,Single,Less than $40K,36,4225.0,2517
+F,Single,$40K - $60K,57,2576.0,1678
+F,Married,Unknown,35,1931.0,0
+M,Single,$40K - $60K,46,2344.0,0
+F,Unknown,Unknown,29,7270.0,1835
+F,Single,Less than $40K,40,2395.0,1437
+F,Single,Less than $40K,50,2835.0,2292
+F,Single,$40K - $60K,62,1540.0,796
+F,Married,Unknown,49,3017.0,0
+F,Married,Less than $40K,50,1438.3,0
+F,Single,$40K - $60K,49,1438.3,0
+F,Married,Less than $40K,56,1584.0,1311
+M,Single,$40K - $60K,47,2676.0,2157
+F,Divorced,$40K - $60K,56,5084.0,1683
+F,Single,Less than $40K,41,1764.0,0
+M,Unknown,$60K - $80K,63,23925.0,1494
+F,Married,Unknown,51,2886.0,2517
+F,Unknown,Unknown,43,6720.0,2143
+F,Single,Less than $40K,49,15569.0,1554
+F,Married,$40K - $60K,51,1565.0,944
+M,Single,$60K - $80K,44,5947.0,995
+M,Married,$60K - $80K,46,18821.0,774
+F,Married,$40K - $60K,56,1544.0,0
+F,Married,Less than $40K,41,1755.0,0
+F,Married,Less than $40K,49,1438.3,666
+F,Single,Less than $40K,53,2153.0,0
+F,Married,Less than $40K,44,1684.0,0
+M,Single,$40K - $60K,45,5662.0,1952
+F,Single,Less than $40K,46,2799.0,2412
+M,Married,$120K +,58,12398.0,0
+M,Single,$40K - $60K,41,4461.0,900
+F,Divorced,$40K - $60K,49,2597.0,1871
+F,Single,Unknown,54,9733.0,863
+F,Married,Less than $40K,52,2261.0,1127
+F,Married,Less than $40K,47,2822.0,0
+F,Unknown,Less than $40K,40,8793.0,918
+F,Married,Unknown,53,5843.0,1162
+F,Single,Less than $40K,46,3322.0,2517
+F,Married,Less than $40K,53,2036.0,1716
+F,Single,Less than $40K,28,2387.0,0
+F,Unknown,Less than $40K,43,1884.0,1216
+F,Single,Less than $40K,51,3747.0,2268
+F,Married,Less than $40K,58,2220.0,1240
+F,Married,$40K - $60K,50,2428.0,2005
+F,Married,$40K - $60K,42,1438.3,0
+F,Single,$40K - $60K,45,1850.0,621
+F,Married,$40K - $60K,48,16002.0,2076
+F,Unknown,Less than $40K,54,1438.3,0
+F,Unknown,Less than $40K,47,5222.0,2517
+F,Married,Less than $40K,39,1438.3,859
+F,Single,Less than $40K,62,2582.0,1528
+F,Married,$40K - $60K,45,1533.0,728
+F,Married,Less than $40K,56,1438.3,0
+M,Divorced,$80K - $120K,52,5763.0,0
+F,Single,Unknown,46,1910.0,1431
+F,Married,Less than $40K,51,1515.0,996
+M,Single,$40K - $60K,52,1538.0,666
+F,Single,$40K - $60K,44,1572.0,874
+F,Married,Less than $40K,41,1438.3,1055
+F,Married,Less than $40K,52,2814.0,2162
+F,Married,Less than $40K,41,1495.0,0
+F,Married,$40K - $60K,37,1959.0,662
+F,Divorced,Less than $40K,60,2903.0,1251
+F,Single,$40K - $60K,47,4543.0,1028
+F,Married,Unknown,42,3119.0,1328
+M,Unknown,$80K - $120K,42,17506.0,1979
+F,Married,Less than $40K,50,1438.3,910
+F,Married,Unknown,49,3128.0,749
+F,Single,Unknown,36,5956.0,2517
+M,Unknown,Less than $40K,43,4177.0,2094
+M,Single,$80K - $120K,57,13457.0,1044
+M,Divorced,$80K - $120K,45,1535.0,0
+F,Married,Less than $40K,41,3203.0,2366
+F,Divorced,Less than $40K,39,2092.0,0
+F,Married,Less than $40K,44,2420.0,1223
+F,Single,Less than $40K,43,2313.0,1325
+M,Married,$40K - $60K,56,3059.0,2387
+F,Married,$40K - $60K,41,2235.0,1688
+F,Married,Less than $40K,49,3208.0,0
+M,Unknown,$60K - $80K,43,7534.0,0
+F,Unknown,Less than $40K,39,2006.0,1197
+M,Divorced,$60K - $80K,46,1438.3,738
+M,Married,$80K - $120K,49,14044.0,0
+M,Single,$60K - $80K,44,5005.0,969
+F,Single,Less than $40K,43,1628.0,275
+F,Single,Less than $40K,56,3033.0,0
+F,Unknown,$40K - $60K,56,5204.0,0
+F,Single,Less than $40K,57,2442.0,1699
+F,Single,Less than $40K,51,2429.0,1250
+F,Single,$40K - $60K,60,2213.0,829
+F,Married,Less than $40K,43,2624.0,1117
+F,Single,$40K - $60K,37,1976.0,0
+F,Single,$40K - $60K,46,3492.0,1546
+F,Married,Less than $40K,50,3546.0,0
+F,Unknown,Less than $40K,38,2989.0,2387
+F,Married,$40K - $60K,44,1438.3,0
+F,Divorced,Unknown,52,1438.3,771
+F,Unknown,Less than $40K,37,1438.3,636
+F,Married,Less than $40K,45,1438.3,1201
+F,Single,$40K - $60K,40,2383.0,1828
+M,Married,$80K - $120K,51,13587.0,2374
+F,Single,Less than $40K,57,3085.0,0
+M,Single,$80K - $120K,40,32431.0,850
+F,Single,Less than $40K,61,2207.0,2020
+F,Unknown,Less than $40K,57,2781.0,992
+M,Single,$80K - $120K,40,6921.0,0
+F,Single,Less than $40K,50,7596.0,1156
+F,Married,Unknown,42,4568.0,2025
+F,Single,$40K - $60K,43,6475.0,1686
+M,Divorced,$80K - $120K,46,9949.0,0
+F,Married,Less than $40K,42,2238.0,1693
+F,Married,Less than $40K,41,1438.3,0
+F,Single,Less than $40K,50,2670.0,1944
+F,Single,Less than $40K,42,1438.3,0
+M,Single,$40K - $60K,43,2142.0,1369
+F,Single,Less than $40K,58,3382.0,1446
+F,Single,Unknown,52,8961.0,1382
+F,Married,Less than $40K,40,1762.0,1224
+F,Divorced,$40K - $60K,41,1919.0,867
+F,Married,Less than $40K,59,3054.0,2517
+F,Single,Unknown,45,1877.0,0
+F,Married,Less than $40K,52,4223.0,2235
+F,Married,Less than $40K,36,1666.0,813
+F,Divorced,Less than $40K,43,2422.0,1237
+F,Married,Unknown,49,4821.0,0
+F,Single,Less than $40K,51,3264.0,2508
+M,Married,$60K - $80K,52,4565.0,1258
+F,Single,$40K - $60K,45,1765.0,1694
+M,Divorced,$80K - $120K,40,16050.0,0
+F,Single,Less than $40K,49,2188.0,1067
+F,Single,$40K - $60K,47,1721.0,1355
+F,Married,$40K - $60K,40,1737.0,1689
+F,Divorced,Unknown,42,2369.0,1019
+F,Single,Less than $40K,43,2652.0,0
+F,Married,$40K - $60K,52,1438.3,0
+M,Unknown,Less than $40K,63,1438.3,0
+F,Married,Less than $40K,40,1438.3,689
+F,Single,Less than $40K,60,2481.0,1925
+F,Single,Unknown,36,9817.0,848
+F,Single,Less than $40K,56,4255.0,0
+F,Single,$40K - $60K,45,1438.3,986
+F,Single,Less than $40K,51,4970.0,1591
+F,Married,Unknown,48,1438.3,0
+F,Married,Unknown,49,2333.0,1414
+M,Married,$120K +,50,34516.0,0
+M,Married,$40K - $60K,43,4373.0,0
+F,Single,$40K - $60K,41,1561.0,1169
+M,Married,$80K - $120K,48,12073.0,0
+F,Single,Unknown,55,1438.3,0
+M,Single,$40K - $60K,41,1438.3,0
+F,Single,Less than $40K,43,2525.0,2217
+F,Married,Unknown,47,6451.0,0
+F,Married,$40K - $60K,42,4142.0,688
+M,Single,$120K +,54,34516.0,0
+F,Married,Less than $40K,43,1897.0,0
+F,Single,Less than $40K,52,3231.0,2215
+F,Married,Less than $40K,40,1577.0,1286
+F,Single,Less than $40K,37,3061.0,2517
+M,Single,$40K - $60K,53,2300.0,0
+F,Married,Less than $40K,56,2796.0,0
+F,Married,$40K - $60K,53,3024.0,1649
+F,Married,$40K - $60K,38,5293.0,1030
+F,Single,Less than $40K,40,1964.0,1811
+F,Single,Less than $40K,36,2051.0,1154
+F,Single,Less than $40K,41,1998.0,0
+F,Divorced,Unknown,28,11881.0,1488
+F,Single,Less than $40K,41,2968.0,1873
+F,Married,Less than $40K,42,2797.0,1943
+F,Single,$40K - $60K,39,13984.0,632
+F,Married,Less than $40K,49,2505.0,0
+F,Married,Less than $40K,40,2972.0,0
+M,Single,$80K - $120K,50,5856.0,2007
+F,Divorced,Less than $40K,44,7182.0,1774
+M,Single,Less than $40K,62,5844.0,2013
+F,Single,Less than $40K,55,2114.0,546
+M,Single,$80K - $120K,54,8208.0,1256
+M,Single,$60K - $80K,34,3940.0,1384
+M,Divorced,$60K - $80K,41,5784.0,0
+M,Unknown,$60K - $80K,38,8632.0,0
+F,Single,Less than $40K,57,1438.3,876
+F,Single,$40K - $60K,39,2255.0,1258
+F,Single,Less than $40K,38,9874.0,1059
+M,Single,Less than $40K,64,1873.0,468
+M,Married,$80K - $120K,54,3288.0,2517
+F,Single,$40K - $60K,60,3334.0,1151
+M,Divorced,$60K - $80K,46,3299.0,870
+F,Married,Less than $40K,36,2754.0,1798
+F,Married,$40K - $60K,47,2035.0,1620
+F,Married,Unknown,44,3979.0,780
+F,Married,$40K - $60K,58,2642.0,1249
+M,Divorced,$60K - $80K,62,28229.0,287
+F,Single,Less than $40K,53,2973.0,2517
+F,Married,Less than $40K,51,1612.0,831
+M,Single,$80K - $120K,41,12084.0,1638
+F,Single,Less than $40K,54,2930.0,2266
+F,Married,$40K - $60K,46,1963.0,1112
+F,Single,$40K - $60K,50,2762.0,0
+F,Single,Less than $40K,49,2214.0,915
+F,Single,Less than $40K,39,2292.0,1839
+F,Divorced,$40K - $60K,45,2901.0,2384
+F,Single,Less than $40K,48,2865.0,1523
+F,Single,Unknown,31,3934.0,1911
+F,Single,$40K - $60K,57,2428.0,932
+F,Married,$40K - $60K,43,5302.0,1136
+F,Married,Unknown,41,9139.0,1620
+M,Married,$40K - $60K,48,5219.0,1081
+F,Single,Unknown,52,10351.0,1356
+F,Divorced,Less than $40K,43,6811.0,0
+F,Married,Less than $40K,27,1438.3,990
+M,Single,$40K - $60K,39,2255.0,0
+F,Single,Less than $40K,55,1741.0,0
+M,Married,$60K - $80K,54,2189.0,382
+F,Single,Less than $40K,40,2040.0,1084
+M,Married,$80K - $120K,51,1844.0,1232
+M,Single,$60K - $80K,53,8404.0,1498
+F,Married,Less than $40K,47,1438.3,0
+M,Single,$80K - $120K,42,1944.0,1804
+F,Married,Less than $40K,38,1438.3,0
+M,Single,$40K - $60K,49,4354.0,0
+F,Married,Less than $40K,51,1857.0,1033
+F,Married,Less than $40K,54,2708.0,1616
+M,Married,$60K - $80K,40,9974.0,2185
+F,Single,Less than $40K,47,2271.0,2154
+M,Unknown,$40K - $60K,45,2811.0,1630
+M,Married,$60K - $80K,47,6519.0,1525
+M,Unknown,$80K - $120K,57,4316.0,0
+F,Married,Less than $40K,50,1438.3,0
+F,Married,Less than $40K,34,3116.0,0
+M,Married,$120K +,43,24868.0,794
+F,Married,Less than $40K,48,1438.3,0
+M,Single,$40K - $60K,43,1438.3,0
+F,Single,Less than $40K,39,1438.3,855
+M,Single,$40K - $60K,41,17706.0,1081
+F,Married,Less than $40K,47,1819.0,1235
+M,Single,$120K +,51,19350.0,0
+F,Unknown,Less than $40K,34,3074.0,0
+F,Married,Less than $40K,42,2281.0,1548
+F,Married,Less than $40K,58,3035.0,1779
+F,Married,Less than $40K,38,3222.0,0
+M,Single,$80K - $120K,57,12045.0,1749
+F,Single,$40K - $60K,44,10587.0,2517
+M,Single,$60K - $80K,42,2596.0,1210
+F,Single,Less than $40K,58,3008.0,2517
+F,Married,Less than $40K,41,3280.0,2327
+F,Married,Less than $40K,33,1438.3,611
+F,Married,Less than $40K,48,2835.0,1860
+M,Single,$40K - $60K,60,1438.3,750
+F,Single,Unknown,59,5528.0,1823
+F,Married,Less than $40K,56,2030.0,1262
+F,Married,$40K - $60K,41,2413.0,1627
+M,Single,$60K - $80K,36,7381.0,1608
+F,Married,Less than $40K,46,1438.3,0
+F,Married,Less than $40K,52,2001.0,960
+M,Married,$80K - $120K,45,3031.0,2517
+M,Married,$120K +,47,11354.0,0
+M,Divorced,$40K - $60K,42,2012.0,0
+M,Single,$80K - $120K,39,23034.0,1992
+M,Single,$40K - $60K,40,4947.0,0
+F,Married,$40K - $60K,50,1844.0,1388
+F,Single,Unknown,40,1438.3,0
+M,Married,Less than $40K,46,4752.0,1400
+M,Married,$60K - $80K,38,6114.0,1461
+F,Single,Less than $40K,55,1438.3,0
+F,Single,Less than $40K,37,2286.0,0
+F,Single,$40K - $60K,57,4784.0,1629
+F,Married,Less than $40K,43,2667.0,1590
+F,Married,Less than $40K,54,2473.0,1745
+F,Married,Less than $40K,39,2001.0,1430
+M,Married,$120K +,41,18232.0,1140
+F,Married,Unknown,45,1438.3,0
+F,Married,Less than $40K,45,2918.0,1597
+F,Unknown,Less than $40K,36,1924.0,971
+F,Married,Less than $40K,50,1770.0,1706
+F,Single,Less than $40K,42,2265.0,0
+M,Married,$60K - $80K,59,3868.0,1384
+F,Married,$40K - $60K,43,2701.0,2498
+M,Divorced,$40K - $60K,33,2507.0,1592
+F,Single,Less than $40K,38,2420.0,676
+M,Married,$40K - $60K,46,16547.0,0
+F,Married,Less than $40K,44,1621.0,0
+M,Single,$40K - $60K,59,3808.0,713
+F,Divorced,$40K - $60K,49,2173.0,0
+F,Married,Less than $40K,50,2178.0,1731
+F,Divorced,Unknown,41,1438.3,0
+F,Unknown,Less than $40K,51,1750.0,813
+F,Married,Less than $40K,36,1438.3,0
+F,Married,Less than $40K,36,2466.0,1750
+F,Single,Less than $40K,37,2535.0,1352
+F,Married,$40K - $60K,39,2385.0,1971
+F,Married,Less than $40K,40,1811.0,821
+M,Single,$120K +,45,2701.0,1986
+F,Married,Less than $40K,46,5387.0,1133
+F,Married,Less than $40K,38,1438.3,0
+M,Married,$80K - $120K,44,34058.0,0
+F,Married,$40K - $60K,42,16290.0,0
+F,Married,Less than $40K,49,1438.3,726
+F,Single,Less than $40K,55,2069.0,1028
+F,Married,Less than $40K,56,2802.0,2256
+F,Single,Less than $40K,39,3390.0,2222
+F,Divorced,Unknown,48,3745.0,1291
+M,Single,$80K - $120K,42,26690.0,0
+F,Single,Unknown,58,8513.0,799
+F,Single,Less than $40K,36,1438.3,0
+F,Married,Less than $40K,55,2258.0,2000
+F,Married,Less than $40K,41,1654.0,0
+F,Divorced,$40K - $60K,51,2768.0,1329
+M,Married,$80K - $120K,43,14566.0,1045
+F,Single,$40K - $60K,35,3250.0,1560
+F,Single,Less than $40K,37,2353.0,1095
+F,Married,$40K - $60K,59,1438.3,0
+M,Married,$40K - $60K,59,4188.0,2200
+M,Married,$80K - $120K,45,23542.0,1307
+M,Single,$120K +,57,9272.0,982
+F,Married,Less than $40K,36,1967.0,0
+F,Single,Less than $40K,52,1717.0,0
+M,Single,$60K - $80K,45,34516.0,1664
+M,Single,$80K - $120K,50,5068.0,991
+F,Married,Less than $40K,46,1438.3,0
+F,Divorced,$40K - $60K,55,2697.0,1863
+M,Married,Less than $40K,51,1438.3,0
+F,Married,Less than $40K,44,7499.0,1083
+M,Married,$120K +,39,8700.0,1742
+M,Single,$60K - $80K,55,14266.0,1341
+M,Single,$120K +,46,2692.0,1631
+F,Single,Less than $40K,54,2957.0,1408
+F,Single,Less than $40K,50,1438.3,0
+F,Married,Less than $40K,51,3007.0,2517
+F,Married,Unknown,41,3427.0,1419
+M,Married,$60K - $80K,59,1438.3,642
+F,Married,Less than $40K,47,2990.0,890
+M,Married,$60K - $80K,61,9918.0,850
+F,Married,Unknown,50,8159.0,2277
+M,Single,$120K +,53,18551.0,1434
+F,Married,Less than $40K,31,1438.3,0
+M,Single,$80K - $120K,51,1438.3,327
+M,Single,$60K - $80K,60,10886.0,1145
+F,Single,Unknown,59,10457.0,2148
+M,Single,$40K - $60K,60,1781.0,1551
+M,Married,$120K +,50,34516.0,1156
+F,Married,Less than $40K,42,2363.0,1495
+F,Married,Less than $40K,54,2802.0,2219
+F,Married,Less than $40K,42,1640.0,888
+F,Married,Less than $40K,48,4960.0,0
+M,Married,$80K - $120K,50,4601.0,2517
+M,Unknown,$60K - $80K,48,4100.0,1956
+F,Married,$40K - $60K,52,2741.0,1639
+F,Married,$40K - $60K,46,4152.0,1446
+F,Married,Less than $40K,50,3386.0,2517
+M,Unknown,$40K - $60K,62,3477.0,0
+M,Married,$80K - $120K,50,23209.0,1308
+F,Married,$40K - $60K,50,12610.0,1123
+F,Married,Less than $40K,48,2090.0,793
+M,Married,$40K - $60K,46,1610.0,0
+M,Married,$120K +,40,2269.0,0
+F,Unknown,Less than $40K,40,2387.0,2013
+F,Single,$40K - $60K,54,4036.0,1329
+F,Married,Unknown,54,5342.0,605
+F,Unknown,Less than $40K,54,1695.0,913
+F,Married,Less than $40K,37,1438.3,0
+F,Married,$40K - $60K,38,1776.0,1586
+F,Married,$40K - $60K,42,5640.0,0
+F,Divorced,Less than $40K,42,2403.0,1105
+F,Married,Less than $40K,45,3349.0,2517
+F,Married,Less than $40K,54,3173.0,2517
+M,Unknown,$80K - $120K,43,1504.0,0
+F,Divorced,$40K - $60K,45,1477.0,0
+F,Single,Less than $40K,49,2018.0,1366
+M,Married,$120K +,41,34516.0,1453
+F,Married,Unknown,44,2105.0,0
+F,Divorced,Unknown,46,20080.0,0
+F,Unknown,Less than $40K,39,6690.0,1912
+M,Unknown,$80K - $120K,46,1530.0,0
+M,Single,$80K - $120K,58,2915.0,1494
+F,Divorced,Less than $40K,47,1438.3,0
+F,Single,Less than $40K,56,2423.0,268
+M,Single,$80K - $120K,54,11742.0,0
+F,Single,Less than $40K,51,3069.0,2517
+F,Divorced,Unknown,58,34516.0,1864
+F,Married,$40K - $60K,36,2517.0,1336
+F,Single,Less than $40K,52,1438.3,773
+F,Married,$40K - $60K,45,2216.0,1992
+M,Single,$60K - $80K,51,3232.0,1346
+F,Single,Less than $40K,54,3478.0,941
+F,Single,Unknown,50,1814.0,0
+F,Married,Less than $40K,37,1438.3,0
+F,Single,Less than $40K,42,1446.0,621
+F,Single,Less than $40K,47,1493.0,0
+F,Married,$40K - $60K,45,4244.0,1066
+M,Single,$40K - $60K,40,2984.0,1879
+M,Single,$80K - $120K,48,2713.0,2201
+F,Single,$40K - $60K,42,2471.0,1658
+M,Married,$60K - $80K,47,27437.0,0
+F,Single,Less than $40K,54,4166.0,989
+M,Unknown,$40K - $60K,38,13100.0,1436
+M,Married,$60K - $80K,43,1438.3,0
+F,Unknown,Less than $40K,43,2242.0,0
+F,Married,Unknown,37,9874.0,0
+F,Single,$40K - $60K,41,4432.0,1335
+F,Single,Less than $40K,45,4975.0,1221
+F,Married,Less than $40K,49,2652.0,1581
+F,Single,Less than $40K,54,2043.0,1597
+M,Divorced,Less than $40K,45,3489.0,2517
+M,Married,$80K - $120K,52,14858.0,1594
+F,Married,$40K - $60K,40,2822.0,2182
+F,Single,Less than $40K,54,2901.0,2517
+F,Married,Less than $40K,52,1594.0,0
+F,Married,Less than $40K,58,2241.0,1670
+F,Single,Less than $40K,51,2581.0,1722
+M,Married,$120K +,40,14713.0,905
+F,Married,Less than $40K,49,2910.0,0
+F,Single,Unknown,39,2366.0,1927
+F,Single,Less than $40K,54,2708.0,0
+M,Married,$80K - $120K,42,1681.0,0
+F,Single,Less than $40K,40,2594.0,2159
+F,Single,$40K - $60K,41,2128.0,1383
+F,Married,Less than $40K,50,1438.3,0
+M,Divorced,$80K - $120K,47,1438.3,0
+M,Married,$60K - $80K,46,4696.0,0
+F,Married,Less than $40K,52,2566.0,1079
+F,Married,Unknown,53,2592.0,1364
+F,Single,Less than $40K,56,1698.0,0
+F,Married,$40K - $60K,57,4682.0,1010
+F,Married,$40K - $60K,56,4439.0,1513
+F,Single,Less than $40K,34,2689.0,1618
+M,Married,$80K - $120K,46,11670.0,915
+F,Single,$40K - $60K,47,1596.0,0
+F,Married,$40K - $60K,40,3356.0,2517
+M,Married,$60K - $80K,53,1590.0,0
+M,Single,$80K - $120K,55,4994.0,0
+F,Married,$40K - $60K,51,16406.0,0
+F,Married,Less than $40K,52,2451.0,1733
+M,Married,$80K - $120K,40,9109.0,1347
+F,Single,Less than $40K,45,2632.0,1480
+F,Married,Less than $40K,46,1438.3,0
+F,Married,Less than $40K,38,1757.0,1352
+F,Single,Less than $40K,46,2711.0,1793
+F,Divorced,Less than $40K,47,2776.0,1341
+F,Married,$40K - $60K,44,1438.3,1091
+M,Married,$80K - $120K,36,5015.0,1963
+M,Single,$60K - $80K,40,8529.0,901
+F,Married,Less than $40K,49,1604.0,1112
+F,Married,Unknown,56,4263.0,0
+F,Married,Less than $40K,45,2493.0,1655
+F,Single,Less than $40K,38,1568.0,0
+F,Single,Less than $40K,43,1521.0,0
+M,Single,$40K - $60K,48,3261.0,1730
+F,Single,Less than $40K,39,1781.0,935
+F,Single,Less than $40K,62,5284.0,2517
+F,Married,Unknown,47,5590.0,0
+F,Married,Unknown,57,1734.0,980
+F,Single,Unknown,48,7645.0,931
+F,Unknown,$40K - $60K,48,1438.3,1218
+F,Unknown,Less than $40K,34,2207.0,1527
+F,Married,Less than $40K,46,1723.0,1010
+F,Married,Less than $40K,49,1644.0,0
+F,Married,Less than $40K,48,1745.0,0
+F,Single,$40K - $60K,42,3376.0,1661
+M,Married,$60K - $80K,47,7298.0,0
+M,Single,$80K - $120K,45,8383.0,0
+M,Unknown,$40K - $60K,41,3600.0,746
+F,Single,$40K - $60K,45,4595.0,1781
+M,Divorced,$80K - $120K,57,2795.0,1832
+F,Single,Less than $40K,49,1768.0,0
+F,Single,Less than $40K,50,1780.0,893
+F,Divorced,Less than $40K,51,2987.0,1764
+F,Single,Unknown,44,2717.0,1720
+F,Married,Unknown,40,2887.0,0
+F,Married,Less than $40K,37,1438.3,0
+M,Married,$80K - $120K,46,10879.0,860
+F,Single,Less than $40K,39,1809.0,1181
+F,Married,$40K - $60K,38,1628.0,0
+F,Single,Less than $40K,45,1438.3,0
+F,Married,Less than $40K,37,1586.0,0
+F,Married,$40K - $60K,43,2311.0,1320
+F,Married,Less than $40K,48,2109.0,1205
+F,Divorced,Less than $40K,51,1562.0,1057
+F,Unknown,Unknown,44,1438.3,0
+M,Married,$80K - $120K,39,2981.0,757
+M,Divorced,$80K - $120K,47,5295.0,723
+F,Single,$40K - $60K,51,4708.0,920
+M,Married,$60K - $80K,54,2210.0,1002
+F,Married,$40K - $60K,53,1972.0,0
+M,Single,$60K - $80K,48,2384.0,1596
+M,Married,Less than $40K,35,2311.0,1222
+F,Unknown,$40K - $60K,46,1912.0,1172
+F,Single,$40K - $60K,49,2147.0,1402
+F,Married,Less than $40K,42,3214.0,0
+F,Married,Less than $40K,43,3006.0,879
+M,Single,$80K - $120K,52,2735.0,1942
+M,Married,$120K +,50,3390.0,2385
+M,Single,$80K - $120K,54,34516.0,214
+F,Unknown,Unknown,55,11249.0,2012
+F,Single,Less than $40K,52,2484.0,1495
+F,Single,Less than $40K,40,2932.0,1664
+F,Married,Less than $40K,60,2882.0,2081
+F,Unknown,Less than $40K,45,2658.0,694
+F,Unknown,Unknown,44,5589.0,1336
+F,Single,$40K - $60K,44,1484.0,885
+F,Single,Unknown,57,1678.0,1162
+F,Divorced,Unknown,34,12373.0,0
+M,Married,Less than $40K,52,2846.0,1606
+F,Married,$40K - $60K,42,1585.0,1381
+F,Single,Less than $40K,42,2837.0,834
+F,Married,Less than $40K,51,2066.0,1077
+M,Married,$60K - $80K,47,20789.0,0
+F,Single,Less than $40K,48,1449.0,0
+F,Single,$40K - $60K,39,3911.0,0
+F,Married,Less than $40K,56,1737.0,0
+F,Single,Less than $40K,48,1815.0,557
+F,Single,Unknown,46,4848.0,2517
+F,Divorced,Less than $40K,46,1592.0,925
+F,Single,Less than $40K,40,1768.0,1242
+F,Single,Unknown,44,8128.0,2344
+F,Single,Unknown,45,2557.0,1898
+M,Unknown,$60K - $80K,44,2991.0,642
+M,Unknown,$80K - $120K,49,34516.0,0
+M,Married,$80K - $120K,45,19099.0,2517
+F,Single,Unknown,44,4559.0,1680
+M,Single,$80K - $120K,58,22981.0,1696
+F,Single,$40K - $60K,38,2358.0,1965
+M,Single,$80K - $120K,48,22067.0,685
+F,Single,Less than $40K,43,2023.0,1331
+F,Single,Unknown,36,2222.0,0
+M,Single,$60K - $80K,59,1438.3,788
+M,Single,$80K - $120K,40,8958.0,0
+F,Single,Less than $40K,36,1937.0,733
+M,Single,$60K - $80K,40,25219.0,1503
+M,Unknown,$80K - $120K,36,1815.0,0
+F,Married,$40K - $60K,60,3361.0,2473
+M,Divorced,$40K - $60K,47,4786.0,1516
+F,Single,Unknown,37,1438.3,0
+F,Single,Less than $40K,51,1438.3,908
+F,Single,Less than $40K,42,2725.0,2444
+F,Divorced,Unknown,42,10039.0,1600
+F,Married,Unknown,45,2467.0,1446
+F,Married,Less than $40K,52,1438.3,0
+F,Married,Less than $40K,57,1759.0,186
+M,Married,Less than $40K,46,2206.0,1722
+F,Married,$40K - $60K,35,2045.0,1707
+F,Single,Less than $40K,54,4170.0,641
+F,Married,Less than $40K,47,3300.0,2517
+F,Married,Less than $40K,26,5422.0,682
+F,Married,Unknown,56,2015.0,807
+M,Single,$60K - $80K,47,2048.0,1599
+F,Single,Less than $40K,37,2152.0,1682
+F,Unknown,Less than $40K,44,3017.0,1868
+M,Single,$120K +,53,34516.0,1073
+M,Single,$60K - $80K,33,1819.0,725
+F,Married,Less than $40K,46,2228.0,1449
+F,Married,Less than $40K,44,2279.0,1837
+F,Married,$40K - $60K,48,1438.3,0
+M,Married,$120K +,45,1686.0,0
+F,Single,Unknown,48,1942.0,1488
+M,Single,$60K - $80K,53,3858.0,0
+M,Divorced,$60K - $80K,44,11651.0,1368
+M,Unknown,$40K - $60K,43,9449.0,1914
+F,Single,Less than $40K,50,3423.0,0
+F,Single,Less than $40K,47,2915.0,2422
+F,Married,Unknown,50,11486.0,0
+F,Married,Less than $40K,40,2984.0,2517
+F,Single,Less than $40K,37,1653.0,0
+F,Single,Less than $40K,47,2723.0,1588
+F,Married,Less than $40K,40,1438.3,0
+F,Single,Less than $40K,43,1818.0,0
+F,Married,$40K - $60K,56,4384.0,929
+F,Unknown,Less than $40K,43,1824.0,0
+F,Married,Less than $40K,50,5452.0,540
+F,Single,Unknown,50,9248.0,0
+M,Married,$120K +,55,17627.0,1756
+F,Unknown,Less than $40K,27,1438.3,0
+F,Married,Less than $40K,44,5357.0,2139
+F,Married,Unknown,49,2542.0,850
+F,Single,$40K - $60K,51,2275.0,1219
+F,Divorced,Less than $40K,43,1706.0,0
+F,Divorced,Less than $40K,54,3591.0,2517
+M,Single,$40K - $60K,44,19360.0,870
+F,Married,Less than $40K,56,1707.0,0
+M,Single,Less than $40K,53,3844.0,2079
+F,Married,$40K - $60K,45,2851.0,0
+F,Married,Less than $40K,49,2951.0,2437
+F,Married,Less than $40K,38,1438.3,0
+M,Single,$120K +,54,9090.0,2517
+M,Married,$120K +,45,34516.0,797
+M,Married,$80K - $120K,53,1837.0,875
+F,Single,Unknown,48,2300.0,1906
+F,Married,Less than $40K,36,2611.0,537
+M,Unknown,$80K - $120K,40,22863.0,927
+F,Married,$40K - $60K,53,2192.0,1146
+F,Divorced,Less than $40K,40,2917.0,1310
+F,Single,$40K - $60K,41,1438.3,913
+F,Single,Less than $40K,37,1784.0,577
+F,Single,Less than $40K,43,8919.0,2231
+F,Single,Less than $40K,52,2164.0,0
+F,Single,Unknown,48,2792.0,1375
+F,Married,Less than $40K,60,1634.0,1155
+F,Single,Less than $40K,39,2144.0,1557
+M,Single,$40K - $60K,37,3664.0,1449
+F,Married,Less than $40K,40,4788.0,1088
+F,Married,Less than $40K,34,2164.0,1176
+F,Single,Less than $40K,48,1532.0,1183
+F,Single,Less than $40K,56,1883.0,400
+F,Single,$40K - $60K,44,3659.0,1356
+F,Married,Less than $40K,47,2946.0,2338
+F,Divorced,Less than $40K,45,2697.0,2216
+F,Single,Unknown,47,3811.0,1970
+F,Married,$40K - $60K,35,1613.0,1085
+F,Married,Less than $40K,42,2043.0,0
+M,Married,$40K - $60K,47,1684.0,644
+F,Unknown,Unknown,47,3127.0,2094
+M,Married,$40K - $60K,47,7106.0,736
+F,Single,$40K - $60K,50,2784.0,2458
+F,Single,$40K - $60K,51,5536.0,0
+F,Married,Less than $40K,45,1717.0,1156
+F,Married,Less than $40K,47,1438.3,0
+M,Married,$60K - $80K,42,1866.0,0
+M,Single,$80K - $120K,52,2516.0,1268
+F,Divorced,$40K - $60K,45,3076.0,0
+M,Single,$40K - $60K,48,7514.0,0
+F,Married,$40K - $60K,52,2804.0,1782
+F,Divorced,Less than $40K,58,1817.0,0
+F,Married,Less than $40K,43,2590.0,0
+F,Single,$40K - $60K,39,4938.0,1593
+M,Single,$60K - $80K,53,19940.0,2018
+F,Single,Unknown,52,12366.0,0
+M,Single,$40K - $60K,40,2583.0,2235
+F,Single,Less than $40K,62,2616.0,801
+F,Single,$40K - $60K,52,6053.0,577
+F,Married,Less than $40K,59,1708.0,0
+F,Married,Less than $40K,49,2393.0,1667
+F,Divorced,Less than $40K,53,3424.0,1333
+F,Married,Less than $40K,48,2640.0,2133
+F,Single,$40K - $60K,59,1931.0,1409
+M,Single,$120K +,50,2123.0,995
+F,Married,$40K - $60K,54,1606.0,0
+M,Married,$60K - $80K,41,5633.0,1395
+F,Married,Less than $40K,57,1438.3,740
+F,Married,Less than $40K,50,2590.0,2087
+M,Single,$60K - $80K,43,4556.0,0
+F,Married,Unknown,47,1537.0,0
+M,Single,$60K - $80K,55,1602.0,962
+F,Married,Less than $40K,50,2080.0,1799
+F,Single,Unknown,46,7565.0,887
+M,Divorced,$60K - $80K,47,4786.0,1553
+F,Single,Less than $40K,53,2375.0,1353
+F,Married,Unknown,48,8446.0,908
+F,Married,Less than $40K,60,1977.0,545
+M,Married,$80K - $120K,42,13908.0,0
+F,Married,$40K - $60K,52,19220.0,0
+F,Single,Less than $40K,44,2709.0,1726
+M,Single,$60K - $80K,38,1503.0,879
+M,Married,$80K - $120K,51,9186.0,0
+F,Single,Less than $40K,50,2165.0,1392
+F,Single,Unknown,41,1438.3,0
+F,Single,Unknown,61,6673.0,2458
+F,Married,Less than $40K,53,2404.0,1109
+F,Married,Less than $40K,47,1666.0,0
+M,Single,$60K - $80K,41,8228.0,1935
+F,Single,Less than $40K,54,3186.0,968
+F,Married,Less than $40K,53,2596.0,868
+F,Divorced,Less than $40K,43,1662.0,613
+F,Single,Less than $40K,42,2053.0,0
+F,Single,Unknown,32,3193.0,1533
+F,Married,Less than $40K,45,1927.0,1337
+F,Married,$40K - $60K,39,2821.0,725
+M,Married,$60K - $80K,48,3879.0,1214
+F,Married,Less than $40K,56,1971.0,922
+F,Married,Unknown,48,1755.0,1058
+F,Married,Less than $40K,42,2031.0,1720
+F,Married,Less than $40K,46,2330.0,1584
+F,Married,Less than $40K,46,1438.3,0
+M,Divorced,Less than $40K,59,1438.3,0
+M,Married,$120K +,60,5130.0,2048
+F,Married,Unknown,54,11794.0,1018
+M,Single,$60K - $80K,50,7603.0,744
+F,Married,$40K - $60K,41,3606.0,0
+F,Married,Less than $40K,49,5153.0,1378
+F,Single,Less than $40K,47,2500.0,1169
+M,Single,$40K - $60K,42,2654.0,1489
+F,Single,Less than $40K,35,3611.0,2517
+F,Married,Unknown,47,1882.0,1143
+M,Single,$80K - $120K,47,7421.0,0
+F,Single,Less than $40K,44,4606.0,1556
+F,Divorced,Unknown,32,12268.0,1165
+M,Married,$80K - $120K,50,9873.0,1276
+F,Single,Less than $40K,46,1555.0,1366
+F,Married,Less than $40K,52,2160.0,0
+M,Married,$60K - $80K,38,3809.0,1521
+F,Single,Less than $40K,44,5362.0,1984
+F,Unknown,Less than $40K,43,1834.0,1416
+F,Married,Less than $40K,52,2577.0,879
+M,Single,$60K - $80K,47,2721.0,1264
+F,Married,Less than $40K,50,2925.0,2065
+F,Unknown,Less than $40K,44,1545.0,0
+F,Married,Less than $40K,49,2212.0,0
+M,Single,$120K +,46,13001.0,1482
+F,Single,Less than $40K,36,2784.0,2378
+M,Single,$60K - $80K,50,2317.0,0
+F,Unknown,Less than $40K,41,1867.0,970
+F,Single,Less than $40K,50,2595.0,2353
+F,Divorced,Less than $40K,46,1438.3,0
+F,Married,Less than $40K,46,1696.0,1177
+F,Married,Unknown,46,2694.0,1576
+F,Married,Less than $40K,51,2791.0,940
+F,Single,$40K - $60K,51,2146.0,967
+M,Married,$80K - $120K,61,1438.3,0
+F,Married,Unknown,38,1438.3,730
+F,Divorced,$40K - $60K,44,4269.0,1852
+F,Married,$40K - $60K,45,4195.0,2440
+F,Married,Less than $40K,48,1832.0,748
+F,Married,Less than $40K,37,2588.0,1782
+F,Single,Less than $40K,63,4847.0,1856
+F,Married,$40K - $60K,46,2423.0,429
+F,Single,$40K - $60K,50,7507.0,1697
+M,Married,$120K +,51,5232.0,1923
+F,Single,Unknown,43,1438.3,491
+F,Married,Unknown,47,1828.0,1517
+F,Married,Unknown,49,2557.0,2351
+F,Divorced,Less than $40K,42,2283.0,1690
+F,Single,Less than $40K,35,2684.0,1658
+F,Married,Unknown,38,7234.0,0
+F,Single,$40K - $60K,37,1438.3,743
+F,Married,Less than $40K,42,2730.0,1303
+F,Married,Unknown,50,2808.0,1720
+F,Single,Less than $40K,42,6275.0,0
+F,Unknown,$40K - $60K,43,1438.3,0
+M,Single,$80K - $120K,44,10834.0,0
+F,Married,Less than $40K,44,1522.0,0
+F,Single,Unknown,48,2845.0,919
+F,Married,$40K - $60K,41,2329.0,1271
+F,Single,$40K - $60K,47,2099.0,1164
+F,Married,Unknown,42,5099.0,958
+F,Married,Unknown,54,3805.0,821
+F,Married,Unknown,47,11438.0,0
+F,Single,$40K - $60K,43,2434.0,1169
+F,Single,Unknown,44,4703.0,1555
+F,Married,Unknown,44,5254.0,2507
+F,Married,Less than $40K,45,1438.3,491
+F,Single,Less than $40K,40,2206.0,1110
+F,Married,$40K - $60K,50,3600.0,1904
+M,Unknown,$60K - $80K,46,7116.0,693
+F,Married,Less than $40K,37,1788.0,0
+F,Married,Unknown,60,7508.0,2148
+F,Married,$40K - $60K,39,3333.0,1867
+F,Married,Unknown,50,13745.0,0
+F,Married,Less than $40K,34,5021.0,2517
+M,Married,$40K - $60K,43,4396.0,0
+F,Single,Less than $40K,40,2558.0,0
+F,Single,Unknown,30,9641.0,0
+F,Married,Unknown,38,12621.0,912
+M,Married,$40K - $60K,40,2313.0,0
+F,Married,Less than $40K,53,1438.3,1183
+F,Divorced,Less than $40K,44,1791.0,1314
+F,Single,Less than $40K,52,2300.0,1598
+F,Married,Less than $40K,42,2526.0,2048
+F,Married,$40K - $60K,42,2918.0,0
+F,Single,Unknown,53,6074.0,0
+M,Married,$60K - $80K,45,4995.0,1766
+M,Married,$40K - $60K,34,3323.0,1062
+F,Married,Less than $40K,56,2464.0,1794
+F,Unknown,Less than $40K,34,2730.0,0
+F,Unknown,Unknown,35,1438.3,966
+M,Single,$80K - $120K,43,4617.0,1035
+M,Married,$120K +,50,8220.0,1015
+F,Single,Less than $40K,40,5716.0,623
+F,Single,Less than $40K,49,1635.0,1220
+F,Single,$40K - $60K,52,4259.0,0
+M,Married,$60K - $80K,40,5869.0,0
+F,Single,Less than $40K,56,2272.0,1350
+F,Married,Less than $40K,49,2598.0,1848
+M,Single,$60K - $80K,50,10762.0,703
+M,Married,$60K - $80K,39,1982.0,1751
+F,Unknown,Unknown,33,4651.0,2499
+F,Single,Less than $40K,52,2437.0,0
+F,Single,Less than $40K,42,2563.0,1579
+M,Married,$80K - $120K,49,4576.0,193
+F,Single,$40K - $60K,44,2245.0,1342
+F,Single,$40K - $60K,39,1776.0,0
+F,Married,Less than $40K,45,2911.0,1471
+M,Married,$60K - $80K,47,2257.0,896
+M,Single,Unknown,62,18457.0,2248
+M,Married,$60K - $80K,46,1681.0,0
+F,Single,Unknown,52,1461.0,0
+F,Unknown,Less than $40K,48,2363.0,978
+F,Married,Less than $40K,49,1438.3,863
+F,Married,Unknown,42,1840.0,1267
+F,Single,$40K - $60K,49,7382.0,1326
+M,Married,$80K - $120K,51,3861.0,622
+F,Married,Less than $40K,53,1562.0,751
+F,Unknown,$40K - $60K,49,3088.0,1477
+F,Single,Less than $40K,55,1438.3,0
+F,Married,$40K - $60K,46,2168.0,1704
+F,Married,$40K - $60K,34,2432.0,851
+M,Single,$40K - $60K,44,2197.0,0
+M,Single,$80K - $120K,39,10009.0,1604
+F,Unknown,$40K - $60K,47,3979.0,1319
+F,Married,Less than $40K,49,2189.0,1860
+F,Single,Unknown,46,8243.0,927
+M,Divorced,$80K - $120K,42,11946.0,1172
+F,Single,Less than $40K,31,2239.0,1256
+F,Married,Unknown,48,4025.0,0
+F,Married,Less than $40K,52,1663.0,0
+F,Married,$40K - $60K,39,3649.0,929
+F,Single,Less than $40K,43,1438.3,0
+F,Single,Less than $40K,57,2894.0,0
+M,Single,$60K - $80K,46,1621.0,787
+F,Married,Less than $40K,45,2740.0,1786
+F,Unknown,$40K - $60K,45,5562.0,1556
+F,Unknown,Unknown,41,13733.0,0
+F,Married,Less than $40K,46,2374.0,1332
+F,Unknown,Less than $40K,51,2267.0,1357
+F,Married,Unknown,48,6130.0,1741
+M,Single,$120K +,37,7361.0,0
+F,Divorced,Less than $40K,41,1569.0,257
+M,Divorced,$80K - $120K,47,1626.0,1013
+F,Married,Less than $40K,35,2158.0,1299
+M,Single,$60K - $80K,43,2283.0,1470
+F,Unknown,$40K - $60K,57,2542.0,1884
+F,Single,Less than $40K,30,1438.3,0
+M,Unknown,$40K - $60K,47,2335.0,1373
+M,Single,$60K - $80K,34,2033.0,1832
+F,Married,Unknown,41,4739.0,1878
+M,Single,$80K - $120K,36,5821.0,764
+F,Divorced,Less than $40K,47,2182.0,1566
+F,Married,Less than $40K,53,3319.0,913
+F,Married,Less than $40K,52,3021.0,1530
+M,Married,$80K - $120K,49,29219.0,0
+F,Single,Less than $40K,52,1438.3,869
+F,Unknown,Unknown,48,4431.0,2517
+F,Married,Unknown,46,3131.0,0
+F,Single,Less than $40K,26,1486.0,0
+F,Single,Unknown,40,6384.0,2034
+F,Single,Less than $40K,39,2077.0,0
+F,Divorced,$40K - $60K,40,1956.0,958
+M,Married,$80K - $120K,51,24462.0,946
+F,Married,Less than $40K,43,2725.0,2517
+F,Unknown,$40K - $60K,46,1474.0,843
+M,Married,$120K +,46,9880.0,1792
+M,Divorced,$60K - $80K,58,2467.0,1176
+M,Divorced,$60K - $80K,46,5397.0,2336
+M,Single,$80K - $120K,50,3370.0,1133
+F,Married,Unknown,37,11239.0,0
+F,Married,$40K - $60K,55,2240.0,1231
+F,Married,Unknown,52,2737.0,1719
+F,Married,Less than $40K,48,4170.0,1384
+M,Single,$60K - $80K,46,21839.0,960
+F,Single,Less than $40K,49,1991.0,0
+M,Single,$120K +,55,29795.0,2364
+F,Married,$40K - $60K,52,1438.3,635
+F,Married,Unknown,44,24221.0,1274
+M,Married,$60K - $80K,42,2131.0,1288
+F,Single,Less than $40K,41,2787.0,2053
+F,Unknown,Less than $40K,48,1438.3,0
+F,Divorced,Unknown,42,2712.0,0
+F,Unknown,Less than $40K,43,2605.0,2269
+M,Single,$60K - $80K,42,5169.0,2296
+M,Unknown,$80K - $120K,49,4694.0,0
+F,Single,Less than $40K,50,1848.0,501
+M,Single,$60K - $80K,43,6039.0,1759
+M,Married,$120K +,54,5256.0,889
+F,Unknown,Less than $40K,48,1708.0,1059
+F,Married,Less than $40K,57,1629.0,1185
+M,Single,$60K - $80K,54,20401.0,0
+M,Divorced,$120K +,56,3296.0,1435
+M,Married,$120K +,48,8956.0,1279
+F,Married,Less than $40K,49,1438.3,786
+F,Single,Less than $40K,46,2671.0,1713
+F,Married,Less than $40K,58,2493.0,1566
+F,Married,Less than $40K,59,2687.0,2452
+F,Married,$40K - $60K,37,2208.0,1559
+F,Married,Less than $40K,38,4196.0,731
+F,Divorced,Unknown,47,12581.0,1235
+M,Single,$80K - $120K,41,17890.0,2517
+F,Married,Less than $40K,48,1930.0,0
+F,Divorced,Unknown,36,8513.0,0
+M,Married,$80K - $120K,40,9599.0,2356
+M,Single,$80K - $120K,38,3192.0,2517
+F,Unknown,Unknown,43,2778.0,2517
+F,Single,Unknown,61,3293.0,0
+F,Married,$40K - $60K,48,7268.0,0
+F,Married,Less than $40K,43,1721.0,729
+M,Married,$80K - $120K,38,3976.0,1667
+F,Single,Less than $40K,52,1954.0,808
+M,Married,$120K +,44,12725.0,1759
+F,Single,Unknown,40,2690.0,1935
+F,Married,$40K - $60K,48,2926.0,716
+M,Single,$80K - $120K,46,2371.0,1748
+F,Married,Unknown,44,7751.0,1965
+F,Married,Less than $40K,42,1601.0,0
+F,Married,Less than $40K,34,2401.0,496
+M,Married,$60K - $80K,39,2187.0,0
+F,Married,Unknown,57,4661.0,1734
+F,Divorced,Unknown,40,8494.0,2023
+M,Married,$80K - $120K,36,2262.0,1450
+F,Divorced,Less than $40K,43,2525.0,1595
+F,Married,Less than $40K,38,2450.0,1981
+F,Married,Unknown,36,3926.0,1760
+F,Single,Less than $40K,40,1438.3,0
+F,Single,Unknown,51,4789.0,2203
+F,Unknown,Less than $40K,41,2864.0,1928
+F,Single,Unknown,43,4607.0,2440
+F,Unknown,Less than $40K,43,1971.0,979
+F,Married,Less than $40K,53,1473.0,0
+F,Single,$40K - $60K,55,3187.0,1437
+F,Married,Less than $40K,38,5589.0,0
+F,Married,Less than $40K,42,2346.0,1373
+F,Single,Less than $40K,34,1438.3,0
+F,Single,Less than $40K,40,1826.0,944
+F,Married,$40K - $60K,40,2208.0,0
+F,Married,Less than $40K,35,1476.0,0
+F,Single,Less than $40K,51,2927.0,1499
+M,Unknown,$80K - $120K,53,4778.0,1869
+F,Divorced,Less than $40K,43,1438.3,743
+F,Single,$40K - $60K,46,16239.0,1487
+M,Married,$120K +,37,11726.0,1925
+F,Married,Unknown,47,1438.3,0
+F,Married,Less than $40K,45,2647.0,1288
+F,Married,Unknown,50,2492.0,1410
+F,Single,Unknown,46,2418.0,1106
+M,Single,$120K +,50,17827.0,0
+F,Divorced,$40K - $60K,49,1438.3,0
+F,Single,Less than $40K,54,1764.0,0
+F,Married,Less than $40K,47,1776.0,1519
+M,Married,$120K +,46,1438.3,0
+F,Single,Unknown,47,1491.0,0
+F,Married,Less than $40K,46,2552.0,1879
+F,Single,Less than $40K,42,2996.0,1992
+F,Married,$40K - $60K,44,1701.0,775
+F,Single,Unknown,53,3998.0,0
+F,Unknown,Less than $40K,46,3025.0,2491
+F,Single,Less than $40K,48,3251.0,2517
+M,Single,$60K - $80K,51,3031.0,1787
+M,Single,$60K - $80K,57,33211.0,0
+F,Divorced,Less than $40K,59,1863.0,1853
+F,Single,Less than $40K,35,2691.0,1935
+F,Single,Less than $40K,45,2288.0,1249
+F,Unknown,Less than $40K,42,3413.0,0
+M,Married,$40K - $60K,40,15471.0,1291
+F,Married,Less than $40K,40,2038.0,793
+F,Unknown,Less than $40K,47,1953.0,1089
+F,Unknown,$40K - $60K,43,4430.0,2203
+F,Unknown,Less than $40K,44,3398.0,2415
+F,Married,Unknown,48,2021.0,1186
+F,Single,Less than $40K,53,2329.0,2290
+F,Married,Less than $40K,34,1696.0,0
+F,Married,Unknown,52,4222.0,0
+M,Divorced,$80K - $120K,45,6614.0,1881
+F,Single,Less than $40K,42,3241.0,0
+F,Married,Less than $40K,48,4204.0,0
+F,Single,Less than $40K,34,3234.0,971
+F,Single,$40K - $60K,40,2473.0,2332
+M,Single,$60K - $80K,42,4836.0,493
+F,Married,Less than $40K,55,1438.3,0
+F,Single,Less than $40K,44,1438.3,541
+M,Single,Less than $40K,45,1438.3,1060
+F,Unknown,Less than $40K,57,12675.0,2422
+F,Single,Less than $40K,44,2228.0,0
+F,Married,Less than $40K,40,2813.0,2208
+F,Single,Less than $40K,42,3223.0,0
+F,Married,$40K - $60K,55,2653.0,0
+F,Married,Less than $40K,45,2745.0,2463
+M,Divorced,$120K +,40,34516.0,0
+F,Married,Less than $40K,52,2516.0,1486
+F,Divorced,Less than $40K,46,1870.0,1785
+F,Single,Unknown,56,3934.0,2517
+F,Married,Less than $40K,49,3038.0,2133
+F,Single,Less than $40K,53,1982.0,1276
+F,Divorced,Unknown,31,1623.0,0
+M,Single,$120K +,55,3088.0,1743
+F,Single,Unknown,44,8064.0,2417
+F,Single,Unknown,56,10016.0,1872
+F,Married,Unknown,54,4523.0,1841
+F,Single,Less than $40K,53,1944.0,1140
+F,Married,Unknown,46,6083.0,1716
+F,Married,Unknown,38,2425.0,1396
+F,Single,$40K - $60K,56,2607.0,1702
+F,Single,Less than $40K,53,1953.0,1215
+M,Unknown,$60K - $80K,41,5813.0,1614
+F,Single,Less than $40K,43,1438.3,0
+F,Married,$40K - $60K,41,1588.0,0
+F,Single,Less than $40K,62,3749.0,1980
+F,Divorced,$40K - $60K,42,3734.0,2517
+F,Married,Unknown,56,1796.0,1243
+F,Divorced,Less than $40K,45,3223.0,243
+F,Married,$40K - $60K,33,2748.0,1867
+F,Married,Less than $40K,57,2448.0,0
+F,Married,Less than $40K,49,2548.0,1998
+F,Married,Less than $40K,46,1489.0,949
+F,Married,Unknown,38,8953.0,0
+F,Single,Unknown,50,3187.0,986
+F,Single,Less than $40K,51,1757.0,0
+M,Unknown,$60K - $80K,52,2597.0,1740
+F,Single,Unknown,45,5999.0,658
+F,Married,Less than $40K,56,3617.0,878
+F,Single,Less than $40K,56,3219.0,2114
+M,Unknown,$80K - $120K,41,19782.0,868
+F,Single,Less than $40K,51,2522.0,1898
+F,Married,Less than $40K,43,3327.0,2517
+F,Married,Unknown,42,4708.0,0
+F,Divorced,Less than $40K,48,3745.0,2517
+M,Single,$80K - $120K,53,11561.0,2189
+F,Married,Unknown,44,8477.0,2517
+F,Married,Less than $40K,59,2120.0,1411
+F,Married,Less than $40K,45,2867.0,1209
+F,Single,$40K - $60K,45,2293.0,1304
+M,Single,$120K +,51,8671.0,590
+F,Divorced,Unknown,49,34516.0,1163
+F,Married,Unknown,43,2679.0,1694
+M,Married,$80K - $120K,38,3224.0,0
+F,Married,Unknown,45,1438.3,745
+M,Single,$80K - $120K,54,7773.0,2465
+F,Single,Unknown,44,8075.0,317
+F,Single,Unknown,57,3052.0,1603
+M,Married,$120K +,51,7932.0,2140
+M,Unknown,$40K - $60K,48,1753.0,1434
+F,Married,Less than $40K,48,5814.0,1176
+F,Married,$40K - $60K,53,1989.0,1003
+F,Single,$40K - $60K,55,1843.0,1520
+F,Married,Unknown,52,1438.3,1228
+F,Married,$40K - $60K,34,2991.0,1830
+M,Married,$60K - $80K,43,9560.0,0
+F,Unknown,Less than $40K,44,2616.0,2505
+F,Single,Less than $40K,54,2939.0,2152
+F,Married,Unknown,49,3085.0,966
+M,Single,$80K - $120K,49,5275.0,1490
+M,Married,$60K - $80K,41,1950.0,1618
+F,Single,Unknown,43,2341.0,1818
+F,Divorced,Less than $40K,40,3758.0,2047
+M,Married,$80K - $120K,54,1621.0,618
+F,Married,$40K - $60K,50,10946.0,1912
+F,Single,Less than $40K,56,3422.0,2517
+F,Married,Less than $40K,39,3108.0,778
+F,Married,Less than $40K,33,3202.0,0
+F,Single,Less than $40K,43,1855.0,907
+F,Married,$40K - $60K,47,2155.0,1119
+F,Single,Less than $40K,42,4150.0,2517
+M,Married,$80K - $120K,45,2226.0,1229
+F,Married,$40K - $60K,48,1610.0,0
+F,Married,Unknown,53,2046.0,1260
+F,Single,Less than $40K,52,1795.0,0
+F,Married,Less than $40K,42,1531.0,987
+F,Married,Less than $40K,53,1472.0,1196
+F,Single,Less than $40K,50,1438.3,0
+F,Single,$40K - $60K,37,2886.0,2198
+F,Single,Less than $40K,39,10024.0,913
+F,Married,Less than $40K,52,1760.0,0
+F,Single,Less than $40K,38,1461.0,0
+F,Single,$40K - $60K,51,8840.0,1794
+F,Married,$40K - $60K,38,4468.0,2395
+M,Unknown,$60K - $80K,42,2516.0,1360
+F,Married,Less than $40K,35,1555.0,872
+M,Unknown,$80K - $120K,57,1438.3,641
+M,Married,$120K +,42,5195.0,468
+M,Single,$120K +,57,17268.0,1197
+M,Single,Unknown,37,1649.0,0
+F,Married,Less than $40K,57,1609.0,0
+F,Single,Less than $40K,43,3342.0,2517
+M,Single,Less than $40K,63,6973.0,2517
+M,Married,$120K +,43,17228.0,1331
+M,Married,$40K - $60K,48,1898.0,0
+F,Single,Less than $40K,46,1438.3,0
+F,Unknown,Unknown,40,2321.0,1190
+M,Married,$60K - $80K,52,8185.0,941
+M,Single,$60K - $80K,53,3096.0,0
+F,Married,Less than $40K,57,2129.0,1139
+F,Married,Less than $40K,50,2615.0,1404
+F,Divorced,$40K - $60K,46,3157.0,965
+F,Married,Less than $40K,36,1707.0,0
+F,Divorced,Less than $40K,49,1838.0,0
+F,Married,Less than $40K,38,5523.0,2517
+F,Single,Less than $40K,40,3021.0,0
+F,Unknown,Less than $40K,44,7317.0,1540
+F,Married,Less than $40K,59,5218.0,1907
+F,Single,Less than $40K,53,1438.3,0
+M,Married,$80K - $120K,54,11114.0,2482
+M,Single,$80K - $120K,51,10648.0,2517
+F,Single,Less than $40K,45,2976.0,2372
+F,Divorced,Less than $40K,52,6629.0,2517
+F,Married,Less than $40K,42,2812.0,2238
+M,Married,$80K - $120K,48,10761.0,1722
+F,Married,Less than $40K,40,1968.0,1781
+M,Single,Less than $40K,55,3897.0,1247
+M,Married,$40K - $60K,45,4721.0,1289
+M,Divorced,$80K - $120K,40,34516.0,2052
+F,Married,Less than $40K,33,2831.0,1167
+F,Divorced,Unknown,57,2312.0,1789
+M,Single,$80K - $120K,51,8924.0,0
+F,Divorced,Less than $40K,58,1508.0,0
+F,Single,Less than $40K,53,1438.3,630
+M,Single,$80K - $120K,46,21350.0,1724
+F,Married,Unknown,57,1438.3,0
+F,Married,Unknown,52,10431.0,2163
+M,Unknown,$40K - $60K,40,1438.3,0
+F,Single,Unknown,37,2346.0,1621
+F,Single,Less than $40K,47,1438.3,0
+F,Unknown,Less than $40K,38,2369.0,0
+F,Single,Less than $40K,42,3659.0,0
+F,Married,Less than $40K,38,2153.0,1392
+F,Single,Less than $40K,47,9430.0,0
+M,Married,$80K - $120K,45,34516.0,1495
+F,Single,$40K - $60K,44,3897.0,2296
+M,Single,$80K - $120K,47,11671.0,1304
+M,Single,$60K - $80K,48,11367.0,1999
+F,Single,$40K - $60K,42,2575.0,2136
+F,Married,$40K - $60K,42,3433.0,1869
+M,Married,$60K - $80K,44,7317.0,959
+F,Married,Less than $40K,46,4416.0,1333
+M,Unknown,$60K - $80K,39,1715.0,0
+F,Married,$40K - $60K,57,3667.0,809
+F,Single,Unknown,54,1874.0,0
+F,Married,Less than $40K,50,1438.3,491
+F,Single,Less than $40K,56,1579.0,768
+F,Married,$40K - $60K,54,1626.0,0
+F,Married,Less than $40K,50,1596.0,1185
+F,Married,$40K - $60K,56,2604.0,1395
+F,Married,Unknown,61,3359.0,1405
+F,Married,$40K - $60K,38,2363.0,2033
+F,Single,Less than $40K,55,4978.0,923
+M,Single,$80K - $120K,38,2155.0,1290
+F,Married,$40K - $60K,38,4047.0,0
+F,Married,Unknown,47,4345.0,2176
+M,Single,$80K - $120K,55,1854.0,794
+M,Married,$80K - $120K,50,5384.0,1396
+F,Single,Less than $40K,48,1438.3,965
+F,Single,Less than $40K,33,5141.0,1737
+M,Married,$120K +,44,3977.0,1325
+M,Single,$120K +,52,2507.0,1259
+F,Unknown,Less than $40K,46,7199.0,1235
+M,Married,$60K - $80K,41,3786.0,1171
+F,Married,Less than $40K,50,13384.0,0
+M,Single,$120K +,39,1726.0,1476
+F,Married,Less than $40K,42,2873.0,2517
+F,Single,Less than $40K,33,1438.3,0
+F,Single,Less than $40K,44,1751.0,0
+F,Married,$40K - $60K,42,7434.0,0
+F,Single,Less than $40K,52,1438.3,787
+F,Single,Less than $40K,59,1438.3,0
+F,Divorced,$40K - $60K,45,2032.0,1195
+M,Married,Unknown,61,6959.0,945
+F,Divorced,Less than $40K,43,8203.0,0
+M,Single,$120K +,59,4789.0,357
+M,Single,$40K - $60K,46,2979.0,0
+F,Single,Less than $40K,40,2391.0,0
+F,Single,Less than $40K,63,7264.0,851
+F,Single,Unknown,45,4348.0,1830
+F,Married,Less than $40K,49,3002.0,1446
+M,Married,$60K - $80K,42,4162.0,1641
+F,Unknown,Less than $40K,46,2762.0,1793
+F,Married,$40K - $60K,42,2705.0,2430
+M,Married,$120K +,53,3742.0,1454
+F,Married,Less than $40K,60,1671.0,1047
+F,Divorced,Less than $40K,55,3282.0,2262
+F,Single,Less than $40K,50,1529.0,710
+F,Single,Less than $40K,34,2509.0,1897
+F,Married,$40K - $60K,54,2471.0,0
+F,Unknown,Unknown,42,9749.0,859
+F,Unknown,Less than $40K,48,1438.3,0
+M,Married,$120K +,46,4916.0,1122
+F,Married,Less than $40K,47,2291.0,1419
+F,Single,$40K - $60K,42,1528.0,820
+F,Married,Unknown,52,8279.0,1582
+M,Married,$60K - $80K,45,5945.0,2015
+F,Married,Less than $40K,44,1438.3,0
+F,Single,Less than $40K,54,1857.0,0
+M,Married,$60K - $80K,42,3086.0,0
+F,Married,Less than $40K,54,2598.0,1343
+F,Married,$40K - $60K,38,5559.0,1600
+M,Single,$80K - $120K,51,7562.0,1080
+F,Married,Less than $40K,41,4662.0,0
+F,Single,Less than $40K,52,2904.0,2517
+F,Married,Less than $40K,42,2676.0,1962
+F,Married,Unknown,46,5798.0,680
+F,Single,Less than $40K,46,2665.0,2157
+F,Single,$40K - $60K,55,2343.0,1780
+F,Single,Less than $40K,29,2763.0,1879
+F,Single,Unknown,62,10503.0,0
+F,Married,Less than $40K,47,2780.0,2216
+F,Married,Less than $40K,47,2234.0,2024
+F,Single,Less than $40K,35,1649.0,0
+F,Married,Unknown,42,5557.0,2246
+F,Married,Unknown,48,6074.0,0
+F,Married,Less than $40K,40,1728.0,0
+F,Married,Unknown,46,3044.0,1973
+F,Single,$40K - $60K,41,8482.0,585
+F,Single,Unknown,35,1438.3,0
+M,Single,$80K - $120K,52,3770.0,0
+F,Single,$40K - $60K,56,2963.0,0
+F,Single,Unknown,48,11750.0,487
+F,Married,Less than $40K,41,1593.0,0
+M,Single,$40K - $60K,38,10486.0,1544
+F,Single,Less than $40K,48,2168.0,1323
+F,Single,Unknown,38,5666.0,1393
+M,Married,$80K - $120K,53,13679.0,0
+F,Married,Less than $40K,45,2143.0,1479
+F,Married,Less than $40K,57,4945.0,1779
+F,Single,Less than $40K,54,1921.0,1334
+F,Single,Less than $40K,45,3001.0,2055
+F,Single,$40K - $60K,38,2132.0,1084
+F,Married,Less than $40K,45,1663.0,1012
+F,Divorced,Less than $40K,32,1732.0,0
+F,Single,$40K - $60K,46,2652.0,2386
+M,Married,$80K - $120K,41,5037.0,1670
+F,Single,Unknown,51,6519.0,2178
+F,Single,Less than $40K,60,2347.0,1488
+F,Divorced,Less than $40K,31,2061.0,1904
+M,Single,$40K - $60K,44,1643.0,0
+F,Married,Unknown,49,5039.0,2489
+F,Single,Less than $40K,53,2915.0,2041
+F,Married,Less than $40K,33,1507.0,0
+F,Married,Less than $40K,46,3073.0,2517
+F,Married,Unknown,43,8314.0,1349
+F,Unknown,Unknown,42,2798.0,1049
+M,Single,$60K - $80K,40,20929.0,1652
+M,Married,$120K +,46,1754.0,894
+F,Single,Less than $40K,52,4209.0,0
+M,Divorced,$40K - $60K,45,2449.0,0
+M,Married,$80K - $120K,39,4618.0,0
+F,Married,Less than $40K,41,1654.0,1093
+F,Single,Less than $40K,49,1544.0,999
+M,Single,$60K - $80K,60,3618.0,972
+M,Single,$80K - $120K,37,3437.0,1064
+M,Single,$80K - $120K,50,5965.0,622
+F,Married,Less than $40K,46,2644.0,1517
+F,Married,$40K - $60K,59,3481.0,603
+F,Unknown,Less than $40K,49,3272.0,2085
+F,Married,Less than $40K,35,3019.0,1462
+F,Single,Less than $40K,52,1801.0,0
+F,Single,Less than $40K,27,1438.3,0
+F,Married,Less than $40K,41,2909.0,1201
+F,Single,$40K - $60K,45,4688.0,0
+F,Single,Less than $40K,37,1438.3,0
+F,Married,Less than $40K,47,1438.3,0
+F,Married,Less than $40K,41,1655.0,0
+F,Divorced,$40K - $60K,47,1438.3,601
+F,Single,Unknown,41,4745.0,1157
+F,Divorced,Less than $40K,51,1438.3,0
+F,Married,$40K - $60K,53,5182.0,2500
+F,Single,Less than $40K,46,1438.3,0
+F,Married,$40K - $60K,43,4287.0,0
+F,Married,Unknown,54,1812.0,1798
+F,Married,$40K - $60K,53,2304.0,1144
+F,Married,Unknown,51,13623.0,1432
+F,Single,Less than $40K,50,2765.0,0
+M,Married,$120K +,54,3731.0,1903
+F,Single,Less than $40K,46,2485.0,861
+F,Single,Less than $40K,50,2446.0,1763
+F,Married,Less than $40K,44,2020.0,0
+F,Single,Less than $40K,48,2214.0,1025
+F,Divorced,Less than $40K,45,1811.0,787
+F,Single,Less than $40K,56,5254.0,0
+F,Single,Less than $40K,36,1821.0,1486
+F,Single,Less than $40K,44,3024.0,0
+F,Single,Less than $40K,50,1930.0,952
+F,Single,Less than $40K,54,1517.0,556
+F,Married,Less than $40K,39,2024.0,0
+M,Married,$120K +,53,19138.0,0
+M,Single,$80K - $120K,56,16835.0,897
+F,Married,Unknown,60,5549.0,0
+F,Single,Less than $40K,42,2145.0,0
+M,Married,$80K - $120K,43,4654.0,1349
+M,Married,$60K - $80K,44,9114.0,0
+F,Single,$40K - $60K,33,3043.0,2054
+F,Married,$40K - $60K,53,4621.0,913
+M,Single,$60K - $80K,44,2758.0,461
+F,Married,Less than $40K,54,1740.0,0
+F,Married,Unknown,34,7744.0,1804
+F,Married,Less than $40K,50,3350.0,1335
+M,Single,$120K +,40,34516.0,1427
+F,Single,Unknown,47,2874.0,2201
+F,Single,Unknown,40,2896.0,2100
+F,Divorced,$40K - $60K,41,9294.0,1764
+M,Married,$60K - $80K,47,9389.0,727
+M,Married,$40K - $60K,44,9317.0,847
+M,Unknown,$40K - $60K,34,7452.0,1656
+F,Unknown,Less than $40K,39,1817.0,0
+M,Single,$80K - $120K,58,10021.0,1952
+F,Single,Less than $40K,42,2344.0,1081
+F,Single,$40K - $60K,48,3072.0,1734
+F,Single,Less than $40K,38,1946.0,1430
+F,Married,Less than $40K,52,1471.0,0
+F,Married,Less than $40K,42,1438.3,0
+F,Married,Less than $40K,43,1484.0,0
+F,Married,$40K - $60K,37,3233.0,2517
+F,Single,Less than $40K,55,1745.0,1168
+F,Divorced,Unknown,59,3709.0,1197
+F,Married,Less than $40K,53,2160.0,2057
+M,Single,$80K - $120K,41,1438.3,892
+F,Single,Less than $40K,55,2638.0,1423
+M,Married,$80K - $120K,56,10214.0,1433
+F,Single,Less than $40K,52,3240.0,0
+F,Married,$40K - $60K,58,2038.0,1099
+M,Married,$40K - $60K,49,1438.3,0
+F,Single,Less than $40K,53,1438.3,1030
+M,Divorced,$80K - $120K,56,8111.0,2051
+F,Married,Unknown,60,10730.0,970
+F,Married,Unknown,46,2872.0,357
+F,Married,Less than $40K,49,1567.0,0
+M,Divorced,$80K - $120K,43,7278.0,0
+F,Unknown,Less than $40K,45,1438.3,0
+F,Single,Unknown,34,3190.0,1959
+F,Unknown,Less than $40K,36,1470.0,458
+M,Married,$80K - $120K,45,3081.0,2517
+F,Married,Unknown,43,3793.0,2517
+F,Married,Less than $40K,54,3034.0,2033
+F,Married,Unknown,37,5245.0,1044
+F,Single,Less than $40K,49,2960.0,0
+F,Unknown,$40K - $60K,54,1779.0,0
+F,Married,Less than $40K,43,1620.0,0
+M,Single,$120K +,49,21680.0,1587
+F,Single,Unknown,47,2952.0,0
+F,Married,Less than $40K,53,3918.0,2517
+M,Single,$120K +,52,12764.0,0
+F,Married,Less than $40K,29,1438.3,0
+F,Unknown,Less than $40K,50,3287.0,2517
+F,Single,$40K - $60K,44,3891.0,1015
+F,Unknown,$40K - $60K,49,4048.0,0
+M,Married,$60K - $80K,51,3559.0,0
+M,Single,$60K - $80K,47,2843.0,1752
+F,Single,Less than $40K,58,2127.0,0
+F,Single,Less than $40K,39,4325.0,2418
+F,Married,$40K - $60K,42,1695.0,0
+F,Single,Less than $40K,48,2648.0,1539
+F,Single,Less than $40K,61,2602.0,1441
+F,Single,Unknown,39,1811.0,0
+M,Single,$60K - $80K,56,1891.0,1134
+F,Single,Less than $40K,46,2881.0,2450
+F,Single,$40K - $60K,42,2827.0,1896
+F,Married,Less than $40K,48,4095.0,2517
+F,Single,Less than $40K,34,1666.0,0
+F,Married,Less than $40K,42,1438.3,0
+F,Single,$40K - $60K,54,2205.0,1313
+F,Married,Less than $40K,41,2890.0,2150
+F,Unknown,Unknown,50,10417.0,2290
+F,Married,Unknown,57,2363.0,1876
+F,Single,Unknown,48,3137.0,860
+F,Single,Less than $40K,51,1483.0,0
+F,Married,Less than $40K,35,3009.0,2517
+F,Married,Less than $40K,45,5087.0,2517
+F,Married,$40K - $60K,46,1925.0,1202
+M,Married,$120K +,56,7234.0,2055
+F,Single,Less than $40K,57,2063.0,953
+F,Single,$40K - $60K,58,5530.0,1233
+F,Single,Less than $40K,58,3819.0,1882
+F,Single,Less than $40K,59,2645.0,1127
+F,Single,Unknown,51,5448.0,0
+F,Single,Less than $40K,56,3495.0,1427
+M,Single,$60K - $80K,50,8074.0,0
+F,Married,Unknown,44,7772.0,0
+F,Married,Less than $40K,42,3124.0,0
+M,Married,$80K - $120K,56,8688.0,0
+F,Married,Less than $40K,49,15987.0,0
+F,Single,Less than $40K,47,15109.0,897
+M,Married,$60K - $80K,42,4953.0,2039
+M,Single,$120K +,50,22304.0,1333
+F,Married,Less than $40K,27,1893.0,0
+M,Single,$40K - $60K,38,2232.0,1163
+F,Single,$40K - $60K,52,1766.0,0
+M,Single,Less than $40K,59,3790.0,1149
+M,Married,$40K - $60K,33,6392.0,1429
+F,Married,Unknown,51,9989.0,568
+F,Married,Unknown,56,1438.3,0
+F,Married,Less than $40K,48,2559.0,1514
+M,Single,$80K - $120K,53,34516.0,1198
+F,Single,Less than $40K,41,1438.3,0
+F,Married,Less than $40K,50,2473.0,1675
+F,Single,$40K - $60K,34,4022.0,1680
+F,Single,$40K - $60K,59,3510.0,941
+F,Single,Less than $40K,57,2347.0,1900
+F,Single,Less than $40K,56,1632.0,0
+F,Married,Less than $40K,49,1522.0,0
+F,Single,Less than $40K,44,2085.0,1528
+F,Single,Unknown,60,3803.0,1448
+F,Unknown,Less than $40K,47,3165.0,2517
+F,Single,Less than $40K,60,4628.0,2327
+F,Married,Less than $40K,52,2253.0,1981
+F,Single,$40K - $60K,49,2655.0,2283
+M,Single,$80K - $120K,54,20882.0,1525
+M,Married,$80K - $120K,41,3306.0,706
+F,Divorced,Less than $40K,45,2052.0,0
+M,Married,$80K - $120K,42,8480.0,1339
+F,Unknown,Less than $40K,53,2081.0,1342
+F,Married,Unknown,53,4637.0,0
+M,Married,$60K - $80K,53,1438.3,0
+F,Married,Less than $40K,38,3420.0,1405
+F,Single,Less than $40K,26,3416.0,1109
+M,Married,$80K - $120K,46,2171.0,1043
+F,Unknown,$40K - $60K,57,2791.0,1550
+F,Single,Less than $40K,32,4445.0,1080
+F,Married,Less than $40K,43,1530.0,0
+F,Unknown,Less than $40K,48,1438.3,0
+F,Single,Less than $40K,52,5721.0,0
+F,Married,Unknown,38,3809.0,1172
+F,Single,Less than $40K,48,3520.0,2149
+F,Married,$40K - $60K,41,1604.0,0
+F,Married,$40K - $60K,54,1632.0,351
+M,Married,$40K - $60K,46,3914.0,1683
+F,Married,Less than $40K,36,2328.0,1953
+M,Married,$120K +,41,34516.0,2517
+F,Single,Less than $40K,45,3883.0,847
+F,Married,$40K - $60K,46,1438.3,819
+F,Single,Less than $40K,51,3229.0,2517
+F,Unknown,Less than $40K,44,3080.0,1776
+F,Single,Less than $40K,38,2569.0,1288
+F,Single,Less than $40K,50,4517.0,2238
+F,Single,Less than $40K,46,2292.0,0
+F,Single,Less than $40K,52,2510.0,1928
+M,Unknown,Less than $40K,40,2420.0,191
+F,Single,Less than $40K,38,2703.0,0
+F,Married,Less than $40K,44,3047.0,2139
+M,Single,$80K - $120K,54,7570.0,965
+F,Married,Less than $40K,34,5795.0,924
+F,Married,$40K - $60K,46,1441.0,642
+F,Married,Less than $40K,50,2999.0,1817
+M,Single,$60K - $80K,38,1438.3,1309
+F,Married,$40K - $60K,44,1438.3,0
+F,Married,$40K - $60K,51,4762.0,0
+M,Unknown,$40K - $60K,40,4802.0,1701
+F,Married,Less than $40K,51,2268.0,651
+F,Married,$40K - $60K,51,1438.3,468
+F,Married,Unknown,56,8204.0,1375
+F,Married,Unknown,39,1827.0,0
+F,Unknown,Unknown,47,4072.0,1594
+F,Divorced,Less than $40K,31,1984.0,0
+M,Single,$60K - $80K,48,8086.0,0
+F,Single,Less than $40K,51,1588.0,1506
+M,Single,$40K - $60K,47,1536.0,0
+F,Unknown,Unknown,35,4460.0,0
+F,Single,Unknown,46,11287.0,1513
+M,Married,$80K - $120K,48,3430.0,2517
+F,Single,Less than $40K,51,1759.0,1345
+M,Single,$120K +,41,6314.0,0
+F,Single,Unknown,57,7176.0,1493
+F,Divorced,$40K - $60K,58,2295.0,0
+M,Married,$60K - $80K,43,1438.3,0
+F,Married,Less than $40K,48,1843.0,1802
+M,Divorced,$40K - $60K,49,2181.0,1218
+M,Single,$80K - $120K,47,4754.0,0
+M,Single,$80K - $120K,43,11247.0,0
+M,Single,$120K +,55,16258.0,865
+M,Married,$120K +,49,34516.0,1316
+M,Married,$60K - $80K,43,4255.0,1729
+F,Single,Less than $40K,48,1438.3,0
+F,Single,Less than $40K,57,3029.0,2214
+F,Single,Unknown,56,9091.0,1306
+M,Single,$60K - $80K,50,3318.0,2349
+F,Single,Less than $40K,44,1791.0,0
+F,Single,Less than $40K,43,1620.0,771
+F,Single,Less than $40K,58,1552.0,0
+F,Married,Less than $40K,53,3472.0,2517
+F,Married,Less than $40K,48,10973.0,1466
+M,Unknown,$120K +,50,25645.0,1083
+F,Single,Less than $40K,59,4257.0,2517
+F,Married,Less than $40K,42,3422.0,0
+F,Single,Less than $40K,45,4977.0,1411
+F,Married,$40K - $60K,33,1438.3,0
+F,Divorced,Less than $40K,39,1438.3,801
+F,Married,Unknown,40,3369.0,756
+F,Single,Unknown,47,7114.0,1637
+M,Single,$80K - $120K,38,10972.0,0
+F,Married,$40K - $60K,45,1438.3,0
+F,Single,$40K - $60K,48,2446.0,1461
+M,Married,$60K - $80K,45,3439.0,0
+F,Single,$40K - $60K,56,3005.0,1660
+F,Married,Less than $40K,50,2033.0,841
+F,Unknown,Less than $40K,53,2415.0,1643
+M,Divorced,$60K - $80K,40,5051.0,0
+M,Married,Unknown,49,3519.0,1336
+M,Unknown,Less than $40K,26,10254.0,0
+F,Single,Less than $40K,48,1853.0,1314
+M,Single,$60K - $80K,51,28673.0,0
+F,Single,Less than $40K,44,1895.0,0
+F,Married,Less than $40K,56,2041.0,1158
+F,Single,Less than $40K,46,1438.3,0
+F,Single,Less than $40K,54,1572.0,985
+F,Married,Unknown,48,3187.0,1937
+F,Single,Unknown,59,7427.0,2421
+F,Single,Less than $40K,50,1460.0,0
+M,Single,$80K - $120K,52,25410.0,0
+F,Married,Less than $40K,56,2143.0,1194
+M,Single,$40K - $60K,42,8566.0,1484
+M,Single,$60K - $80K,43,1438.3,0
+F,Single,Less than $40K,59,3297.0,0
+F,Married,Less than $40K,39,2816.0,2517
+F,Married,Unknown,53,10533.0,330
+F,Single,Less than $40K,53,2370.0,1166
+F,Single,Less than $40K,35,1678.0,0
+F,Married,Less than $40K,36,1493.0,0
+F,Married,Less than $40K,51,2350.0,1272
+F,Married,Less than $40K,50,2690.0,1614
+F,Married,Unknown,42,7226.0,1889
+F,Married,Less than $40K,54,3173.0,1822
+F,Married,Less than $40K,43,2890.0,1392
+F,Unknown,Less than $40K,46,3313.0,0
+F,Single,$40K - $60K,40,2625.0,1594
+F,Married,$40K - $60K,44,1834.0,0
+F,Single,Less than $40K,43,3226.0,2145
+M,Married,$60K - $80K,56,3426.0,1841
+F,Married,Less than $40K,49,2174.0,785
+F,Single,$40K - $60K,60,3959.0,0
+F,Married,Less than $40K,49,2215.0,1347
+F,Unknown,Less than $40K,47,2814.0,1595
+M,Single,$60K - $80K,56,6941.0,1013
+F,Single,Unknown,44,3269.0,0
+F,Single,Less than $40K,42,3172.0,1160
+F,Married,Less than $40K,54,2452.0,1012
+F,Married,Less than $40K,36,5070.0,0
+M,Single,$40K - $60K,56,1466.0,723
+F,Married,Less than $40K,52,2427.0,2362
+M,Single,$120K +,59,17999.0,1861
+F,Married,$40K - $60K,44,4553.0,1538
+F,Married,Unknown,55,2953.0,1896
+F,Unknown,$40K - $60K,39,4363.0,0
+F,Married,Less than $40K,57,1894.0,0
+F,Married,Less than $40K,48,2097.0,1255
+M,Divorced,$60K - $80K,47,1983.0,989
+F,Unknown,Less than $40K,50,2210.0,1539
+M,Married,$60K - $80K,52,7879.0,1007
+F,Married,$40K - $60K,46,3336.0,1687
+F,Married,Less than $40K,34,1726.0,1398
+F,Single,Less than $40K,45,2917.0,1523
+F,Married,Unknown,39,3023.0,1348
+M,Married,$40K - $60K,49,1915.0,1545
+M,Unknown,$40K - $60K,43,4878.0,2098
+F,Married,Less than $40K,41,2066.0,1542
+F,Married,$40K - $60K,53,2164.0,1115
+F,Unknown,Less than $40K,42,6250.0,1835
+F,Married,Less than $40K,43,1484.0,0
+M,Unknown,$40K - $60K,45,4718.0,1591
+F,Married,Less than $40K,44,2275.0,1265
+F,Single,Less than $40K,44,1438.3,1169
+F,Married,Less than $40K,51,3683.0,1039
+F,Divorced,Less than $40K,38,2722.0,1303
+M,Married,$80K - $120K,43,34516.0,2045
+M,Married,$60K - $80K,48,2072.0,1499
+M,Married,$120K +,53,6383.0,1512
+F,Married,$40K - $60K,39,2725.0,2302
+F,Married,Unknown,47,2675.0,1999
+M,Married,$60K - $80K,42,1438.3,0
+M,Married,$120K +,50,13478.0,0
+F,Divorced,Less than $40K,46,2841.0,1807
+F,Married,Less than $40K,33,1830.0,1777
+M,Single,$120K +,37,2360.0,1204
+M,Married,$60K - $80K,43,3717.0,1882
+F,Married,Less than $40K,56,1438.3,0
+M,Divorced,$60K - $80K,42,2289.0,1195
+F,Married,Unknown,56,5338.0,0
+F,Single,Less than $40K,44,1438.3,894
+M,Married,$60K - $80K,40,2276.0,1372
+F,Unknown,$40K - $60K,43,4091.0,1108
+M,Married,$80K - $120K,45,3798.0,1570
+F,Married,Less than $40K,47,1778.0,822
+F,Single,Less than $40K,38,2920.0,2426
+F,Married,Less than $40K,49,1938.0,0
+F,Divorced,Less than $40K,62,4049.0,1685
+M,Married,$80K - $120K,45,1438.3,1162
+M,Single,$60K - $80K,40,10880.0,2025
+M,Married,$60K - $80K,51,3451.0,2006
+M,Divorced,$60K - $80K,41,20749.0,2171
+F,Single,Less than $40K,49,2481.0,1568
+M,Single,$60K - $80K,61,2415.0,2050
+F,Single,Less than $40K,33,1438.3,0
+F,Single,Unknown,45,7600.0,1574
+F,Single,Less than $40K,35,1438.3,0
+F,Married,Less than $40K,41,2601.0,1861
+F,Married,Unknown,48,2625.0,2517
+M,Single,$60K - $80K,49,5578.0,0
+F,Married,Less than $40K,52,3698.0,0
+F,Married,$40K - $60K,51,1438.3,1141
+F,Unknown,Less than $40K,45,1795.0,1058
+F,Single,Less than $40K,42,1933.0,1127
+M,Married,$120K +,41,27169.0,0
+F,Single,Less than $40K,30,2367.0,1220
+F,Married,Less than $40K,54,5642.0,541
+F,Married,Less than $40K,60,3239.0,2356
+F,Married,Less than $40K,52,3040.0,2517
+F,Single,$40K - $60K,37,3680.0,683
+M,Married,$60K - $80K,44,1787.0,0
+M,Married,$60K - $80K,52,4752.0,2437
+F,Single,Unknown,46,1706.0,0
+F,Married,Unknown,45,8103.0,0
+M,Married,$60K - $80K,43,3764.0,1780
+F,Single,Less than $40K,40,5492.0,1573
+F,Divorced,Less than $40K,39,3554.0,747
+F,Unknown,Less than $40K,44,3170.0,2330
+F,Single,Unknown,49,2464.0,1601
+M,Single,Less than $40K,41,3429.0,1504
+M,Married,$60K - $80K,50,2021.0,1578
+F,Married,Less than $40K,54,2444.0,1313
+F,Married,Unknown,39,2751.0,1158
+F,Single,$40K - $60K,52,9017.0,2359
+F,Married,$40K - $60K,51,2107.0,1663
+F,Single,Less than $40K,46,2029.0,1074
+M,Married,$120K +,48,32777.0,0
+M,Married,$120K +,50,4607.0,0
+F,Married,Unknown,52,23486.0,0
+F,Married,Unknown,54,1997.0,0
+F,Married,$40K - $60K,40,3144.0,1787
+F,Divorced,$40K - $60K,47,2725.0,1851
+F,Single,Less than $40K,53,1874.0,994
+M,Single,$120K +,45,7135.0,2517
+F,Married,Unknown,35,3379.0,587
+F,Married,$40K - $60K,48,2804.0,1057
+M,Divorced,$60K - $80K,44,16553.0,0
+F,Single,Unknown,41,2246.0,0
+F,Single,Unknown,42,2875.0,1892
+F,Married,Unknown,51,3668.0,0
+F,Single,$40K - $60K,45,2853.0,2517
+F,Single,Less than $40K,50,2382.0,1419
+F,Single,Less than $40K,54,2830.0,1779
+F,Married,Unknown,47,24987.0,824
+F,Married,Less than $40K,52,3705.0,2168
+F,Single,Less than $40K,49,1675.0,0
+F,Divorced,$40K - $60K,47,1439.0,0
+F,Single,$40K - $60K,54,4440.0,0
+F,Married,Less than $40K,52,2563.0,1765
+F,Married,Less than $40K,46,1896.0,1738
+F,Married,Less than $40K,39,2190.0,0
+F,Married,Less than $40K,55,2596.0,1929
+F,Single,$40K - $60K,44,4196.0,561
+F,Single,Less than $40K,43,1616.0,966
+M,Single,$60K - $80K,42,6618.0,1738
+F,Single,Less than $40K,50,2477.0,0
+F,Single,$40K - $60K,38,3040.0,1908
+M,Single,$60K - $80K,41,4697.0,1046
+M,Married,$40K - $60K,51,4436.0,2222
+F,Divorced,Less than $40K,44,13138.0,0
+M,Unknown,$60K - $80K,46,1438.3,681
+F,Married,Less than $40K,38,3297.0,1554
+M,Single,$60K - $80K,46,6272.0,1434
+M,Single,$40K - $60K,54,5608.0,1775
+M,Married,$60K - $80K,42,9906.0,1759
+F,Married,Less than $40K,30,1621.0,1046
+F,Married,Less than $40K,49,2305.0,1173
+F,Single,$40K - $60K,54,9525.0,2517
+M,Single,$80K - $120K,41,4742.0,2221
+M,Single,$120K +,51,3168.0,2147
+F,Married,Less than $40K,37,2939.0,1388
+F,Divorced,Less than $40K,44,2724.0,1288
+F,Married,Unknown,46,6990.0,876
+M,Unknown,$60K - $80K,45,1870.0,0
+F,Married,$40K - $60K,55,1438.3,0
+F,Married,$40K - $60K,55,4629.0,710
+M,Single,$120K +,50,34516.0,1134
+F,Single,Less than $40K,36,1558.0,261
+M,Married,$60K - $80K,45,13093.0,2517
+F,Divorced,$40K - $60K,45,1438.3,0
+F,Unknown,$40K - $60K,41,4451.0,0
+M,Single,$60K - $80K,44,6426.0,0
+F,Single,Less than $40K,47,2761.0,1950
+F,Single,$40K - $60K,38,2148.0,1103
+F,Divorced,$40K - $60K,49,2485.0,1648
+F,Single,$40K - $60K,39,3394.0,2517
+F,Married,$40K - $60K,50,3367.0,1747
+F,Married,$40K - $60K,50,4154.0,1060
+F,Married,Less than $40K,47,2154.0,1628
+F,Divorced,Less than $40K,54,2506.0,1784
+F,Divorced,Less than $40K,46,1774.0,1115
+F,Single,Unknown,43,3287.0,1697
+F,Married,Unknown,42,1821.0,935
+M,Unknown,$80K - $120K,49,34516.0,2517
+F,Single,$40K - $60K,45,3918.0,2070
+F,Married,Unknown,49,5455.0,2091
+F,Single,Less than $40K,41,2372.0,0
+F,Single,Less than $40K,45,1492.0,0
+F,Single,Less than $40K,44,1550.0,716
+F,Single,Less than $40K,58,2669.0,2048
+M,Single,$60K - $80K,42,3311.0,841
+F,Single,Less than $40K,51,3068.0,2071
+F,Single,Unknown,55,2721.0,0
+F,Single,$40K - $60K,37,3050.0,2517
+F,Married,Unknown,60,3356.0,1664
+F,Married,$40K - $60K,42,2647.0,1245
+F,Married,Less than $40K,50,2407.0,1102
+F,Married,Unknown,52,2233.0,1790
+M,Unknown,$80K - $120K,42,32106.0,0
+F,Married,Less than $40K,48,2089.0,1262
+F,Divorced,Less than $40K,48,2185.0,1495
+F,Unknown,Less than $40K,44,4057.0,755
+F,Married,$40K - $60K,44,3183.0,2517
+F,Unknown,Less than $40K,45,2699.0,1583
+M,Single,$80K - $120K,57,17096.0,1762
+F,Married,Less than $40K,50,2897.0,0
+F,Unknown,Less than $40K,46,6568.0,0
+F,Married,Unknown,40,1622.0,972
+F,Single,Less than $40K,51,1438.3,718
+F,Single,$40K - $60K,34,1677.0,0
+F,Married,Unknown,48,7884.0,745
+F,Married,Less than $40K,57,1860.0,0
+F,Married,Unknown,48,8074.0,2426
+F,Married,Less than $40K,47,2124.0,1573
+F,Single,Less than $40K,48,3413.0,1715
+F,Married,Less than $40K,41,2178.0,1408
+F,Single,Unknown,47,2446.0,1899
+F,Single,Less than $40K,37,3967.0,1476
+F,Married,Unknown,45,4146.0,2027
+F,Unknown,Unknown,26,34516.0,2403
+F,Unknown,Less than $40K,58,1869.0,1255
+F,Single,Unknown,46,2168.0,1334
+F,Married,Less than $40K,49,2096.0,1276
+M,Single,$60K - $80K,41,7293.0,993
+F,Married,Unknown,46,1438.3,0
+M,Single,$40K - $60K,42,1438.3,686
+F,Single,Less than $40K,57,2298.0,1540
+F,Single,Unknown,48,3829.0,836
+F,Married,Less than $40K,58,1517.0,920
+F,Unknown,Less than $40K,46,13427.0,1507
+M,Married,$80K - $120K,53,16747.0,0
+F,Married,Unknown,58,9926.0,2216
+F,Unknown,Less than $40K,54,2691.0,811
+F,Married,$40K - $60K,42,1456.0,0
+F,Single,Less than $40K,43,2005.0,1263
+F,Married,Less than $40K,35,4790.0,1189
+F,Married,Less than $40K,46,3123.0,1639
+F,Unknown,Less than $40K,42,5471.0,2517
+M,Married,$120K +,53,13670.0,0
+M,Single,$60K - $80K,52,3460.0,0
+M,Married,$40K - $60K,48,3202.0,2517
+F,Married,Less than $40K,31,1438.3,0
+M,Single,$60K - $80K,50,2296.0,1371
+F,Single,Less than $40K,54,1476.0,0
+F,Single,Unknown,35,12287.0,770
+F,Single,Less than $40K,41,2470.0,1566
+M,Unknown,$120K +,46,24431.0,892
+M,Married,Less than $40K,41,1950.0,998
+F,Married,Less than $40K,49,6615.0,0
+F,Single,Unknown,47,5756.0,860
+F,Single,Unknown,55,1438.3,0
+F,Single,Less than $40K,32,1438.3,713
+F,Married,Less than $40K,50,1912.0,0
+F,Single,Unknown,45,4549.0,1631
+F,Unknown,Less than $40K,45,1979.0,1305
+F,Married,$40K - $60K,40,2803.0,1747
+F,Married,Less than $40K,45,2548.0,2250
+F,Married,Less than $40K,45,1457.0,828
+F,Married,Less than $40K,32,1438.3,0
+F,Single,$40K - $60K,59,1980.0,1409
+F,Married,Less than $40K,48,2216.0,1262
+F,Divorced,$40K - $60K,57,4262.0,2517
+F,Married,Less than $40K,42,2573.0,1742
+F,Married,$40K - $60K,55,5431.0,2007
+F,Married,Less than $40K,43,3092.0,909
+F,Married,Less than $40K,37,2984.0,0
+F,Married,Unknown,48,2186.0,1017
+M,Single,Less than $40K,34,2669.0,1649
+F,Married,Less than $40K,50,1789.0,1156
+F,Single,Less than $40K,36,2835.0,2511
+F,Single,Less than $40K,44,1558.0,879
+M,Single,$80K - $120K,47,7299.0,0
+F,Single,Less than $40K,56,3556.0,0
+F,Married,Less than $40K,45,1438.3,834
+F,Single,Unknown,35,1507.0,0
+F,Married,Unknown,51,7551.0,0
+F,Single,Less than $40K,38,2468.0,872
+F,Married,Less than $40K,42,2515.0,1453
+F,Unknown,Unknown,59,9076.0,0
+M,Single,$60K - $80K,45,10699.0,1099
+M,Married,$80K - $120K,34,1439.0,0
+F,Married,Unknown,44,7212.0,1008
+F,Single,$40K - $60K,54,3089.0,1177
+M,Unknown,$80K - $120K,46,11250.0,0
+F,Married,Less than $40K,53,1665.0,964
+M,Single,$120K +,54,2456.0,1654
+M,Married,$60K - $80K,47,11773.0,0
+F,Single,$40K - $60K,43,1438.3,0
+F,Single,$40K - $60K,41,3104.0,1954
+F,Unknown,Unknown,48,2337.0,0
+F,Married,Less than $40K,50,4060.0,2336
+F,Single,Less than $40K,42,3428.0,2209
+M,Married,$40K - $60K,44,12967.0,2517
+M,Single,Less than $40K,45,2326.0,642
+F,Married,Unknown,39,4376.0,855
+M,Married,$60K - $80K,46,12745.0,0
+M,Single,$60K - $80K,39,1790.0,891
+F,Unknown,Less than $40K,40,2969.0,0
+M,Single,$40K - $60K,43,4970.0,1588
+F,Single,$40K - $60K,49,5400.0,1426
+F,Unknown,Unknown,46,2069.0,0
+F,Married,Unknown,52,3192.0,0
+F,Single,Less than $40K,48,2105.0,1072
+M,Single,$80K - $120K,44,1876.0,861
+F,Unknown,Less than $40K,57,1462.0,0
+F,Single,$40K - $60K,40,2351.0,1337
+F,Single,Less than $40K,54,1719.0,0
+F,Single,$40K - $60K,47,1438.3,0
+F,Married,Less than $40K,26,2516.0,2378
+F,Single,$40K - $60K,33,4883.0,0
+M,Single,$80K - $120K,38,3413.0,1801
+F,Single,$40K - $60K,59,1852.0,0
+F,Married,Unknown,35,3339.0,2014
+F,Single,Less than $40K,45,3785.0,2517
+M,Single,$40K - $60K,61,2228.0,1480
+F,Unknown,Less than $40K,55,3626.0,795
+F,Married,$40K - $60K,58,2194.0,1302
+F,Married,Less than $40K,41,2665.0,1936
+M,Married,$40K - $60K,42,2444.0,0
+F,Married,Less than $40K,45,3335.0,2238
+F,Married,Less than $40K,45,2726.0,2127
+F,Married,Less than $40K,51,1665.0,1521
+F,Married,Less than $40K,40,2734.0,1661
+F,Single,Less than $40K,57,1727.0,996
+F,Married,Unknown,50,19349.0,615
+M,Single,$60K - $80K,53,13409.0,1168
+F,Single,Less than $40K,45,1438.3,0
+F,Single,$40K - $60K,42,6330.0,1573
+F,Married,Less than $40K,49,2575.0,2517
+F,Married,$40K - $60K,55,3391.0,1696
+F,Married,Less than $40K,48,5298.0,0
+F,Married,Less than $40K,44,2540.0,1561
+M,Single,$60K - $80K,63,14324.0,2507
+F,Married,Less than $40K,48,2876.0,1628
+F,Married,Less than $40K,41,1504.0,970
+F,Single,Less than $40K,45,1839.0,0
+F,Married,Less than $40K,54,1685.0,0
+F,Unknown,Less than $40K,48,4850.0,1022
+F,Married,Less than $40K,40,2840.0,2517
+F,Single,$40K - $60K,47,2977.0,1927
+F,Single,Unknown,45,34516.0,0
+F,Single,Less than $40K,39,1961.0,0
+F,Married,Less than $40K,53,2156.0,1198
+F,Married,$40K - $60K,53,2772.0,2414
+F,Married,Less than $40K,29,2832.0,1819
+F,Single,Less than $40K,44,1552.0,1375
+M,Single,$40K - $60K,46,6362.0,0
+M,Divorced,Less than $40K,40,11409.0,1658
+F,Single,Less than $40K,40,1965.0,0
+F,Married,$40K - $60K,42,1622.0,0
+F,Married,Less than $40K,38,1736.0,1319
+F,Single,Unknown,54,8827.0,0
+M,Married,$80K - $120K,49,24256.0,1076
+F,Single,$40K - $60K,52,1915.0,1445
+F,Single,Less than $40K,38,1438.3,0
+F,Married,Unknown,44,2006.0,1030
+F,Divorced,Less than $40K,44,5594.0,1235
+F,Married,Unknown,52,3505.0,2517
+F,Unknown,Less than $40K,56,1667.0,595
+F,Single,Less than $40K,47,1636.0,0
+F,Married,Less than $40K,52,3281.0,911
+F,Single,Less than $40K,50,1477.0,0
+F,Married,Less than $40K,44,1905.0,0
+M,Single,$60K - $80K,39,6146.0,0
+M,Married,$40K - $60K,53,2672.0,1604
+M,Married,$60K - $80K,42,13426.0,0
+M,Divorced,$40K - $60K,48,9104.0,145
+M,Married,$80K - $120K,47,30300.0,1166
+M,Married,$80K - $120K,51,7088.0,1750
+F,Married,$40K - $60K,56,1872.0,661
+F,Married,$40K - $60K,33,2874.0,2517
+M,Single,$40K - $60K,36,6763.0,1660
+M,Divorced,$120K +,57,24379.0,1116
+F,Single,Less than $40K,39,2867.0,1365
+M,Unknown,$60K - $80K,59,13172.0,0
+F,Single,Less than $40K,41,2201.0,2104
+F,Married,Less than $40K,29,3261.0,2517
+F,Married,$40K - $60K,39,5027.0,0
+F,Unknown,$40K - $60K,47,1811.0,0
+M,Married,$60K - $80K,49,2465.0,1334
+F,Single,Less than $40K,43,7584.0,1834
+F,Married,Less than $40K,46,4065.0,2517
+M,Divorced,$80K - $120K,60,28930.0,0
+M,Married,$80K - $120K,48,4963.0,2115
+M,Married,$60K - $80K,50,2049.0,0
+M,Divorced,$60K - $80K,47,1943.0,0
+F,Married,$40K - $60K,56,3485.0,1465
+M,Married,$80K - $120K,43,23459.0,2305
+F,Single,Less than $40K,51,2306.0,1627
+M,Married,$80K - $120K,42,18177.0,841
+F,Unknown,Less than $40K,49,3252.0,2517
+F,Single,Less than $40K,47,2894.0,2117
+M,Married,$80K - $120K,44,34516.0,1807
+M,Married,$120K +,44,34516.0,2517
+M,Single,$120K +,53,34516.0,2435
+M,Single,$40K - $60K,41,7839.0,1544
+M,Married,$120K +,49,16494.0,1158
+M,Married,$60K - $80K,49,6224.0,2201
+F,Married,Less than $40K,42,6078.0,1478
+M,Single,$80K - $120K,50,21322.0,2216
+M,Married,$40K - $60K,51,1590.0,1273
+F,Divorced,Less than $40K,52,1986.0,1411
+M,Single,$60K - $80K,48,15618.0,0
+M,Married,$80K - $120K,44,34496.0,1665
+F,Single,$40K - $60K,40,2544.0,1713
+M,Unknown,$80K - $120K,42,4765.0,1516
+F,Single,Unknown,43,16583.0,1797
+M,Married,Less than $40K,42,6153.0,974
+F,Married,Less than $40K,42,15987.0,1187
+F,Single,Less than $40K,51,5139.0,1799
+F,Single,Less than $40K,61,3421.0,2266
+M,Single,$40K - $60K,59,11000.0,1013
+F,Married,Less than $40K,46,2490.0,0
+M,Unknown,$80K - $120K,51,34516.0,814
+F,Married,Less than $40K,48,2490.0,1582
+F,Single,$40K - $60K,44,2055.0,0
+M,Single,$40K - $60K,56,14344.0,2014
+F,Single,Less than $40K,42,3453.0,1010
+M,Divorced,$60K - $80K,40,20304.0,0
+F,Single,Less than $40K,61,8283.0,1444
+M,Single,$80K - $120K,45,11318.0,2082
+M,Single,$80K - $120K,49,2384.0,1919
+M,Married,$60K - $80K,47,11919.0,2347
+F,Married,Less than $40K,45,2948.0,968
+M,Unknown,$60K - $80K,43,5397.0,1265
+M,Married,$60K - $80K,42,12294.0,2517
+M,Unknown,$80K - $120K,42,7253.0,0
+F,Married,Unknown,43,21922.0,1467
+M,Married,$60K - $80K,40,13452.0,2517
+F,Married,Unknown,50,24735.0,2296
+F,Single,$40K - $60K,53,4942.0,2119
+M,Married,$40K - $60K,49,14973.0,0
+M,Single,$80K - $120K,44,19719.0,1303
+M,Unknown,$80K - $120K,49,29690.0,2517
+F,Married,Unknown,42,6751.0,1192
+F,Married,Less than $40K,43,9484.0,2451
+F,Single,Less than $40K,51,4333.0,1848
+F,Unknown,Less than $40K,40,2481.0,2119
+F,Single,Less than $40K,57,3059.0,1744
+M,Single,$120K +,51,34516.0,1925
+M,Divorced,$80K - $120K,49,25178.0,1803
+M,Single,Less than $40K,61,7169.0,629
+M,Single,$60K - $80K,62,18224.0,1383
+M,Single,$80K - $120K,39,34516.0,2017
+M,Divorced,$60K - $80K,52,4813.0,0
+F,Single,Unknown,38,24965.0,2517
+F,Single,Less than $40K,50,12569.0,2167
+M,Divorced,$120K +,43,34516.0,2517
+F,Single,Less than $40K,53,8259.0,1182
+M,Married,$60K - $80K,42,13804.0,1903
+F,Single,Unknown,43,5700.0,1904
+F,Married,Less than $40K,43,6448.0,1464
+M,Divorced,$60K - $80K,57,5479.0,1200
+F,Married,Less than $40K,50,3749.0,1594
+M,Single,$120K +,48,30210.0,1946
+M,Married,$120K +,41,5807.0,1143
+M,Married,$60K - $80K,44,3605.0,0
+F,Single,$40K - $60K,44,17077.0,2179
+F,Married,Less than $40K,43,5380.0,1337
+M,Married,$80K - $120K,51,34516.0,761
+M,Married,$80K - $120K,47,27720.0,2414
+F,Single,$40K - $60K,47,18341.0,1060
+M,Single,$120K +,38,27712.0,2130
+M,Single,$40K - $60K,46,8285.0,1359
+F,Unknown,$40K - $60K,41,19704.0,0
+M,Unknown,$80K - $120K,47,21325.0,2197
+M,Married,$80K - $120K,41,34516.0,2109
+F,Single,$40K - $60K,49,7045.0,1293
+M,Single,$80K - $120K,44,14388.0,2517
+F,Single,Less than $40K,48,3874.0,460
+M,Married,$60K - $80K,44,4752.0,0
+F,Married,Unknown,50,34516.0,2096
+F,Single,Less than $40K,59,7484.0,1939
+F,Married,Unknown,49,34516.0,1273
+M,Single,$80K - $120K,42,34516.0,2253
+M,Married,$60K - $80K,52,18336.0,2077
+M,Unknown,$40K - $60K,46,2259.0,1346
+M,Married,$40K - $60K,41,10682.0,1334
+F,Married,Less than $40K,39,8587.0,1324
+F,Single,Less than $40K,46,5494.0,2142
+F,Married,Less than $40K,45,1946.0,1183
+M,Single,$60K - $80K,53,6228.0,1738
+M,Married,$80K - $120K,42,7537.0,1239
+F,Single,Less than $40K,44,13609.0,1432
+F,Married,Unknown,47,34516.0,2517
+M,Married,$60K - $80K,46,34516.0,713
+F,Single,Less than $40K,38,15987.0,1766
+F,Divorced,Less than $40K,46,2391.0,1625
+M,Unknown,$120K +,39,34516.0,1082
+M,Single,$60K - $80K,47,20811.0,1302
+M,Unknown,$60K - $80K,46,34516.0,1426
+M,Married,$40K - $60K,45,3735.0,2113
+F,Married,$40K - $60K,50,2275.0,2138
+F,Married,Less than $40K,43,7350.0,1360
+M,Married,$40K - $60K,48,1913.0,1405
+F,Unknown,Less than $40K,50,4249.0,789
+F,Unknown,$40K - $60K,40,2136.0,1250
+M,Married,$40K - $60K,46,18956.0,1694
+M,Single,$60K - $80K,45,13445.0,1186
+M,Single,Less than $40K,53,8979.0,1289
+F,Married,Less than $40K,49,6674.0,1402
+F,Single,Less than $40K,52,6265.0,1677
+M,Married,$80K - $120K,47,34516.0,1913
+M,Single,$80K - $120K,47,34516.0,1264
+M,Single,$60K - $80K,43,13165.0,1255
+M,Divorced,$80K - $120K,49,9959.0,1143
+F,Divorced,$40K - $60K,40,9243.0,2019
+F,Single,Less than $40K,53,4737.0,1649
+F,Married,$40K - $60K,51,2710.0,0
+M,Single,$40K - $60K,46,2000.0,1739
+M,Single,$80K - $120K,41,34516.0,2098
+F,Married,Less than $40K,42,8798.0,1509
+M,Unknown,$120K +,50,24670.0,1623
+M,Divorced,$80K - $120K,51,23453.0,0
+M,Single,$120K +,44,34516.0,1106
+M,Married,$60K - $80K,49,6139.0,1585
+F,Married,$40K - $60K,51,14800.0,1020
+F,Single,$40K - $60K,53,9815.0,1699
+F,Single,Less than $40K,49,3919.0,2278
+M,Single,Unknown,59,12265.0,1412
+F,Married,$40K - $60K,47,3256.0,2035
+M,Single,$80K - $120K,50,19000.0,2389
+M,Single,$120K +,44,34516.0,1635
+M,Married,$60K - $80K,48,13197.0,0
+M,Single,$60K - $80K,47,22599.0,0
+M,Married,$60K - $80K,43,23457.0,2517
+M,Unknown,$80K - $120K,40,5238.0,2077
+M,Single,$80K - $120K,41,31560.0,1298
+F,Single,Less than $40K,46,6218.0,2517
+M,Divorced,Unknown,47,34516.0,2019
+M,Unknown,$60K - $80K,44,29572.0,1584
+F,Unknown,Less than $40K,52,2743.0,1705
+M,Single,$80K - $120K,39,2844.0,2065
+F,Single,Less than $40K,53,9678.0,1710
+M,Married,$80K - $120K,49,26882.0,1673
+F,Married,Less than $40K,52,5207.0,1121
+M,Divorced,$40K - $60K,46,15034.0,1356
+F,Divorced,$40K - $60K,44,3107.0,1995
+F,Single,$40K - $60K,52,12214.0,2379
+M,Married,$80K - $120K,52,23070.0,1701
+F,Single,Less than $40K,50,2167.0,988
+M,Single,$80K - $120K,55,34516.0,810
+M,Married,$60K - $80K,45,6895.0,2314
+M,Married,$80K - $120K,44,25894.0,2517
+F,Single,Less than $40K,46,3138.0,986
+M,Single,$120K +,49,12055.0,1858
+F,Single,Unknown,53,16592.0,1435
+F,Single,Unknown,60,34516.0,1542
+M,Unknown,Unknown,47,33184.0,855
+F,Single,$40K - $60K,54,10753.0,1845
+M,Unknown,$80K - $120K,39,9959.0,1501
+F,Married,Less than $40K,46,2069.0,1101
+F,Married,Less than $40K,43,11362.0,1871
+M,Divorced,$120K +,53,34516.0,1337
+M,Married,$60K - $80K,44,20001.0,0
+M,Married,$40K - $60K,48,8786.0,1559
+M,Single,$80K - $120K,41,7142.0,1917
+F,Single,Less than $40K,45,4477.0,2517
+F,Unknown,$40K - $60K,41,5357.0,1272
+M,Married,$80K - $120K,51,34516.0,0
+M,Single,$80K - $120K,44,2367.0,1606
+M,Single,$60K - $80K,39,23402.0,958
+M,Unknown,Less than $40K,40,4587.0,1771
+M,Married,$120K +,41,6565.0,1130
+F,Married,Unknown,46,6030.0,0
+M,Single,$120K +,50,6982.0,0
+M,Married,Less than $40K,50,5128.0,0
+M,Unknown,$60K - $80K,48,9405.0,0
+M,Married,$80K - $120K,49,34516.0,1118
+M,Married,$120K +,49,14646.0,1448
+M,Married,$80K - $120K,41,12578.0,2517
+F,Unknown,$40K - $60K,36,4370.0,1222
+F,Single,$40K - $60K,52,3416.0,1970
+M,Married,$60K - $80K,42,6224.0,0
+F,Married,Less than $40K,49,10741.0,2517
+M,Single,$60K - $80K,41,34516.0,687
+M,Unknown,$120K +,50,34516.0,1514
+F,Single,$40K - $60K,53,6058.0,0
+M,Married,$80K - $120K,49,8561.0,915
+M,Single,$80K - $120K,46,9959.0,0
+F,Single,Less than $40K,51,7645.0,2076
+M,Single,$60K - $80K,51,1922.0,1124
+F,Married,Less than $40K,51,5625.0,1640
+F,Single,Less than $40K,54,2274.0,708
+M,Divorced,$120K +,46,34516.0,1802
+M,Married,$40K - $60K,43,9422.0,2108
+F,Married,Unknown,48,7469.0,2474
+F,Single,Less than $40K,43,3849.0,1281
+M,Married,$120K +,41,34516.0,0
+M,Married,$80K - $120K,49,4778.0,1351
+F,Single,Unknown,51,34516.0,1873
+F,Unknown,$40K - $60K,47,5168.0,2265
+F,Single,Less than $40K,53,3199.0,0
+F,Single,Unknown,55,21046.0,1631
+M,Married,$120K +,51,34516.0,2452
+F,Married,Less than $40K,40,6540.0,0
+F,Single,Less than $40K,60,8141.0,1811
+F,Married,Unknown,40,33441.0,686
+F,Unknown,Unknown,46,5496.0,1816
+F,Married,Less than $40K,42,3794.0,1544
+F,Single,Less than $40K,46,5785.0,2130
+F,Married,Unknown,51,19387.0,810
+F,Single,Unknown,43,2838.0,1934
+F,Married,Less than $40K,41,4086.0,1974
+M,Married,$80K - $120K,47,31987.0,0
+M,Single,$40K - $60K,43,9043.0,1974
+F,Single,Less than $40K,47,11128.0,2517
+M,Single,$40K - $60K,51,3062.0,2058
+F,Unknown,$40K - $60K,44,23981.0,2135
+M,Married,$80K - $120K,44,34516.0,942
+F,Single,$40K - $60K,39,22054.0,1146
+F,Unknown,Less than $40K,53,2199.0,693
+M,Unknown,$80K - $120K,45,9303.0,1580
+M,Single,$120K +,47,34516.0,1342
+M,Divorced,$40K - $60K,40,7566.0,1618
+F,Married,Unknown,50,11343.0,0
+F,Married,Unknown,47,15155.0,1287
+M,Single,$80K - $120K,55,10795.0,0
+F,Married,Less than $40K,44,6633.0,1322
+F,Single,Unknown,54,8572.0,2128
+M,Married,$80K - $120K,40,34516.0,2330
+M,Married,$80K - $120K,50,34516.0,2517
+M,Single,$60K - $80K,49,14895.0,0
+F,Single,Less than $40K,49,2636.0,1257
+F,Unknown,Less than $40K,39,9511.0,2220
+M,Single,$120K +,43,10896.0,2517
+F,Married,Less than $40K,43,8401.0,1085
+F,Divorced,Unknown,45,12406.0,1980
+F,Divorced,Unknown,47,6769.0,274
+F,Married,Less than $40K,45,2737.0,0
+F,Unknown,Unknown,34,32292.0,1731
+M,Married,$120K +,52,34516.0,1588
+F,Unknown,Less than $40K,33,15987.0,1992
+M,Married,$60K - $80K,43,34516.0,1085
+M,Married,$40K - $60K,42,2437.0,1718
+M,Single,$80K - $120K,49,4557.0,985
+M,Single,$40K - $60K,55,10949.0,829
+F,Unknown,Less than $40K,39,10398.0,1630
+F,Single,$40K - $60K,40,22361.0,1873
+M,Single,$80K - $120K,46,3841.0,1411
+M,Single,$80K - $120K,46,34516.0,1954
+M,Single,$120K +,58,34516.0,0
+F,Married,Less than $40K,44,10877.0,1802
+M,Married,$40K - $60K,42,5848.0,1481
+M,Married,$60K - $80K,50,11552.0,1970
+M,Married,$80K - $120K,46,11901.0,2517
+M,Unknown,$80K - $120K,37,2273.0,0
+F,Unknown,Less than $40K,57,3082.0,2507
+M,Single,$40K - $60K,52,9298.0,1898
+F,Single,$40K - $60K,62,4136.0,0
+M,Unknown,$60K - $80K,45,12399.0,1461
+M,Single,$80K - $120K,57,15030.0,1395
+F,Married,Less than $40K,44,6441.0,2151
+F,Married,Unknown,42,7469.0,837
+F,Single,Less than $40K,40,3569.0,1054
+M,Unknown,Less than $40K,47,2781.0,1950
+M,Married,$120K +,51,34516.0,1991
+F,Married,Less than $40K,45,4174.0,2507
+M,Married,$60K - $80K,50,23223.0,628
+M,Married,Less than $40K,46,6954.0,1502
+F,Single,Less than $40K,47,7136.0,2345
+F,Single,Less than $40K,43,1820.0,0
+M,Married,$40K - $60K,52,2937.0,1633
+F,Single,Less than $40K,46,6636.0,2399
+M,Married,$60K - $80K,41,31497.0,2192
+M,Married,$120K +,52,34516.0,0
+F,Married,Less than $40K,52,1959.0,1022
+M,Married,$80K - $120K,51,34516.0,989
+M,Single,$60K - $80K,49,7801.0,2018
+M,Single,$120K +,55,6455.0,1837
+M,Divorced,$40K - $60K,46,11343.0,1175
+M,Married,$40K - $60K,43,23981.0,593
+F,Single,Less than $40K,46,2879.0,0
+M,Married,$80K - $120K,49,7667.0,2191
+M,Single,$120K +,41,34516.0,1022
+M,Single,$80K - $120K,37,6713.0,1590
+M,Married,$120K +,51,10984.0,1429
+M,Married,$120K +,50,34516.0,2517
+M,Single,$60K - $80K,57,23058.0,1534
+M,Married,$120K +,40,17606.0,1377
+M,Married,$120K +,52,34516.0,1464
+F,Divorced,$40K - $60K,45,18000.0,1829
+F,Married,Less than $40K,48,5550.0,2517
+F,Single,Less than $40K,39,1621.0,0
+F,Married,Less than $40K,49,3244.0,0
+M,Married,$40K - $60K,45,5800.0,1434
+F,Married,Less than $40K,43,2550.0,1421
+M,Divorced,$60K - $80K,45,34516.0,1509
+M,Single,$120K +,38,10874.0,2415
+M,Single,$80K - $120K,54,13769.0,0
+M,Divorced,$40K - $60K,39,17894.0,304
+F,Married,Less than $40K,49,15016.0,2016
+M,Single,$120K +,45,9036.0,0
+M,Single,$80K - $120K,54,12813.0,1998
+F,Married,Less than $40K,40,4660.0,1844
+M,Married,$60K - $80K,49,34516.0,1064
+M,Single,$80K - $120K,48,13174.0,0
+M,Single,Unknown,43,11210.0,1079
+M,Single,$120K +,42,31639.0,2446
+M,Married,$120K +,49,34516.0,1634
+M,Single,$120K +,43,34516.0,1742
+F,Married,Less than $40K,44,2490.0,1235
+M,Unknown,$80K - $120K,45,26438.0,1655
+F,Single,Less than $40K,38,7504.0,1134
+M,Married,$120K +,44,34516.0,1058
+M,Single,$120K +,45,34516.0,1488
+F,Married,Unknown,51,15048.0,2517
+M,Single,$80K - $120K,41,9357.0,1942
+M,Married,$60K - $80K,51,11548.0,0
+F,Single,Less than $40K,56,8767.0,1684
+M,Single,$40K - $60K,42,5306.0,2410
+F,Single,Unknown,52,3608.0,2517
+F,Married,Less than $40K,49,15987.0,2065
+M,Single,$120K +,50,31782.0,0
+M,Married,$120K +,42,34516.0,1440
+F,Married,$40K - $60K,45,19107.0,933
+M,Married,$80K - $120K,50,34516.0,1466
+M,Married,$80K - $120K,41,21751.0,1573
+F,Single,Less than $40K,44,7926.0,1051
+M,Single,$120K +,51,34516.0,1279
+M,Married,$80K - $120K,48,27984.0,1793
+M,Divorced,$60K - $80K,40,24499.0,2517
+M,Single,$80K - $120K,49,2221.0,1291
+M,Single,$80K - $120K,43,5858.0,961
+M,Single,$80K - $120K,51,27318.0,2416
+F,Single,Unknown,44,9766.0,1575
+M,Single,$60K - $80K,59,26692.0,2517
+M,Single,$60K - $80K,49,34516.0,913
+M,Single,$120K +,38,14938.0,0
+M,Married,$80K - $120K,52,33256.0,928
+M,Single,$120K +,49,34516.0,0
+M,Single,$40K - $60K,47,5791.0,1957
+F,Single,Unknown,51,2319.0,1347
+M,Married,$80K - $120K,46,17698.0,1769
+M,Single,$80K - $120K,52,34516.0,1701
+F,Single,Less than $40K,57,6482.0,1686
+M,Single,$60K - $80K,40,18975.0,0
+M,Divorced,$60K - $80K,44,34516.0,1652
+M,Single,$40K - $60K,47,2479.0,1748
+F,Unknown,Less than $40K,41,4941.0,1040
+M,Single,$60K - $80K,42,34516.0,2276
+F,Married,Unknown,44,8230.0,1333
+M,Married,$40K - $60K,44,22226.0,1864
+M,Single,$120K +,47,28852.0,1974
+M,Unknown,$40K - $60K,36,6893.0,1462
+M,Married,$60K - $80K,45,7653.0,1693
+M,Unknown,$80K - $120K,50,26840.0,769
+M,Divorced,$60K - $80K,41,4549.0,2109
+M,Divorced,$120K +,55,16828.0,2517
+M,Single,$40K - $60K,45,6530.0,1425
+F,Single,$40K - $60K,40,11642.0,1501
+M,Single,$80K - $120K,43,5390.0,1324
+F,Married,Less than $40K,49,7037.0,0
+M,Married,Less than $40K,47,8390.0,0
+M,Single,$60K - $80K,49,2122.0,1101
+M,Married,$40K - $60K,43,3442.0,2517
+F,Married,Less than $40K,44,6680.0,1839
+F,Single,Unknown,42,34516.0,1066
+F,Married,$40K - $60K,44,7244.0,2031
+M,Married,$80K - $120K,52,34516.0,1369
+M,Married,$60K - $80K,42,2476.0,2250
+F,Married,Less than $40K,40,2019.0,803
+F,Divorced,Less than $40K,54,8758.0,1511
+M,Divorced,$60K - $80K,62,6103.0,2517
+F,Single,Less than $40K,52,2166.0,1458
+F,Single,Less than $40K,50,3449.0,1634
+F,Divorced,Less than $40K,51,2984.0,2512
+F,Single,Less than $40K,54,13432.0,0
+F,Married,$40K - $60K,39,10830.0,2184
+M,Unknown,$80K - $120K,50,2673.0,0
+M,Married,$120K +,46,34516.0,1649
+M,Single,$60K - $80K,45,20633.0,1989
+M,Single,Unknown,61,9070.0,2097
+M,Unknown,$120K +,51,11954.0,0
+M,Married,$80K - $120K,50,34516.0,925
+M,Divorced,$80K - $120K,48,4479.0,0
+M,Married,Less than $40K,50,3968.0,2264
+F,Single,Unknown,58,2599.0,1407
+M,Divorced,$60K - $80K,46,10074.0,1223
+F,Married,$40K - $60K,46,10901.0,1874
+F,Single,Less than $40K,42,8325.0,0
+M,Single,$80K - $120K,38,34516.0,2008
+M,Single,$120K +,40,34516.0,2088
+M,Single,$80K - $120K,43,7196.0,696
+M,Married,$60K - $80K,48,34516.0,0
+M,Single,$80K - $120K,38,34516.0,1595
+M,Married,$120K +,46,32926.0,1540
+M,Unknown,$40K - $60K,44,18072.0,1378
+M,Single,$80K - $120K,50,24533.0,1813
+M,Unknown,$40K - $60K,39,4874.0,2317
+M,Unknown,$60K - $80K,50,12889.0,1822
+F,Married,Less than $40K,41,7531.0,1692
+F,Divorced,Less than $40K,49,1838.0,1155
+M,Married,$80K - $120K,42,30117.0,2129
+M,Single,$60K - $80K,46,5131.0,1484
+M,Single,$80K - $120K,44,34516.0,2517
+M,Single,$80K - $120K,53,24262.0,1984
+M,Single,$80K - $120K,51,34516.0,1228
+F,Unknown,Less than $40K,38,7385.0,1817
+M,Married,$60K - $80K,50,20708.0,1357
+F,Married,Less than $40K,47,14057.0,1381
+M,Unknown,$80K - $120K,38,34516.0,1132
+M,Married,$60K - $80K,45,17072.0,1519
+M,Single,$80K - $120K,52,25737.0,1168
+F,Single,Less than $40K,44,2211.0,768
+F,Unknown,Unknown,35,16950.0,0
+M,Married,$60K - $80K,44,15043.0,0
+M,Single,$80K - $120K,40,29338.0,159
+M,Single,$120K +,57,25808.0,0
+F,Married,Less than $40K,43,2248.0,1853
+F,Divorced,$40K - $60K,45,3670.0,1684
+F,Single,Less than $40K,44,8861.0,1149
+M,Married,$120K +,47,34516.0,1161
+M,Married,$60K - $80K,50,8014.0,1250
+F,Married,Less than $40K,44,2771.0,1779
+M,Married,$120K +,51,34516.0,1702
+F,Married,Unknown,45,8383.0,0
+F,Single,Less than $40K,44,15365.0,630
+F,Married,Less than $40K,48,2913.0,0
+F,Single,Less than $40K,40,4748.0,2085
+M,Single,$80K - $120K,50,34516.0,0
+F,Unknown,Less than $40K,38,2609.0,1259
+F,Single,$40K - $60K,43,11508.0,0
+F,Unknown,Less than $40K,45,2396.0,887
+M,Married,$120K +,49,18991.0,1208
+M,Married,$80K - $120K,44,10908.0,0
+M,Unknown,$40K - $60K,53,14627.0,1997
+M,Married,$40K - $60K,46,2219.0,1180
+M,Single,$80K - $120K,56,25736.0,1388
+M,Single,$60K - $80K,63,7997.0,1096
+M,Single,$40K - $60K,40,2849.0,1741
+M,Married,$80K - $120K,45,29227.0,1151
+M,Married,$120K +,52,34516.0,1382
+M,Married,$40K - $60K,50,12458.0,1332
+M,Single,$60K - $80K,62,7547.0,2477
+M,Married,$120K +,44,34516.0,0
+F,Married,Less than $40K,45,10677.0,0
+M,Unknown,$80K - $120K,53,2340.0,1612
+F,Single,$40K - $60K,38,23981.0,0
+F,Married,$40K - $60K,44,6329.0,1643
+M,Married,$40K - $60K,42,4960.0,1724
+M,Unknown,$60K - $80K,44,34516.0,1601
+F,Single,Less than $40K,55,15987.0,1973
+F,Single,Less than $40K,52,3244.0,1855
+M,Married,$60K - $80K,48,7298.0,2517
+M,Married,$80K - $120K,48,28307.0,1506
+M,Married,$40K - $60K,47,2430.0,1657
+M,Married,$120K +,49,7650.0,2045
+F,Divorced,$40K - $60K,47,6443.0,2073
+M,Married,$80K - $120K,47,13356.0,1497
+M,Single,$120K +,56,4675.0,1340
+M,Single,$40K - $60K,61,2177.0,1329
+M,Single,$120K +,45,34516.0,1411
+F,Married,Less than $40K,49,2821.0,1995
+F,Married,Less than $40K,44,6769.0,1133
+M,Unknown,$80K - $120K,50,34516.0,0
+M,Married,$120K +,51,30172.0,1825
+F,Single,Less than $40K,44,7742.0,1163
+M,Single,$80K - $120K,46,11814.0,1440
+M,Married,$80K - $120K,41,28687.0,1607
+M,Married,$60K - $80K,51,25653.0,2059
+F,Single,$40K - $60K,52,4705.0,890
+M,Married,$80K - $120K,39,19150.0,1093
+M,Single,$60K - $80K,38,34516.0,1494
+M,Married,$80K - $120K,51,11765.0,1429
+M,Divorced,$80K - $120K,41,16627.0,2118
+M,Married,$60K - $80K,43,13553.0,1448
+M,Married,$60K - $80K,40,11476.0,2365
+M,Single,$80K - $120K,58,5182.0,1459
+M,Married,$60K - $80K,44,23026.0,2517
+M,Married,$60K - $80K,48,18477.0,0
+M,Married,$80K - $120K,49,29890.0,0
+M,Unknown,$60K - $80K,48,8290.0,1030
+M,Married,$40K - $60K,44,16199.0,1533
+F,Single,Unknown,54,3723.0,1728
+M,Single,Less than $40K,45,12695.0,1613
+F,Single,Unknown,54,34516.0,0
+M,Married,$60K - $80K,46,30379.0,2175
+F,Single,$40K - $60K,37,9875.0,1239
+M,Married,$60K - $80K,41,34516.0,1559
+M,Married,$60K - $80K,43,2600.0,2047
+M,Single,$80K - $120K,39,34516.0,0
+M,Single,$60K - $80K,61,12218.0,0
+M,Married,$80K - $120K,51,34516.0,0
+F,Divorced,$40K - $60K,48,21754.0,0
+M,Single,$60K - $80K,46,8396.0,604
+F,Single,Less than $40K,39,15987.0,1494
+F,Single,Less than $40K,55,12094.0,1870
+M,Single,$60K - $80K,44,2946.0,743
+M,Single,$40K - $60K,48,17812.0,0
+F,Single,$40K - $60K,46,13743.0,0
+F,Single,$40K - $60K,39,23981.0,1696
+F,Divorced,$40K - $60K,45,15785.0,1174
+F,Single,Less than $40K,43,3015.0,0
+F,Married,$40K - $60K,40,19000.0,1568
+M,Married,$120K +,49,11714.0,949
+F,Single,$40K - $60K,39,11135.0,1563
+M,Married,$60K - $80K,47,34516.0,1349
+M,Single,$80K - $120K,42,34516.0,2273
+F,Divorced,Less than $40K,44,13259.0,866
+M,Married,$80K - $120K,47,5660.0,2210
+M,Single,$60K - $80K,63,23355.0,1061
+M,Married,$80K - $120K,49,20734.0,2517
+F,Married,$40K - $60K,43,2476.0,1396
+M,Single,$120K +,55,34516.0,2443
+F,Unknown,Less than $40K,46,7552.0,0
+M,Married,Less than $40K,42,14630.0,0
+M,Single,$40K - $60K,43,6080.0,787
+M,Single,$80K - $120K,51,28605.0,0
+M,Unknown,$80K - $120K,49,2886.0,925
+F,Single,Unknown,51,34516.0,531
+F,Divorced,Less than $40K,31,10850.0,1873
+M,Divorced,$80K - $120K,43,24244.0,1649
+M,Single,$60K - $80K,59,17218.0,1829
+F,Married,Unknown,41,14746.0,0
+M,Single,$120K +,53,34516.0,1051
+M,Single,$80K - $120K,39,34458.0,846
+M,Single,$120K +,57,34516.0,2517
+M,Divorced,$40K - $60K,60,9369.0,1813
+M,Unknown,$80K - $120K,51,22741.0,2176
+F,Single,$40K - $60K,46,9110.0,2517
+M,Married,$60K - $80K,45,34516.0,1308

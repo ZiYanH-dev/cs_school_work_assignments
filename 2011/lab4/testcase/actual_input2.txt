@@ -1,0 +1,49 @@
+Please enter the game board you want to select: 0
+Please the row and col you want to explore (e.g., 2 3 means row 2 column 3): 0 1
+Smart move~~
+- 1 - - - 
+- - - - - 
+- - - - - 
+- - - - - 
+- - - - - 
+
+Please the row and col you want to explore (e.g., 2 3 means row 2 column 3): 0 2
+Smart move~~
+- 1 1 - - 
+- - - - - 
+- - - - - 
+- - - - - 
+- - - - - 
+
+Please the row and col you want to explore (e.g., 2 3 means row 2 column 3): 1 3
+Smart move~~
+- 1 1 - - 
+- - - 3 - 
+- - - - - 
+- - - - - 
+- - - - - 
+
+Please the row and col you want to explore (e.g., 2 3 means row 2 column 3): 1 4
+Smart move~~
+- 1 1 - - 
+- - - 3 1 
+- - - - - 
+- - - - - 
+- - - - - 
+
+Please the row and col you want to explore (e.g., 2 3 means row 2 column 3): 4 1
+Smart move~~
+- 1 1 - - 
+- - - 3 1 
+- - - - - 
+- - - - - 
+- 2 - - - 
+
+Please the row and col you want to explore (e.g., 2 3 means row 2 column 3): 4 3
+OOPPSSS... wish you a lucky game next time!
+- 1 1 - - 
+- - * 3 1 
+* - * - * 
+- * - - - 
+* 2 - ! - 
+

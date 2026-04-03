@@ -1,0 +1,14 @@
+Please enter the grid of this map: 
+A A A A A 
+A A A A A 
+B B B C C 
+B B B C C 
+B B B C C 
+
+Here is the region by id: 
+0 0 0 0 0 
+0 0 0 0 0 
+1 1 1 2 2 
+1 1 1 2 2 
+1 1 1 2 2 
+

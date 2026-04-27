@@ -1,0 +1,46 @@
+Welcome to the Potion Brewery Inventory System!
+Initializing...
+Enter shop name: Enter max inventory size: ======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Fire Resistance added successfully.
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Invisibility Serum added successfully.
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Inventory full! Cannot add Stamina Tonic.
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: === Inventory of Dragon Flask ===
+Invisibility Serum (qty: 3) - Price: 100.0 gold, Weight: 0.2 kg
+Fire Resistance (qty: 8) - Price: 30.0 gold, Weight: 0.4 kg
+Total inventory value: 540.0 gold
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Closing shop...
+Shop closed. Goodbye!

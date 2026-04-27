@@ -1,0 +1,20 @@
+Wizard Mart
+3
+1
+Speed Boost
+4
+60.0
+0.3
+1
+Shield Elixir
+7
+45.0
+0.5
+1
+Night Vision
+10
+20.0
+0.2
+2
+4
+0

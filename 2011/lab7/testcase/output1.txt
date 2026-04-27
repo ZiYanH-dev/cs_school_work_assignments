@@ -1,0 +1,38 @@
+Welcome to the Potion Brewery Inventory System!
+Initializing...
+Enter shop name: Enter max inventory size: ======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Health Potion added successfully.
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Mana Elixir added successfully.
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: === Inventory of Mystic Brews ===
+Mana Elixir (qty: 5) - Price: 40.0 gold, Weight: 0.3 kg
+Health Potion (qty: 10) - Price: 25.0 gold, Weight: 0.5 kg
+Total inventory value: 450.0 gold
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Closing shop...
+Shop closed. Goodbye!

@@ -1,0 +1,46 @@
+Welcome to the Potion Brewery Inventory System!
+Initializing...
+Enter shop name: Enter max inventory size: ======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Healing Herb added successfully.
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Strength Potion added successfully.
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Enter item name: Enter additional quantity: Healing Herb restocked. New quantity: 25
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: === Inventory of Alchemy Corner ===
+Strength Potion (qty: 6) - Price: 50.0 gold, Weight: 0.8 kg
+Healing Herb (qty: 25) - Price: 10.0 gold, Weight: 0.1 kg
+Total inventory value: 550.0 gold
+======================================
+0. Quit
+1. Add an item
+2. Remove most expensive item
+3. Restock an item
+4. Display inventory
+======================================
+Option: Closing shop...
+Shop closed. Goodbye!

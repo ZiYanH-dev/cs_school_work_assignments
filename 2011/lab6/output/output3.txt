@@ -1,0 +1,57 @@
+Please enter the number of operations: 5
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: kplee
+Please enter the gender of the student (M/F): M
+Please enter the year of entry: 2021
+Please enter the month of entry: 5
+Please enter the day of entry: 10
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: jsmith
+Please enter the gender of the student (M/F): F
+Please enter the year of entry: 2020
+Please enter the month of entry: 3
+Please enter the day of entry: 15
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: mzhang
+Please enter the gender of the student (M/F): M
+Please enter the year of entry: 2019
+Please enter the month of entry: 11
+Please enter the day of entry: 20
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: yywong
+Please enter the gender of the student (M/F): F
+Please enter the year of entry: 2022
+Please enter the month of entry: 1
+Please enter the day of entry: 1
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): P
+Popped:
+Student mzhang
+- ID: 2
+- Gender: M
+- Date of Entry: 2019-11-20
+=====================================
+All records:
+=====================================
+Student jsmith
+- ID: 1
+- Gender: F
+- Date of Entry: 2020-3-15
+=====================================
+Student kplee
+- ID: 0
+- Gender: M
+- Date of Entry: 2021-5-10
+=====================================
+Student yywong
+- ID: 3
+- Gender: F
+- Date of Entry: 2022-1-1
+=====================================

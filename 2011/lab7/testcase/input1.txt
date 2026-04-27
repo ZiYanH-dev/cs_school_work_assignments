@@ -1,0 +1,14 @@
+Mystic Brews
+3
+1
+Health Potion
+10
+25.0
+0.5
+1
+Mana Elixir
+5
+40.0
+0.3
+4
+0

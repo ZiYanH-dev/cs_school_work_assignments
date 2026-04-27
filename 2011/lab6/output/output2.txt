@@ -1,0 +1,62 @@
+Please enter the number of operations: 5
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: yywong
+Please enter the gender of the student (M/F): M
+Please enter the year of entry: 2020
+Please enter the month of entry: 8
+Please enter the day of entry: 30
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: whding
+Please enter the gender of the student (M/F): F
+Please enter the year of entry: 2021
+Please enter the month of entry: 9
+Please enter the day of entry: 1
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: tmchan
+Please enter the gender of the student (M/F): M
+Please enter the year of entry: 2019
+Please enter the month of entry: 1
+Please enter the day of entry: 1
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: aaa
+Please enter the gender of the student (M/F): M
+Please enter the year of entry: 2018
+Please enter the month of entry: 6
+Please enter the day of entry: 15
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): G
+Earliest:
+Student aaa
+- ID: 3
+- Gender: M
+- Date of Entry: 2018-6-15
+=====================================
+All records:
+=====================================
+Student aaa
+- ID: 3
+- Gender: M
+- Date of Entry: 2018-6-15
+=====================================
+Student tmchan
+- ID: 2
+- Gender: M
+- Date of Entry: 2019-1-1
+=====================================
+Student yywong
+- ID: 0
+- Gender: M
+- Date of Entry: 2020-8-30
+=====================================
+Student whding
+- ID: 1
+- Gender: F
+- Date of Entry: 2021-9-1
+=====================================

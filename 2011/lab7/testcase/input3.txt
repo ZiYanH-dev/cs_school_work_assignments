@@ -1,0 +1,17 @@
+Alchemy Corner
+3
+1
+Healing Herb
+20
+10.0
+0.1
+1
+Strength Potion
+6
+50.0
+0.8
+3
+Healing Herb
+5
+4
+0

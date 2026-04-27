@@ -1,0 +1,19 @@
+Dragon Flask
+2
+1
+Fire Resistance
+8
+30.0
+0.4
+1
+Invisibility Serum
+3
+100.0
+0.2
+1
+Stamina Tonic
+12
+15.0
+0.6
+4
+0

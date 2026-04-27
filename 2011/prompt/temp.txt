@@ -1,0 +1,258 @@
+COMP2011 Lab 7: Potion Brewery Inventory System
+Introduction
+Tasks
+Sample Input/Output
+Checking Before Submission
+Grading Scheme
+
+PHAM, Trung Kien
+tkpham@connect.ust.hk
+ 
+COMP2011 Lab 7: Potion Brewery Inventory System
+Responsive image
+Manage your magical inventory with pointers and structs!
+
+Introduction
+Welcome to COMP2011 Lab 7 — Potion Brewery Inventory System. In this lab, you will design and implement a small inventory management system for a magical potion shop. This lab emphasizes the use of C++ structs and pointers through an entertaining RPG-themed scenario.
+
+As the owner of a potion brewery, you need a system to manage your stock of magical items. You will implement a program that allows users to add items, remove the most expensive item, restock existing items, and display the sorted inventory — effectively a CRUD (Create, Read, Update, Delete) system for potion shop management.
+
+Through this lab, you will practice:
+
+Defining and using C++ structs
+Working with pointers to structs (Item*, Inventory*)
+Using the arrow operator (->) to access struct members through pointers
+Maintaining an array of pointers (Item* itemPtrs[]) alongside the data array
+Sorting via pointers — rearranging itemPtrs[] without moving the actual Item objects
+Passing structs by pointer to functions for reading and modification
+Managing C-strings with strncpy and strcmp
+The overall goal: build an inventory system using structs and pointers, practicing the -> operator and pointer-based sorting throughout.
+
+Project Files
+File	Description	Modify?
+lab7.h	Struct definitions and function declarations	No
+lab7.cpp	Implementation of required functions (Tasks 1–6)	Yes
+main.cpp	Main program with interactive menu (provided)	No
+Before you start the lab, please download this lab7.zip, which contains the skeleton code and public test cases.
+
+Key Pointer Concepts in This Lab
+Notice how main.cpp declares a local Inventory inv; variable and passes its address &inv to all functions. Inside those functions, you access members using the arrow operator:
+
+// In main.cpp:
+Inventory inv;
+initInventory(&inv, shopName, maxItems);  // pass address of inv
+addItem(&inv, name, qty, price, weight);  // pass address of inv
+
+// Inside the functions, 'inv' is a pointer (Inventory*):
+inv->itemCount    // access member through pointer (arrow operator)
+inv->items[i]     // access array element through pointer
+&inv->items[i]    // get address of an array element (returns Item*)
+
+// The itemPtrs[] array stores pointers into items[]:
+inv->itemPtrs[i]           // an Item* that points somewhere into items[]
+inv->itemPtrs[i]->price    // access a field via the pointer-of-pointer chain
+Tasks
+Task 1 — Initialize an Item
+Start by implementing initItem(), which takes an Item* and sets all of its fields using the arrow operator (->).
+
+The Item struct and Inventory struct are already defined in lab7.h:
+
+struct Item {
+    char name[MAX_NAME_LENGTH];   // item name (e.g., "Health Potion")
+    int quantity;                  // number in stock
+    double price;                 // price per unit in gold
+    double weight;                // weight per unit in kg
+};
+
+struct Inventory {
+    char shopName[MAX_NAME_LENGTH];  // name of the shop
+    Item items[MAX_ITEMS];           // fixed-size array of Items (insertion order)
+    Item* itemPtrs[MAX_ITEMS];       // array of pointers into items[] (used for sorting)
+    int itemCount;                   // current number of distinct items
+    int capacity;                    // user-chosen limit on distinct items (<= MAX_ITEMS)
+};
+Notice that Inventory has two parallel arrays: items[] stores the actual Item data in insertion order, and itemPtrs[] stores pointers into items[]. The pointer array allows sorting the display order without moving the underlying data.
+
+void initItem(Item* item, const char name[], int quantity, double price, double weight) {
+    // TODO: Implement this function
+}
+Task 2 — Display an Item
+Implement displayItem(), which takes a const Item* and prints the item information.
+
+Output format: Health Potion (qty: 10) - Price: 25.0 gold, Weight: 0.5 kg
+
+Use fixed and setprecision(1) for price and weight.
+
+void displayItem(const Item* item) {
+    // TODO: Implement this function
+}
+Task 3 — Initialize Inventory
+Implement initInventory() to set up an empty inventory: copy the shop name, set capacity, and set itemCount = 0.
+
+void initInventory(Inventory* inv, const char shopName[], int capacity) {
+    // TODO: Implement this function
+}
+Task 4 — Add an Item (Create)
+Implement addItem() to insert a new item into the inventory.
+
+If inventory is full (inv->itemCount >= inv->capacity), print "Inventory full! Cannot add <name>." and return false.
+Otherwise, call initItem() on the next available slot. Key concept: pass &inv->items[inv->itemCount] — this takes the address of an array element to get an Item*.
+Insert the new pointer into itemPtrs[] at the right position so the array stays sorted by unit price descending (highest first).
+Increment inv->itemCount and print "<name> added successfully."
+bool addItem(Inventory* inv, const char name[], int quantity, double price, double weight) {
+    // TODO: Implement this function
+}
+Task 5 — Restock an Item (Update)
+Implement restockItem() to find an item by name in items[] and increase its quantity.
+
+Note: capacity limits the number of distinct items, not the total quantity. Restocking an existing item is always allowed regardless of capacity.
+
+bool restockItem(Inventory* inv, const char name[], int additionalQty) {
+    // TODO: Implement this function
+}
+Task 6 — Remove the Most Expensive Item (Delete)
+Implement removeMostExpensive() to find and remove the item with the highest total value (quantity × price).
+
+If inventory is empty, print "Inventory is empty. Nothing to remove." and return false.
+Find the index of the item in items[] with the highest quantity * price.
+Print "Removed: <name> (Total value: X.X gold)"
+Shift remaining items left to fill the gap: inv->items[i] = inv->items[i+1]
+Decrement inv->itemCount
+Rebuild itemPtrs[] and keep it sorted by unit price descending.
+bool removeMostExpensive(Inventory* inv) {
+    // TODO: Implement this function
+}
+Provided: Display Inventory (Sorted)
+displayInventory() is provided so you do not need to implement output formatting.
+
+Print "=== Inventory of <shopName> ==="
+If empty, print "(empty)". Otherwise, iterate itemPtrs[] and call displayItem() for each.
+Compute the total inventory value inline: sum of (quantity × price) for each item.
+Print "Total inventory value: X.X gold"
+=== Inventory of Mystic Brews ===
+Mana Elixir (qty: 5) - Price: 40.0 gold, Weight: 0.3 kg
+Health Potion (qty: 10) - Price: 25.0 gold, Weight: 0.5 kg
+Total inventory value: 450.0 gold
+Notice how items are displayed sorted by unit price (Mana Elixir at 40.0 gold before Health Potion at 25.0 gold), even though Health Potion was added first.
+
+Sample Input/Output
+The following samples demonstrate how your Potion Brewery Inventory System interacts with users. The system displays a menu where users can choose options (0–4) to perform different operations.
+
+Sample Input 1 — Add and Display (Sorted)
+Mystic Brews
+3
+1
+Health Potion
+10
+25.0
+0.5
+1
+Mana Elixir
+5
+40.0
+0.3
+4
+0
+Expected Output 1
+Welcome to the Potion Brewery Inventory System!
+Initializing...
+Enter shop name: Enter max inventory size: ======================================
+...
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Health Potion added successfully.
+...
+Option: Enter item name: Enter quantity: Enter price (gold): Enter weight (kg): Mana Elixir added successfully.
+...
+Option: === Inventory of Mystic Brews ===
+Mana Elixir (qty: 5) - Price: 40.0 gold, Weight: 0.3 kg
+Health Potion (qty: 10) - Price: 25.0 gold, Weight: 0.5 kg
+Total inventory value: 450.0 gold
+...
+Option: Closing shop...
+Shop closed. Goodbye!
+Notice items are displayed sorted by unit price descending (Mana Elixir at 40.0 before Health Potion at 25.0), regardless of the order they were added.
+
+Sample Input 2 — Full Inventory and Remove
+Wizard Mart
+3
+1
+Speed Boost
+4
+60.0
+0.3
+1
+Shield Elixir
+7
+45.0
+0.5
+1
+Night Vision
+10
+20.0
+0.2
+2
+4
+0
+Expected Output 2
+...
+Option: Enter item name: ... Speed Boost added successfully.
+...
+Option: Enter item name: ... Shield Elixir added successfully.
+...
+Option: Enter item name: ... Night Vision added successfully.
+...
+Option: Removed: Shield Elixir (Total value: 315.0 gold)
+...
+Option: === Inventory of Wizard Mart ===
+Speed Boost (qty: 4) - Price: 60.0 gold, Weight: 0.3 kg
+Night Vision (qty: 10) - Price: 20.0 gold, Weight: 0.2 kg
+Total inventory value: 440.0 gold
+...
+Option: Closing shop...
+Shop closed. Goodbye!
+The "most expensive" item is determined by total value (quantity × price). Shield Elixir has the highest total value (7 × 45.0 = 315.0 gold), so it is removed.
+
+Checking Before Submission
+ZINC testing instructions
+You should upload your modified lab7.cpp to ZINC. Submit only lab7.cpp (a single file, no zip needed). Note that if other files are included, any changes made by students will be ignored.
+
+ZINC submission platform
+Please compare your outputs with the desired outputs in ZINC:
+
+You should see the following if the test cases are correct:
+
+
+You should see the following if the test cases are wrong:
+
+
+For the wrong cases, you can click the "Details" button, and then check the side-by-side comparsion
+You may see an error report like this (for illustration, not related to the actual test cases):
+
+
+The left side is the expected output
+The right side is your program output
+The differences are highlighted in red and green
+Local testing instructions
+DO NOT use cerr because ZINC cannot grade cerr output. You can check this problem by following the checking procedures below.
+DO NOT return a non-zero return code (e.g., return -1;) in the main function. ZINC will treat your program as "crash" and won't continue the grading.
+Please compare your outputs with the desired outputs:
+
+In VSCode, please open the terminal by one of the following two ways:
+Press the key Ctrl+Shift+` in Windows/Linux, or Control+Shift+Backquote in Mac
+The shortcut keys are for VSCode
+From the menubar, select Terminal > New Terminal
+And then run this code to compile your code:
+g++ -std=c++11 main.cpp lab7.cpp -o lab7
+You need to redirect the input of executable program to the txt test case files we provided, and redirect the output to different txt files. Here are the commands:
+In MacOS or Linux:
+./lab7 < testcase/input1.txt > myOutput1.txt
+In Windows:
+Get-Content testcase/input1.txt | ./lab7 > myOutput1.txt
+Please replace the filenames accordingly if you would like to check other output files.
+
+After that, you can compare your own output text files with the desired outputs one by one. You can compare any two files by VSCode:
+Right click the first file you want to compare in VSCode Explorer, choose Select for CompareResponsive image
+Right click the second file you want to compare in VSCode Explorer, choose Compare with SelectedResponsive image
+Grading Scheme
+Each lab carries 3 points in total.
+
+For details, please refer to lab policy on the course website.

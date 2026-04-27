@@ -1,0 +1,29 @@
+Please enter the number of operations: 2
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: alice
+Please enter the gender of the student (M/F): F
+Please enter the year of entry: 2020
+Please enter the month of entry: 9
+Please enter the day of entry: 1
+Insert successful!
+=====================================
+Please enter operation (I/P/G/E): I
+Please enter the ITSO username of the student: bob
+Please enter the gender of the student (M/F): M
+Please enter the year of entry: 2019
+Please enter the month of entry: 3
+Please enter the day of entry: 15
+Insert successful!
+=====================================
+All records:
+=====================================
+Student bob
+- ID: 1
+- Gender: M
+- Date of Entry: 2019-3-15
+=====================================
+Student alice
+- ID: 0
+- Gender: F
+- Date of Entry: 2020-9-1
+=====================================
